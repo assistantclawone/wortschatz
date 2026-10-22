@@ -1,0 +1,63 @@
+der|bestimmter Artikel maskulin|A1|ALL|INT|Der Mann wartet vor der Tür.|en=the,es=el,fr=le,it=il,pt=o,tr=-,ar=ال,ru=определённый артикль,pl=rodzajnik,uk=означений артикль|
+die|bestimmter Artikel feminin|A1|ALL|INT|Die Frau arbeitet im Büro.|en=the,es=la,fr=la,it=la,pt=a,tr=-,ar=ال,ru=определённый артикль,pl=rodzajnik,uk=означений артикль|
+ein|unbestimmter Artikel maskulin/neutrum|A1|ALL|INT|Ich brauche ein Taxi zum Bahnhof.|en=a/an,es=un,fr=un,it=un,pt=um,tr=bir,ar=أحد,ru=один,pl=jeden,uk=один|
+eine|unbestimmter Artikel feminin|A1|ALL|INT|Sie kauft eine Flasche Wasser.|en=a/an,es=una,fr=une,it=una,pt=uma,tr=bir,ar=واحدة,ru=одна,pl=jedna,uk=одна|
+ist|ist (3. Person von sein)|A1|ALL|INT|Das ist mein Bruder.|en=is,es=es,fr=est,it=è,pt=é,tr=-dir,ar=يكون,ru=есть,pl=jest,uk=є|
+bin|bin (1. Person von sein)|A1|ALL|INT|Ich bin heute sehr müde.|en=am,es=soy,fr=suis,it=sono,pt=sou,tr=-im,ar=أكون,ru=есмь,pl=jestem,uk=є|
+sind|sind (1./3. Person Plural von sein)|A1|ALL|INT|Wir sind zu Hause.|en=are,es=somos,fr=sommes,it=siamo,pt=somos,tr=-iz,ar=نكون,ru=есть,pl=jesteśmy,uk=є|
+es|es (Pronomen)|A1|ALL|INT|Es regnet heute stark.|en=it,es=ello,fr=il,it=esso,pt=isso,tr=o,ar=هو,ru=оно,pl=to,uk=воно|
+zu|zu / nach (Präposition)|A1|ALL|INT|Ich gehe zu Fuss zur Arbeit.|en=to,es=a,fr=à,it=a,pt=para,tr=-e,ar=إلى,ru=к,pl=do,uk=до|
+von|von (Präposition)|A1|ALL|INT|Ich komme von der Arbeit.|en=from,es=de,fr=de,it=da,pt=de,tr=-den,ar=من,ru=от,pl=z,uk=від|
+mit|mit (Präposition)|A1|ALL|INT|Ich fahre mit dem Bus.|en=with,es=con,fr=avec,it=con,pt=com,tr=ile,ar=مع,ru=с,pl=z,uk=з|
+auf|auf (Präposition)|A1|ALL|INT|Das Buch liegt auf dem Tisch.|en=on,es=sobre,fr=sur,it=su,pt=em,tr=üstünde,ar=على,ru=на,pl=na,uk=на|
+für|für (Präposition)|A1|ALL|INT|Das Geschenk ist für meine Mutter.|en=for,es=para,fr=pour,it=per,pt=para,tr=için,ar=لأجل,ru=для,pl=dla,uk=для|
+an|an (Präposition)|A1|ALL|INT|Das Bild hängt an der Wand.|en=at/on,es=en,fr=à,it=a,pt=em,tr=de,ar=عند,ru=у,pl=przy,uk=біля|
+bei|bei (Präposition)|A1|ALL|INT|Ich wohne bei meinen Eltern.|en=at/near,es=en,fr=chez,it=da,pt=em,tr=yanında,ar=عند,ru=у,pl=u,uk=у|
+nach|nach (Präposition)|A1|ALL|INT|Nach dem Essen gehen wir spazieren.|en=after,es=después,fr=après,it=dopo,pt=depois,tr=sonra,ar=بعد,ru=после,pl=po,uk=після|
+aus|aus (Präposition)|A1|ALL|INT|Ich komme aus der Schweiz.|en=from,es=de,fr=de,it=da,pt=de,tr=-dan,ar=من,ru=из,pl=z,uk=з|
+vor|vor (Präposition)|A1|ALL|INT|Wir treffen uns vor dem Bahnhof.|en=in front of,es=delante,fr=devant,it=davanti,pt=diante,tr=önünde,ar=أمام,ru=перед,pl=przed,uk=перед|
+über|über (Präposition)|A1|ALL|INT|Die Lampe hängt über dem Tisch.|en=over,es=sobre,fr=au-dessus,it=sopra,pt=sobre,tr=üstünde,ar=فوق,ru=над,pl=nad,uk=над|
+auch|auch (Adverb)|A1|ALL|INT|Ich komme auch mit.|en=also,es=también,fr=aussi,it=anche,pt=também,tr=de,ar=أيضا,ru=тоже,pl=też,uk=також|
+noch|noch (Adverb)|A1|ALL|INT|Ich habe noch eine Frage.|en=still/yet,es=todavía,fr=encore,it=ancora,pt=ainda,tr=hâlâ,ar=لا يزال,ru=ещё,pl=jeszcze,uk=ще|
+nur|nur (Adverb)|A1|ALL|INT|Ich habe nur zehn Minuten Zeit.|en=only,es=solo,fr=seulement,it=solo,pt=só,tr=sadece,ar=فقط,ru=только,pl=tylko,uk=лише|
+schon|schon (Adverb)|A1|ALL|INT|Es ist schon spät.|en=already,es=ya,fr=déjà,it=già,pt=já,tr=artık,ar=بالفعل,ru=уже,pl=już,uk=вже|
+immer|immer (Adverb)|A1|ALL|INT|Er kommt immer zu spät.|en=always,es=siempre,fr=toujours,it=sempre,pt=sempre,tr=her zaman,ar=دائما,ru=всегда,pl=zawsze,uk=завжди|
+sehr|sehr (Adverb)|A1|ALL|INT|Das Wetter ist sehr schön.|en=very,es=muy,fr=très,it=molto,pt=muito,tr=çok,ar=جدا,ru=очень,pl=bardzo,uk=дуже|
+gut|gut (Adjektiv)|A1|ALL|INT|Das Essen schmeckt sehr gut.|en=good,es=bueno,fr=bon,it=buono,pt=bom,tr=iyi,ar=جيد,ru=хороший,pl=dobry,uk=добрий|
+gross|gross (Adjektiv)|A1|ALL|INT|Unsere Wohnung ist sehr gross.|en=big,es=grande,fr=grand,it=grande,pt=grande,tr=büyük,ar=كبير,ru=большой,pl=duży,uk=великий|
+klein|klein (Adjektiv)|A1|ALL|INT|Das Kind trägt kleine Schuhe.|en=small,es=pequeño,fr=petit,it=piccolo,pt=pequeno,tr=küçük,ar=صغير,ru=маленький,pl=mały,uk=малий|
+neu|neu (Adjektiv)|A1|ALL|INT|Ich habe ein neues Handy.|en=new,es=nuevo,fr=nouveau,it=nuovo,pt=novo,tr=yeni,ar=جديد,ru=новый,pl=nowy,uk=новий|
+gehen|gehen (Verb)|A1|ALL|INT|Wir gehen jetzt nach Hause.|en=go,es=ir,fr=aller,it=andare,pt=ir,tr=gitmek,ar=يذهب,ru=идти,pl=iść,uk=йти|
+kommen|kommen (Verb)|A1|ALL|INT|Bitte kommen Sie um acht Uhr.|en=come,es=venir,fr=venir,it=venire,pt=vir,tr=gelmek,ar=يأتي,ru=приходить,pl=przychodzić,uk=приходити|
+machen|machen (Verb)|A1|ALL|INT|Was machst du am Wochenende?|en=do,es=hacer,fr=faire,it=fare,pt=fazer,tr=yapmak,ar=يفعل,ru=делать,pl=robić,uk=робити|
+geben|geben (Verb)|A1|ALL|INT|Bitte geben Sie mir die Speisekarte.|en=give,es=dar,fr=donner,it=dare,pt=dar,tr=vermek,ar=يعطي,ru=давать,pl=dawać,uk=давати|
+nehmen|nehmen (Verb)|A1|ALL|INT|Ich nehme den Zug um sieben.|en=take,es=tomar,fr=prendre,it=prendere,pt=pegar,tr=almak,ar=يأخذ,ru=брать,pl=brać,uk=брати|
+sehen|sehen (Verb)|A1|ALL|INT|Ich sehe den Bus nicht mehr.|en=see,es=ver,fr=voir,it=vedere,pt=ver,tr=görmek,ar=يرى,ru=видеть,pl=widzieć,uk=бачити|
+sagen|sagen (Verb)|A1|ALL|INT|Sagen Sie bitte Ihren Namen.|en=say,es=decir,fr=dire,it=dire,pt=dizer,tr=söylemek,ar=يقول,ru=говорить,pl=mówić,uk=говорити|
+sprechen|sprechen (Verb)|A1|ALL|INT|Ich spreche ein bisschen Deutsch.|en=speak,es=hablar,fr=parler,it=parlare,pt=falar,tr=konuşmak,ar=يتكلم,ru=говорить,pl=mówić,uk=говорити|
+können|können (Modalverb)|A1|ALL|INT|Können Sie mir bitte helfen?|en=can,es=poder,fr=pouvoir,it=potere,pt=poder,tr=-ebilmek,ar=يستطيع,ru=мочь,pl=móc,uk=могти|
+müssen|müssen (Modalverb)|A1|ALL|INT|Ich muss heute länger arbeiten.|en=must,es=deber,fr=devoir,it=dovere,pt=dever,tr=-meli,ar=يجب,ru=должен,pl=musieć,uk=мусіти|
+wollen|wollen (Modalverb)|A1|ALL|INT|Ich will einen Kaffee trinken.|en=want,es=querer,fr=vouloir,it=volere,pt=querer,tr=istemek,ar=يريد,ru=хотеть,pl=chcieć,uk=хотіти|
+mögen|mögen (Verb)|A1|ALL|INT|Ich mag keinen Fisch.|en=like,es=gustar,fr=aimer,it=piacere,pt=gostar,tr=sevmek,ar=يحب,ru=любить,pl=lubić,uk=любити|
+möchten|möchten (höflich wollen)|A1|ALL|INT|Ich möchte bitte bezahlen.|en=would like,es=quisiera,fr=voudrais,it=vorrei,pt=gostaria,tr=istemek,ar=أود,ru=хотел бы,pl=chciałbym,uk=хотів би|
+werden|werden (Verb)|A1|ALL|INT|Es wird bald dunkel.|en=become,es=volverse,fr=devenir,it=diventare,pt=tornar-se,tr=olmak,ar=يصبح,ru=становиться,pl=stawać się,uk=ставати|
+bleiben|bleiben (Verb)|A1|ALL|INT|Ich bleibe heute zu Hause.|en=stay,es=quedarse,fr=rester,it=restare,pt=ficar,tr=kalmak,ar=يبقى,ru=оставаться,pl=zostawać,uk=залишатися|
+wohnen|wohnen (Verb)|A1|ALL|INT|Ich wohne in einer kleinen Wohnung.|en=live,es=vivir,fr=habiter,it=abitare,pt=morar,tr=oturmak,ar=يسكن,ru=жить,pl=mieszkać,uk=жити|
+arbeiten|arbeiten (Verb)|A1|ALL|INT|Ich arbeite in einem Büro.|en=work,es=trabajar,fr=travailler,it=lavorare,pt=trabalhar,tr=çalışmak,ar=يعمل,ru=работать,pl=pracować,uk=працювати|
+lernen|lernen (Verb)|A1|ALL|INT|Ich lerne jeden Tag Deutsch.|en=learn,es=aprender,fr=apprendre,it=imparare,pt=aprender,tr=öğrenmek,ar=يتعلم,ru=учить,pl=uczyć się,uk=вчити|
+verstehen|verstehen (Verb)|A1|ALL|INT|Ich verstehe die Frage nicht.|en=understand,es=entender,fr=comprendre,it=capire,pt=entender,tr=anlamak,ar=يفهم,ru=понимать,pl=rozumieć,uk=розуміти|
+wissen|wissen (Verb)|A1|ALL|INT|Ich weiss den Weg nicht.|en=know,es=saber,fr=savoir,it=sapere,pt=saber,tr=bilmek,ar=يعرف,ru=знать,pl=wiedzieć,uk=знати|
+kaufen|kaufen (Verb)|A1|ALL|INT|Ich kaufe Brot und Milch.|en=buy,es=comprar,fr=acheter,it=comprare,pt=comprar,tr=almak,ar=يشتري,ru=покупать,pl=kupować,uk=купувати|
+essen|essen (Verb)|A1|ALL|INT|Wir essen um zwölf Uhr.|en=eat,es=comer,fr=manger,it=mangiare,pt=comer,tr=yemek,ar=يأكل,ru=есть,pl=jeść,uk=їсти|
+trinken|trinken (Verb)|A1|ALL|INT|Ich trinke gern Mineralwasser.|en=drink,es=beber,fr=boire,it=bere,pt=beber,tr=içmek,ar=يشرب,ru=пить,pl=pić,uk=пити|
+schlafen|schlafen (Verb)|A1|ALL|INT|Ich schlafe jede Nacht sieben Stunden.|en=sleep,es=dormir,fr=dormir,it=dormire,pt=dormir,tr=uyumak,ar=ينام,ru=спать,pl=spać,uk=спати|
+helfen|helfen (Verb)|A1|ALL|INT|Kannst du mir bitte helfen?|en=help,es=ayudar,fr=aider,it=aiutare,pt=ajudar,tr=yardım etmek,ar=يساعد,ru=помогать,pl=pomagać,uk=допомагати|
+brauchen|brauchen (Verb)|A1|ALL|INT|Ich brauche noch einen Stift.|en=need,es=necesitar,fr=avoir besoin,it=avere bisogno,pt=precisar,tr=ihtiyaç duymak,ar=يحتاج,ru=нуждаться,pl=potrzebować,uk=потребувати|
+tag|Tag (Tageszeit)|A1|ALL|INT|Der Tag war sehr lang.|en=day,es=día,fr=jour,it=giorno,pt=dia,tr=gün,ar=يوم,ru=день,pl=dzień,uk=день|
+zeit|Zeit|A1|ALL|INT|Ich habe keine Zeit.|en=time,es=tiempo,fr=temps,it=tempo,pt=tempo,tr=zaman,ar=وقت,ru=время,pl=czas,uk=час|
+jahr|Jahr|A1|ALL|INT|Das Jahr hat zwölf Monate.|en=year,es=año,fr=année,it=anno,pt=ano,tr=yıl,ar=سنة,ru=год,pl=rok,uk=рік|
+mensch|Mensch|A1|ALL|INT|Jeder Mensch ist anders.|en=person,es=persona,fr=personne,it=persona,pt=pessoa,tr=insan,ar=إنسان,ru=человек,pl=człowiek,uk=людина|
+kind|Kind|A1|ALL|INT|Das Kind spielt im Garten.|en=child,es=niño,fr=enfant,it=bambino,pt=criança,tr=çocuk,ar=طفل,ru=ребёнок,pl=dziecko,uk=дитина|
+frau|Frau|A1|ALL|INT|Die Frau arbeitet im Spital.|en=woman,es=mujer,fr=femme,it=donna,pt=mulher,tr=kadın,ar=امرأة,ru=женщина,pl=kobieta,uk=жінка|
+mann|Mann|A1|ALL|INT|Der Mann liest die Zeitung.|en=man,es=hombre,fr=homme,it=uomo,pt=homem,tr=adam,ar=رجل,ru=мужчина,pl=mężczyzna,uk=чоловік|
+wasser|Wasser|A1|ALL|INT|Ich trinke jeden Tag viel Wasser.|en=water,es=agua,fr=eau,it=acqua,pt=água,tr=su,ar=ماء,ru=вода,pl=woda,uk=вода|

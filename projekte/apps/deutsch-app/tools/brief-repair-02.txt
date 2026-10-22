@@ -1,0 +1,32 @@
+# AUFTRAG: Übersetzungen ergänzen (Reparatur)
+
+Die folgenden Zeilen haben nur 7 Felder — das 7. Feld (Übersetzungen) fehlt.
+
+Format pro Zeile (Pipe-getrennt, 8 Felder):
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+
+Regeln:
+- Übernimm die ersten 6 Felder WÖRTLICH unverändert.
+- Ergänze alle zehn Übersetzungen in dieser Reihenfolge: en,es,fr,it,pt,tr,ar,ru,pl,uk
+- Kurz und idiomatisch, keine Erklärsätze, KEINE Kommas in den Übersetzungen (stattdessen /).
+- Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+- Letztes Feld (flags) leer, Zeile endet mit |.
+- Ausgabe: eine Datei, eine Zeile pro Eintrag, keine Kopfzeile, kein Markdown, kein Codeblock.
+
+## Zu reparieren:
+
+liegen|flach auf etwas sein|A1|alltag|INT|Das Buch liegt noch auf dem Tisch.|
+stellen|an einen Platz setzen|A1|alltag|INT|Bitte stellen Sie den Stuhl dort hin.|
+legen|flach hinlegen|A1|alltag|INT|Ich lege das Handy neben das Bett.|
+anfangen|beginnen|A1|arbeit,bildung|INT|Der Kurs fängt um neun Uhr an.|
+aufhören|beenden|A1|alltag,arbeit|INT|Wir hören jetzt mit der Pause auf.|
+erzählen|von etwas berichten|A1|alltag,familie|INT|Er erzählt eine lustige Geschichte.|
+denken|im Kopf überlegen|A1|ALL|INT|Ich denke oft an meine Familie.|
+meinen|eine Ansicht haben|A1|ALL|INT|Ich meine, dass der Film gut ist.|
+vergessen|nicht mehr wissen|A1|ALL|INT|Ich habe den Termin leider vergessen.|
+tragen|in der Hand halten|A1|alltag,einkaufen|INT|Sie trägt die Tasche zum Auto.|
+kochen|Speisen zubereiten|A1|alltag,gastro|INT|Ich koche heute Abend eine Suppe.|
+putzen|reinigen|A1|wohnen|INT|Ich putze am Samstag die Küche.|
+waschen|mit Wasser reinigen|A1|wohnen,gesundheit|INT|Ich wasche die Hände vor dem Essen.|
+schauen|hinsehen|A1|ALL|CH|Schau mal hier auf die Karte.|
+einladen|Gast einbinden|A1|familie,freizeit|INT|Ich lade meine Freunde zum Essen ein.|

@@ -1,0 +1,72 @@
+die Energie|Kraft für Bewegung und Arbeit|alltag,technik|Nach dem langen Tag fehlt mir die Energie.|the energy|la energía|l'énergie|l'energia|a energia|enerji|الطاقة|энергия|energia|енергія
+die Fachkraft|ausgebildete Person im Beruf|arbeit,handwerk|Für die Stelle suchen wir eine erfahrene Fachkraft.|the skilled worker|el especialista|le spécialiste|lo specialista|o especialista|uzman|الفني|специалист|specjalista|фахівець
+die Form|äussere Gestalt von etwas|alltag,buero|Der Kuchen hat eine runde Form.|the shape|la forma|la forme|la forma|a forma|şekil|الشكل|форма|kształt|форма
+das Gegenteil|das völlig andere davon|bildung,alltag|Das Gegenteil von hell ist dunkel.|the opposite|lo contrario|le contraire|il contrario|o contrário|tersi|العكس|противоположность|przeciwieństwo|протилежність
+die Gruppe|mehrere Personen zusammen|alltag,bildung|Unsere Gruppe trifft sich jeden Montag im Café.|the group|el grupo|le groupe|il gruppo|o grupo|grup|المجموعة|группа|grupa|група
+die Handschrift|Art des Schreibens mit der Hand|bildung,buero|Ihre Handschrift ist sehr klein und sauber.|the handwriting|l'escritura|l'écriture|la scrittura|a caligrafia|el yazısı|خط اليد|почерк|charakter pisma|почерк
+der Hintergrund|Bereich hinter einer Sache|alltag,technik|Im Hintergrund des Fotos steht ein alter Baum.|the background|el fondo|l'arrière-plan|lo sfondo|o fundo|arka plan|الخلفية|фон|tło|фон
+die Idee|plötzlicher Gedanke oder Plan|alltag,arbeit|Sie hatte eine gute Idee für das Fest.|the idea|la idea|l'idée|l'idea|a ideia|fikir|الفكرة|идея|pomysł|ідея
+die Industrie|gewerbliche Herstellung von Waren|arbeit,technik|Die Industrie braucht gut ausgebildete Fachleute.|the industry|la industria|l'industrie|l'industria|a indústria|sanayi|الصناعة|промышленность|przemysł|промисловість
+der Junge|männliches Kind|familie,alltag|Der Junge spielt im Hof mit dem Ball.|the boy|el niño|le garçon|il ragazzo|o menino|oğlan|الولد|мальчик|chłopiec|хлопчик
+die Kamera|Gerät für Fotos und Filme|technik,freizeit|Ich habe die Kamera für den Ausflug eingepackt.|the camera|la cámara|l'appareil photo|la macchina fotografica|a câmera|kamera|الكاميرا|фотоаппарат|aparat fotograficzny|фотоапарат
+der Kampf|heftiges Ringen um etwas|sport,alltag|Der Kampf um den letzten Platz war hart.|the fight|la lucha|le combat|la lotta|a luta|mücadele|الصراع|борьба|walka|боротьба
+der Kasten|rechteckiges Behältnis oder Möbelstück|wohnen,buero|Die alten Fotos liegen im Kasten unterm Bett.|the box|la caja|le coffre|la cassapanca|o baú|sandık|الصندوق|ящик|skrzynia|ящик
+der Keks|kleines süsses Gebäckstück|einkaufen,gastro|Zum Tee gibt es einen Keks mit Schokolade.|the biscuit|la galleta|le biscuit|il biscotto|o biscoito|bisküvi|البسكويت|печенье|herbatnik|печиво
+die Kette|Reihe verbundener Glieder|einkaufen,alltag|Sie trägt eine feine Kette aus Silber.|the chain|la cadena|la chaîne|la catena|a corrente|zincir|السلسلة|цепочка|łańcuszek|ланцюжок
+die Konkurrenz|Mitbewerber im gleichen Bereich|arbeit,einkaufen|Die Konkurrenz im Stadtzentrum ist sehr gross.|the competition|la competencia|la concurrence|la concorrenza|a concorrência|rekabet|المنافسة|конкуренция|konkurencja|конкуренція
+der Körper|ganze Gestalt eines Menschen|gesundheit,alltag|Nach dem Sport tut mir der ganze Körper weh.|the body|el cuerpo|le corps|il corpo|o corpo|vücut|الجسم|тело|ciało|тіло
+das Leben|Zeit vom Dasein eines Menschen|familie,alltag|Das Leben auf dem Land ist ruhiger.|the life|la vida|la vie|la vita|a vida|hayat|الحياة|жизнь|życie|життя
+das Loch|leerer Raum in einer Fläche|wohnen,handwerk|In der Wand ist ein kleines Loch.|the hole|el agujero|le trou|il buco|o buraco|delik|الثقب|дыра|dziura|діра
+die Luft|Gemisch aus Gasen zum Atmen|gesundheit,alltag|Nach dem Regen ist die Luft besonders frisch.|the air|el aire|l'air|l'aria|o ar|hava|الهواء|воздух|powietrze|повітря
+die Mahlzeit|Essen zu einer bestimmten Zeit|gastro,familie|Wir nehmen die Mahlzeit gemeinsam am Tisch ein.|the meal|la comida|le repas|il pasto|a refeição|öğün|الوجبة|приём пищи|posiłek|прийом їжі
+der Mund|Öffnung im Gesicht zum Essen|gesundheit,alltag|Bitte den Mund beim Gähnen zuhalten.|the mouth|la boca|la bouche|la bocca|a boca|ağız|الفم|рот|usta|рот
+die Muttersprache|erste Sprache eines Menschen|bildung,familie|Ihre Muttersprache ist Italienisch und sie lernt Deutsch.|the native language|la lengua materna|la langue maternelle|la lingua madre|a língua materna|ana dili|اللغة الأم|родной язык|język ojczysty|рідна мова
+die Mütze|Kleidungsstück für den Kopf|einkaufen,alltag|Bei der Kälte trägt er eine warme Mütze.|the cap|el gorro|le bonnet|il berretto|o gorro|başlık|القبعة|шапка|czapka|шапка
+der Nacken|hinterer Teil des Halses|gesundheit,alltag|Langes Sitzen macht mir Schmerzen im Nacken.|the neck|la nuca|la nuque|la nuca|a nuca|ense|الرقبة|затылок|kark|потилиця
+die Nadel|dünner spitzer Gegenstand zum Nähen|handwerk,alltag|Ich brauche eine Nadel für den losen Knopf.|the needle|la aguja|l'aiguille|l'ago|a agulha|iğne|الإبرة|иголка|igła|голка
+die Natur|Landschaft mit Pflanzen und Tieren|freizeit,alltag|Am Wochenende gehen wir oft in die Natur.|the nature|la naturaleza|la nature|la natura|a natureza|doğa|الطبيعة|природа|natura|природа
+die Nudel|Teigware aus Mehl und Wasser|gastro,einkaufen|Zum Mittagessen koche ich Nudeln mit Gemüse.|the noodle|el fideo|la nouille|la pasta|o macarrão|makarna|المعكرونة|макароны|makaron|макарони
+die Nuss|Frucht mit harter Schale|einkaufen,gastro|Er isst jeden Tag eine Nuss zum Frühstück.|the nut|la nuez|la noix|la noce|a noz|fındık|الجوز|орех|orzech|горіх
+der Ort|bestimmter Platz oder Stelle|alltag,reisen|Der Ort liegt ruhig am Rand des Dorfes.|the place|el lugar|le lieu|il luogo|o lugar|yer|المكان|место|miejsce|місце
+die Party|geselliges Fest mit Musik|freizeit,familie|Am Samstag feiern wir eine Party im Garten.|the party|la fiesta|la fête|la festa|a festa|parti|الحفلة|вечеринка|impreza|вечірка
+der Passagier|Person die mitfährt|reisen,logistik|Der Passagier wartet am Schalter auf sein Ticket.|the passenger|el pasajero|le passager|il passeggero|o passageiro|yolcu|المسافر|пассажир|pasażer|пасажир
+der Pilz|Gewächs mit Stiel und Hut|gastro,natur|Im Wald haben wir viele Pilze gefunden.|the mushroom|la seta|le champignon|il fungo|o cogumelo|mantar|الفطر|гриб|grzyb|гриб
+das Projekt|grössere geplante Aufgabe|arbeit,buero|Das neue Projekt beginnt im nächsten Monat.|the project|el proyecto|le projet|il progetto|o projeto|proje|المشروع|проект|projekt|проєкт
+der Punkt|kleine runde Stelle oder Sache|bildung,alltag|Der letzte Punkt auf der Liste ist wichtig.|the point|el punto|le point|il punto|o ponto|nokta|النقطة|точка|punkt|точка
+die Qualität|Beschaffenheit und Güte einer Sache|einkaufen,arbeit|Bei Kleidung achte ich vor allem auf die Qualität.|the quality|la calidad|la qualité|la qualità|a qualidade|kalite|الجودة|качество|jakość|якість
+der Rand|äusserster Bereich einer Fläche|alltag,wohnen|Am Rand des Tisches steht eine Vase.|the edge|el borde|le bord|il bordo|a borda|kenar|الحافة|край|krawędź|край
+der Rauch|Wolke aus brennendem Material|wohnen,gesundheit|Durch das Fenster zog der Rauch in die Küche.|the smoke|el humo|la fumée|il fumo|a fumaça|duman|الدخان|дым|dym|дим
+der Raum|Fläche innerhalb von Wänden|wohnen,buero|Der kleine Raum hat nur ein Fenster.|the room|la habitación|la pièce|la stanza|a sala|oda|الغرفة|помещение|pomieszczenie|приміщення
+die Rede|öffentlicher Vortrag vor Zuhörern|arbeit,bildung|Der Chef hielt eine kurze Rede zum Jubiläum.|the speech|el discurso|le discours|il discorso|o discurso|konuşma|الخطاب|речь|przemówienie|промова
+die Region|grösseres Gebiet eines Landes|reisen,alltag|In dieser Region gibt es viele Seen.|the region|la región|la région|la regione|a região|bölge|المنطقة|регион|region|регіон
+der Ring|Schmuckstück für den Finger|einkaufen,familie|Sie trägt den Ring seit der Hochzeit.|the ring|el anillo|la bague|l'anello|o anel|yüzük|الخاتم|кольцо|pierścionek|кільце
+das Schaf|Tier mit dicker Wolle|natur,alltag|Auf der Wiese stehen zwanzig weisse Schafe.|the sheep|la oveja|le mouton|la pecora|a ovelha|koyun|الخروف|овца|owca|вівця
+die Schere|Werkzeug mit zwei Klingen|handwerk,buero|Mit der Schere schneide ich das Papier.|the scissors|las tijeras|les ciseaux|le forbici|a tesoura|makas|المقص|ножницы|nożyczki|ножиці
+das Schiff|grosses Fahrzeug auf dem Wasser|reisen,logistik|Das Schiff liegt noch im Hafen.|the ship|el barco|le navire|la nave|o navio|gemi|السفينة|корабль|statek|корабль
+der Schnee|gefrorenes Wasser vom Himmel|alltag,wohnen|Am Morgen lag dichter Schnee auf dem Auto.|the snow|la nieve|la neige|la neve|a neve|kar|الثلج|снег|śnieg|сніг
+der Schuh|Kleidungsstück für den Fuss|einkaufen,alltag|Der linke Schuh drückt beim Gehen.|the shoe|el zapato|la chaussure|la scarpa|o sapato|ayakkabı|الحذاء|обувь|but|взуття
+die Sekunde|sehr kurze Zeiteinheit|alltag,technik|Warte bitte eine Sekunde am Telefon.|the second|el segundo|la seconde|il secondo|o segundo|saniye|الثانية|секунда|sekunda|секунда
+die Sorte|Art oder Auswahl einer Ware|einkaufen,gastro|Diese Sorte Apfel ist besonders süss.|the variety|la variedad|la variété|la varietà|a variedade|çeşit|الصنف|сорт|gatunek|сорт
+der Standort|Ort an dem etwas liegt|arbeit,technik|Der Standort der neuen Firma ist noch unklar.|the location|la ubicación|l'emplacement|la sede|a localização|konum|الموقع|расположение|lokalizacja|розташування
+der Stein|festes Stück Gestein|bau,natur|Ein grosser Stein blockiert den Weg.|the stone|la piedra|la pierre|la pietra|a pedra|taş|الحجر|камень|kamień|камінь
+der Stern|hell leuchtender Punkt am Himmel|natur,freizeit|Am klaren Himmel sieht man viele Sterne.|the star|la estrella|l'étoile|la stella|a estrela|yıldız|النجم|звезда|gwiazda|зірка
+der Stiefel|hoher fester Schuh|einkaufen,alltag|Für den Regen brauche ich wasserdichte Stiefel.|the boot|la bota|la botte|lo stivale|a bota|çizme|الحذاء الطويل|сапог|kozak|чобіт
+die Straße|befestigter Weg für Fahrzeuge|alltag,wohnen|Die Straße vor dem Haus wird morgen gereinigt.|the street|la calle|la rue|la strada|a rua|sokak|الشارع|улица|ulica|вулиця
+die Suppe|flüssiges warmes Gericht|gastro,familie|Zum Mittag gibt es eine warme Suppe.|the soup|la sopa|la soupe|la zuppa|a sopa|çorba|الحساء|суп|zupa|суп
+die Tat|konkrete Handlung einer Person|recht,alltag|Hinter der guten Tat steckt viel Mühe.|the deed|el hecho|le fait|l'azione|o ato|eylem|الفعل|поступок|czyn|вчинок
+der Toast|geröstete Scheibe Brot|gastro,alltag|Zum Frühstück essen wir Toast mit Butter.|the toast|la tostada|le toast|il toast|a torrada|kızarmış ekmek|الخبز المحمص|тост|tost|тост
+der Turm|hohes schmales Bauwerk|reisen,bau|Vom Turm hat man einen Blick über die Stadt.|the tower|la torre|la tour|la torre|a torre|kule|البرج|башня|wieża|вежа
+die Vase|Gefäss für Blumen|wohnen,einkaufen|Auf dem Tisch steht eine Vase mit Tulpen.|the vase|el jarrón|le vase|il vaso|o vaso|vazo|المزهرية|ваза|wazon|ваза
+der Verkauf|Abgabe einer Ware gegen Geld|einkaufen,bank|Der Verkauf des alten Autos war schnell erledigt.|the sale|la venta|la vente|la vendita|a venda|satış|البيع|продажа|sprzedaż|продаж
+der Verstand|Fähigkeit zu denken und urteilen|bildung,alltag|Bei diesem Lärm kann ich kaum mit Verstand arbeiten.|the reason|la razón|la raison|la ragione|a razão|akıl|العقل|разум|rozum|розум
+der Vogel|Tier mit Federn und Flügeln|natur,freizeit|Ein kleiner Vogel sitzt auf dem Ast.|the bird|el pájaro|l'oiseau|l'uccello|o pássaro|kuş|الطائر|птица|ptak|птах
+der Wagen|Fahrzeug mit vier Rädern|reisen,technik|Der Wagen steht vor der Garage.|the car|el coche|la voiture|l'auto|o carro|araba|السيارة|автомобиль|samochód|автомобіль
+die Wäsche|Kleidung die gewaschen wird|wohnen,alltag|Am Samstag bringe ich die Wäsche in den Keller.|the laundry|la ropa|l'lessive|la biancheria|a roupa|çamaşır|الغسيل|бельё|pranie|прання
+der Wein|alkoholisches Getränk aus Trauben|gastro,einkaufen|Zum Abendessen bestellten wir einen roten Wein.|the wine|el vino|le vin|il vino|o vinho|şarap|النبيذ|вино|wino|вино
+die Welt|gesamte Erde und ihre Menschen|alltag,reisen|Mit dem Schiff um die Welt zu reisen dauert lange.|the world|el mundo|le monde|il mondo|o mundo|dünya|العالم|мир|świat|світ
+das Werk|Produkt einer schöpferischen Arbeit|arbeit,handwerk|Dieses Werk stammt von einem jungen Künstler.|the work|la obra|l'œuvre|l'opera|a obra|eser|العمل|работа|dzieło|твір
+der Wind|bewegte Luft im Freien|natur,reisen|Der Wind dreht und die Segel flattern laut.|the wind|el viento|le vent|l'vento|o vento|rüzgar|الريح|ветер|wiatr|вітер
+das Wissen|Gesamtheit von Kenntnissen|bildung,arbeit|Sein Wissen über alte Sprachen ist erstaunlich.|the knowledge|el conocimiento|le savoir|la conoscenza|o conhecimento|bilgi|المعرفة|знание|wiedza|знання
+die Wolke|weisse Form am Himmel|natur,reisen|Am Horizont steht eine dunkle Wolke.|the cloud|la nube|le nuage|la nuvola|a nuvem|bulut|السحابة|облако|chmura|хмара
+die Wurst|Fleischware in einer Hülle|einkaufen,gastro|Zum Frühstück isst er Brot mit Wurst.|the sausage|la salchicha|la saucisse|il salame|a salsicha|sosis|النقانق|колбаса|kiełbasa|ковбаса
+die Zukunft|Zeit die noch kommt|alltag,arbeit|Über die Zukunft der Firma wird noch diskutiert.|the future|el futuro|l'avenir|il futuro|o futuro|gelecek|المستقبل|будущее|przyszłość|майбутнє

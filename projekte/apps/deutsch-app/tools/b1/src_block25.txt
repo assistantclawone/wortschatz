@@ -1,0 +1,72 @@
+der Austausch|gegenseitiges Geben von Informationen|buero,bildung|Der Austausch mit den Kollegen hilft mir sehr.|the exchange|el intercambio|l'échange|lo scambio|a troca|değişim|التبادل|обмен|wymiana|обмін
+der Bezirk|abgegrenzter Teil einer Stadt|behoerden,wohnen|In diesem Bezirk gibt es viele kleine Läden.|the district|el distrito|le quartier|il distretto|o distrito|ilçe|الحي|район|dzielnica|район
+der Blick|das Hinsehen auf etwas|alltag|Ein kurzer Blick auf die Uhr genügt mir.|the look|la mirada|le regard|lo sguardo|o olhar|bakış|النظرة|взгляд|spojrzenie|погляд
+der Brand|Feuer mit grossem Schaden|wohnen,recht|Nach dem Brand war die Wohnung unbewohnbar.|the fire|el incendio|l'incendie|l'incendio|o incêndio|yangın|الحريق|пожар|pożar|пожежа
+die Daten|gespeicherte Informationen|technik,buero|Bitte speichern Sie die Daten vor dem Ausschalten.|the data|los datos|les données|i dati|os dados|veriler|البيانات|данные|dane|дані
+der Druck|Kraft oder seelische Belastung|alltag,arbeit|Der Druck bei der Arbeit ist diese Woche hoch.|the pressure|la presión|la pression|la pressione|a pressão|baskı|الضغط|давление|presja|тиск
+die Eigenschaft|Merkmal einer Person oder Sache|alltag|Geduld ist eine wichtige Eigenschaft im Beruf.|the property|la propiedad|la propriété|la proprietà|a propriedade|özellik|الخصيصة|свойство|cecha|властивість
+die Erkenntnis|gewonnene Einsicht über etwas|bildung|Aus dem Gespräch zog ich eine wichtige Erkenntnis.|the insight|el hallazgo|la constatation|la consapevolezza|a constatação|kavrayış|الاستنتاج|осознание|wniosek|усвідомлення
+das Ereignis|besonderer Vorfall oder Anlass|alltag,feizeit|Das Fest war das grösste Ereignis im Dorf.|the event|el acontecimiento|l'événement|l'evento|o acontecimento|olay|الحدث|событие|wydarzenie|подія
+die Feier|festliche Veranstaltung|alltag,feizeit|Die Feier zum Jubiläum dauert bis Mitternacht.|the celebration|la celebración|la fête|la festa|a celebração|kutlama|الحفل|празднование|uroczystość|святкування
+die Fläche|zweidimensionale Ausdehnung|wohnen,bau|Die Fläche der Wohnung beträgt siebzig Quadratmeter.|the surface|la superficie|la surface|la superficie|a superfície|alan|المساحة|площадь|powierzchnia|площа
+der Gegenstand|konkreter einzelner Ding|alltag|Auf dem Tisch liegt ein seltsamer Gegenstand.|the object|el objeto|l'objet|l'oggetto|o objeto|nesne|الشيء|предмет|przedmiot|предмет
+der Grundsatz|feste Regel für das Handeln|arbeit,recht|Zuverlässigkeit ist ein wichtiger Grundsatz bei uns.|the principle|el principio|le principe|il principio|o princípio|ilke|المبدأ|принцип|zasada|принцип
+die Haftung|Verantwortung für einen Schaden|recht,bank|Die Haftung für den Schaden übernimmt die Firma.|the liability|la responsabilidad|la responsabilité|la responsabilità|a responsabilidade|sorumluluk|المسؤولية|ответственность|odpowiedzialność|відповідальність
+der Handel|Kauf und Verkauf von Waren|einkaufen,arbeit|Der Handel mit regionalen Produkten wächst ständig.|the trade|el comercio|le commerce|il commercio|o comércio|ticaret|التجارة|торговля|handel|торгівля
+die Herkunft|Ort oder Ursprung einer Person|alltag,behoerden|Bitte geben Sie bei der Anmeldung Ihre Herkunft an.|the origin|el origen|l'origine|l'origine|a origem|köken|الأصل|происхождение|pochodzenie|походження
+die Leistungsfähigkeit|Fähigkeit zu hoher Leistung|arbeit,gesundheit|Nach der Erkältung ist meine Leistungsfähigkeit noch begrenzt.|the performance|el rendimiento|la performance|la capacità|a capacidade|performans|القدرة على الأداء|работоспособность|wydolność|працездатність
+der Nutzen|Vorteil aus einer Sache|alltag,arbeit|Der Nutzen dieser Versicherung ist mir unklar.|the benefit|el beneficio|l'utilité|il vantaggio|o benefício|yarar|الفائدة|польза|korzyść|користь
+die Prognose|Vorhersage einer Entwicklung|arbeit,technik|Die Prognose für den Sommer klingt sehr warm.|the forecast|el pronóstico|la prévision|la previsione|a previsão|tahmin|التوقع|прогноз|prognoza|прогноз
+der Rahmen|äussere Begrenzung oder feste Grenze|alltag,buero|Im Rahmen des Projekts treffen wir uns wöchentlich.|the frame|el marco|le cadre|la cornice|o quadro|çerçeve|الإطار|рамки|ramy|рамки
+die Reihe|geordnete Folge von Dingen|alltag|In der ersten Reihe sitzen die Gäste.|the row|la fila|la rangée|la fila|a fila|sıra|الترتيب|ряд|rząd|ряд
+das Risiko|Gefahr eines möglichen Schadens|recht,arbeit|Jedes Risiko sollte vor der Reise bekannt sein.|the risk|el riesgo|le risque|il rischio|o risco|risk|الخطر|риск|ryzyko|ризик
+der Rückgang|Verringerung einer Menge|arbeit,wohnen|Der Rückgang der Mieten freut viele Familien.|the decline|la disminución|la baisse|il calo|a diminuição|düşüş|الانخفاض|снижение|spadek|зниження
+die Sammlung|geordnete Menge gesammelter Dinge|bildung,feizeit|Die Sammlung alter Fotos liegt im Regal.|the collection|la colección|la collection|la collezione|a coleção|koleksiyon|المجموعة|коллекция|kolekcja|колекція
+die Schulung|Kurs zur Weiterbildung|arbeit,bildung|Die Schulung für das neue Programm dauert zwei Stunden.|the training|la formación|la formation|la formazione|a formação|eğitim|التدريب|обучение|szkolenie|навчання
+der Stand|Situation zu einem Zeitpunkt|arbeit|Der Stand des Projekts ist uns bekannt.|the state|el estado|l'état|lo stato|o estado|durum|الوضع|состояние|stan|стан
+der Standard|allgemein üblicher Massstab|arbeit,technik|Der Standard für die Sicherheit ist hier höher.|the standard|el estándar|le standard|lo standard|o padrão|standart|المعيار|стандарт|standard|стандарт
+die Stärke|positive Eigenschaft oder Kraft|alltag,arbeit|Eine grosse Stärke von ihm ist die Geduld.|the strength|la fuerza|la force|la forza|a força|güç|القوة|сила|siła|сила
+der Stoff|Material oder Gewebe|einkaufen,handwerk|Der Stoff für die Vorhänge ist noch nicht da.|the fabric|la tela|le tissu|il tessuto|o tecido|kumaş|القماش|ткань|tkanina|тканина
+der Sturm|sehr starker Wind|reisen,alltag|Wegen dem Sturm bleibt die Fähre im Hafen.|the storm|la tormenta|la tempête|la tempesta|a tempestade|fırtına|العاصفة|буря|burza|шторм
+die Suche|das Suchen nach etwas|alltag,technik|Die Suche nach einer Wohnung dauert Monate.|the search|la búsqueda|la recherche|la ricerca|a busca|arama|البحث|поиск|poszukiwanie|пошук
+der Tausch|das Tauschen von Dingen|alltag,einkaufen|Der Tausch der Geräte hat sich gelohnt.|the exchange|el trueque|l'échange|lo scambio|a troca|değiş tokuş|المقايضة|обмен|zamiana|обмін
+die Theorie|gedankliches Modell ohne Praxis|bildung|In der Theorie klingt der Plan sehr einfach.|the theory|la teoría|la théorie|la teoria|a teoria|teori|النظرية|теория|teoria|теорія
+die Tiefe|Ausdehnung nach unten|alltag,technik|Die Tiefe des Brunnens ist unbekannt.|the depth|la profundidad|la profondeur|la profondità|a profundidade|derinlik|العمق|глубина|głębokość|глибина
+die Tradition|überlieferte Sitte|familie,feizeit|Diese Tradition feiern wir jedes Jahr im Sommer.|the tradition|la tradición|la tradition|la tradizione|a tradição|gelenek|التقليد|традиция|tradycja|традиція
+die Treue|ständige Zuverlässigkeit gegenüber jemandem|alltag,familie|Seine Treue zu alten Freunden ist beeindruckend.|the loyalty|la fidelidad|la fidélité|la fedeltà|a fidelidade|sadakat|الوفاء|верность|lojalność|вірність
+die Übernahme|Übernahme einer Aufgabe oder Firma|arbeit,buero|Die Übernahme der neuen Abteilung war schwierig.|the takeover|la adquisición|la reprise|la rilevazione|a aquisição|devralma|الاستلام|принятие|przejęcie|перейняття
+die Übersicht|geordnete Darstellung aller Teile|buero,bildung|Die Übersicht über die Kosten fehlt noch.|the overview|el resumen|l'aperçu|la panoramica|a visão geral|genel bakış|نظرة عامة|обзор|przegląd|огляд
+die Unterscheidung|das Erkennen von Unterschieden|bildung,arbeit|Die Unterscheidung der beiden Begriffe ist nicht leicht.|the distinction|la distinción|la distinction|la distinzione|a distinção|ayrım|التمييز|различие|rozróżnienie|розрізнення
+der Verdacht|Annahme eines Fehlers ohne Beweis|recht,gesundheit|Der Arzt hatte zuerst einen falschen Verdacht.|the suspicion|la sospecha|le soupçon|il sospetto|a suspeita|şüphe|الشك|подозрение|podejrzenie|підозра
+der Verlust|das Verlieren von etwas|alltag,bank|Der Verlust der Karte wurde sofort gemeldet.|the loss|la pérdida|la perte|la perdita|a perda|kayıp|الخسارة|потеря|utrata|втрата
+die Verteilung|das Aufteilen unter mehreren|arbeit,logistik|Die Verteilung der Aufgaben dauerte eine Stunde.|the distribution|la distribución|la répartition|la distribuzione|a distribuição|dağıtım|التوزيع|распределение|podział|розподіл
+der Verzicht|das bewusste Aufgeben von etwas|alltag,recht|Der Verzicht auf das Auto war eine gute Idee.|the waiver|la renuncia|la renonciation|la rinuncia|a renúncia|feragat|التنازل|отказ|rezygnacja|відмова
+der Vorfall|besonderes unerwartetes Geschehen|recht,arbeit|Der Vorfall im Lager wurde untersucht.|the incident|el incidente|l'incident|l'incidente|o incidente|olay|الحادث|случай|zdarzenie|інцидент
+der Wechsel|Übergang zu etwas anderem|arbeit,alltag|Der Wechsel der Firma war für ihn richtig.|the change|el cambio|le changement|il cambiamento|a mudança|değişim|التبديل|смена|zmiana|зміна
+die Weigerung|das Ablehnen einer Bitte|arbeit,recht|Seine Weigerung kam für alle sehr überraschend.|the refusal|la negativa|le refus|il rifiuto|a recusa|reddetme|الرفض|отказ|odmowa|відмова
+der Widerstand|Widerstand gegen Druck|recht,wohnen|Der Widerstand der Nachbarn war deutlich spürbar.|the resistance|la resistencia|la résistance|la resistenza|a resistência|direnç|المقاومة|сопротивление|opór|опір
+der Wunsch|Verlangen nach etwas|alltag,familie|Mein Wunsch ist eine ruhige Wohnung im Grünen.|the wish|el deseo|le souhait|il desiderio|o desejo|istek|الرغبة|желание|życzenie|бажання
+der Zeitraum|bestimmte Dauer einer Sache|arbeit,recht|Im Zeitraum von zwei Wochen antworten wir sicher.|the period|el plazo|la période|il periodo|o período|süre|الفترة|промежуток|okres|проміжок
+die Zunahme|das Wachsen einer Zahl|alltag,arbeit|Die Zunahme der Besucher überraschte das Team.|the increase|el aumento|l'augmentation|l'aumento|o aumento|artış|الزيادة|рост|wzrost|зростання
+der Zuwachs|Vergrösserung eines Bestands|arbeit,bank|Der Zuwachs an Mitgliedern ist erfreulich.|the growth|el crecimiento|la croissance|la crescita|o crescimento|artış|النمو|прирост|przyrost|приріст
+der Auftritt|öffentliches Erscheinen vor Publikum|feizeit,arbeit|Ihr Auftritt bei der Messe gelang hervorragend.|the appearance|la aparición|la prestation|l'esibizione|a apresentação|sahne çıkışı|الظهور|выступление|wystąpienie|виступ
+der Artikel|Ware oder Zeitungstext|einkaufen,buero|Dieser Artikel ist im Angebot deutlich günstiger.|the article|el artículo|l'article|l'articolo|o artigo|makale|المقال|товар|artykuł|стаття
+der Aspekt|wichtiger Gesichtspunkt einer Sache|arbeit,bildung|Ein wichtiger Aspekt dabei ist die Zeit.|the aspect|el aspecto|l'aspect|l'aspetto|o aspeto|açı|الجانب|аспект|aspekt|аспект
+der Ausschuss|Gremium mit bestimmten Aufgaben|behoerden,buero|Der Ausschuss trifft sich jeden zweiten Monat.|the committee|el comité|la commission|la commissione|a comissão|komisyon|اللجنة|комитет|komitet|комітет
+die Auswirkung|Folge einer Handlung|arbeit,gesundheit|Die Auswirkung der Massnahme zeigt sich später.|the effect|el efecto|l'effet|l'effetto|o efeito|etki|الأثر|воздействие|skutek|вплив
+die Beobachtung|das aufmerksame Beobachten von etwas|bildung,arbeit|Meine Beobachtung bestätigt die Ergebnisse der Studie.|the observation|la observación|l'observation|l'osservazione|a observação|gözlem|الملاحظة|наблюдение|obserwacja|спостереження
+die Beteiligung|Mitwirkung an einer Sache|arbeit,feizeit|Die Beteiligung am Fest war dieses Jahr gross.|the participation|la participación|la participation|la partecipazione|a participação|katılım|المشاركة|участие|udział|участь
+die Bewertung|Beurteilung einer Leistung|bildung,arbeit|Die Bewertung der Prüfung erfolgt in zwei Wochen.|the assessment|la evaluación|l'évaluation|la valutazione|a avaliação|değerlendirme|التقييم|оценка|ocena|оцінка
+die Brücke|Bauwerk über einen Fluss|reisen,bau|Die alte Brücke ist für Lastwagen gesperrt.|the bridge|el puente|le pont|il ponte|a ponte|köprü|الجسر|мост|most|міст
+der Charakter|Eigenart eines Menschen|alltag,familie|Sein ruhiger Charakter hilft ihm im Team.|the character|el carácter|le caractère|il carattere|o caráter|karakter|الطبع|характер|charakter|характер
+der Durchschnitt|mittlerer Wert einer Menge|arbeit,bildung|Der Durchschnitt der Noten lag bei zwei.|the average|el promedio|la moyenne|la media|a média|ortalama|المعدل|среднее|średnia|середнє
+die Ebene|Fläche oder Stufe eines Systems|bau,technik|Die zweite Ebene des Parkhauses ist frei.|the level|el nivel|le niveau|il livello|o nível|seviye|المستوى|уровень|poziom|рівень
+der Einkauf|das Kaufen von Waren|einkaufen,alltag|Der Einkauf für die Woche dauert eine Stunde.|the purchase|la compra|l'achat|la spesa|a compra|alışveriş|التسوق|покупка|zakupy|покупка
+der Einsatz|das Verwenden von etwas|arbeit,technik|Der Einsatz neuer Maschinen spart viel Zeit.|the use|el uso|l'emploi|l'impiego|o uso|kullanım|الاستخدام|применение|zastosowanie|застосування
+die Einsparung|Verringerung von Kosten|arbeit,bank|Die Einsparung beim Strom beträgt zehn Prozent.|the saving|el ahorro|l'économie|il risparmio|a poupança|tasarruf|التوفير|экономия|oszczędność|заощадження
+die Anschrift|Adresse einer Person oder Firma|behoerden,buero|Bitte schreiben Sie die Anschrift deutlich auf das Formular.|the address|la dirección|l'adresse|l'indirizzo|o endereço|adres|العنوان|адрес|adres|адреса
+der Aufpreis|zusätzlicher Preis für etwas|einkaufen,reisen|Der Aufpreis für den Fensterplatz ist gering.|the surcharge|el recargo|le supplément|il supplemento|o acréscimo|ek ücret|رسوم إضافية|надбавка|dopłata|доплата
+die Zulassung|offizielle Erlaubnis zur Teilnahme|behoerden,bildung|Die Zulassung zum Studium kam per Post.|the admission|la admisión|l'admission|l'ammissione|a admissão|kabul|القبول|допуск|dopuszczenie|допуск
+die Zwischenzeit|Zeitraum zwischen zwei Ereignissen|alltag,arbeit|In der Zwischenzeit erledige ich die Post.|the meantime|el intervalo|l'intervalle|l'intervallo|o intervalo|ara|الفترة البينية|промежуток времени|okres przejściowy|проміжок часу
+die Wende|entscheidender Umschwung|arbeit,recht|Die Wende im Verfahren kam nach dem Gutachten.|the turning point|el giro|le tournant|la svolta|a virada|dönüm noktası|التحول|поворот|zwrot|поворот
+die Wut|starker Zorn|alltag,familie|Seine Wut über den Fehler war verständlich.|the anger|la ira|la colère|la rabbia|a raiva|öfke|الغضب|ярость|złość|лють

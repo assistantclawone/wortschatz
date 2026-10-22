@@ -1,0 +1,15 @@
+liegen|flach auf etwas sein|A1|alltag|INT|Das Buch liegt noch auf dem Tisch.|en=to lie / to be lying,es=estar tumbado,fr=être allongé,it=giacere,pt=estar deitado,tr=uzanmak,ar=مستلقٍ,ru=лежать,pl=leżeć,uk=лежати|
+stellen|an einen Platz setzen|A1|alltag|INT|Bitte stellen Sie den Stuhl dort hin.|en=to put / to place,es=colocar,fr=poser,it=mettere,pt=colocar,tr=koymak,ar=يضع,ru=ставить,pl=stawiać,uk=ставити|
+legen|flach hinlegen|A1|alltag|INT|Ich lege das Handy neben das Bett.|en=to lay down,es=acostar / poner,fr=poser,it=appoggiare,pt=deitar,tr=yatırmak,ar=يضع,ru=класть,pl=kłaść,uk=класти|
+anfangen|beginnen|A1|arbeit,bildung|INT|Der Kurs fängt um neun Uhr an.|en=to begin,es=empezar,fr=commencer,it=iniziare,pt=começar,tr=başlamak,ar=يبدأ,ru=начинать,pl=zaczynać,uk=починати|
+aufhören|beenden|A1|alltag,arbeit|INT|Wir hören jetzt mit der Pause auf.|en=to stop,es=parar / terminar,fr=arrêter,it=smettere,pt=parar,tr=durmak,ar=يتوقف,ru=прекращать,pl=przestawać,uk=припиняти|
+erzählen|von etwas berichten|A1|alltag,familie|INT|Er erzählt eine lustige Geschichte.|en=to tell,es=contar,fr=raconter,it=raccontare,pt=contar,tr=anlatmak,ar=يحكي,ru=рассказывать,pl=opowiadać,uk=розповідати|
+denken|im Kopf überlegen|A1|ALL|INT|Ich denke oft an meine Familie.|en=to think,es=pensar,fr=penser,it=pensare,pt=pensar,tr=düşünmek,ar=يفكر,ru=думать,pl=myśleć,uk=думати|
+meinen|eine Ansicht haben|A1|ALL|INT|Ich meine, dass der Film gut ist.|en=to mean / to think,es=opinar,fr=penser / estimer,it=pensare,pt=achar,tr=düşünmek,ar=يعتقد,ru=полагать,pl=sądzić,uk=вважати|
+vergessen|nicht mehr wissen|A1|ALL|INT|Ich habe den Termin leider vergessen.|en=to forget,es=olvidar,fr=oublier,it=dimenticare,pt=esquecer,tr=unutmak,ar=ينسى,ru=забывать,pl=zapominać,uk=забувати|
+tragen|in der Hand halten|A1|alltag,einkaufen|INT|Sie trägt die Tasche zum Auto.|en=to carry,es=llevar,fr=porter,it=portare,pt=carregar,tr=taşımak,ar=يحمل,ru=нести,pl=nosić,uk=нести|
+kochen|Speisen zubereiten|A1|alltag,gastro|INT|Ich koche heute Abend eine Suppe.|en=to cook,es=cocinar,fr=cuisiner,it=cucinare,pt=cozinhar,tr=pişirmek,ar=يطبخ,ru=готовить,pl=gotować,uk=готувати|
+putzen|reinigen|A1|wohnen|INT|Ich putze am Samstag die Küche.|en=to clean,es=limpiar,fr=nettoyer,it=pulire,pt=limpar,tr=temizlemek,ar=ينظف,ru=убирать,pl=sprzątać,uk=прибирати|
+waschen|mit Wasser reinigen|A1|wohnen,gesundheit|INT|Ich wasche die Hände vor dem Essen.|en=to wash,es=lavar,fr=laver,it=lavare,pt=lavar,tr=yıkamak,ar=يغسل,ru=мыть,pl=myć,uk=мити|
+schauen|hinsehen|A1|ALL|CH|Schau mal hier auf die Karte.|en=to look,es=mirar,fr=regarder,it=guardare,pt=olhar,tr=bakmak,ar=ينظر,ru=смотреть,pl=patrzeć,uk=дивитися|
+einladen|Gast einbinden|A1|familie,freizeit|INT|Ich lade meine Freunde zum Essen ein.|en=to invite,es=invitar,fr=inviter,it=invitare,pt=convidar,tr=davet etmek,ar=يدعو,ru=приглашать,pl=zapraszać,uk=запрошувати|

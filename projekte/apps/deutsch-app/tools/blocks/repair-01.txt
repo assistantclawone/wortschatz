@@ -1,0 +1,15 @@
+selbst|betont die eigene Person|A1|ALL|INT|Ich mache das ohne Hilfe selbst.|en=myself,es=yo mismo,fr=moi-même,it=da solo,pt=eu mesmo,tr=kendim,ar=بنفسي,ru=сам,pl=sam,uk=сам|
+wieder|erneut/nocheinmal|A1|ALL|INT|Wir sehen uns morgen wieder.|en=again,es=otra vez,fr=encore,it=di nuovo,pt=de novo,tr=tekrar,ar=مرة أخرى,ru=снова,pl=znowu,uk=знову|
+lange|über viel Zeit|A1|ALL|INT|Ich habe lange auf den Bus gewartet.|en=long,es=mucho tiempo,fr=longtemps,it=a lungo,pt=muito tempo,tr=uzun,ar=طويلا,ru=долго,pl=długo,uk=довго|
+kurz|wenig Zeit dauernd|A1|ALL|INT|Der Weg ist zum Bahnhof kurz.|en=short,es=corto,fr=court,it=breve,pt=curto,tr=kısa,ar=قصير,ru=короткий,pl=krotki,uk=короткий|
+letzte|zuvor gewesen|A1|ALL|INT|Das war die letzte Chance heute.|en=last,es=última,fr=dernière,it=ultima,pt=última,tr=son,ar=الأخير,ru=последний,pl=ostatni,uk=останній|
+nächste|danach folgend|A1|ALL|INT|Die nächste Prüfung ist im Mai.|en=next,es=próxima,fr=prochain,it=prossima,pt=próxima,tr=sonraki,ar=التالي,ru=следующий,pl=następny,uk=наступний|
+beide|zwei zusammen|A1|ALL|INT|Wir haben beide dasselbe Buch gelesen.|en=both,es=ambos,fr=les deux,it=entrambi,pt=ambos,tr=ikisi de,ar=كلاهما,ru=оба,pl=obaj,uk=обидва|
+ander|nicht derselbe|A1|ALL|INT|Ich nehme ein anderes Getränk.|en=other,es=otro,fr=autre,it=altro,pt=outro,tr=başka,ar=آخر,ru=другой,pl=inny,uk=інший|
+bekommen|erhalten/geschenkt kriegen|A1|ALL|INT|Ich bekomme jeden Tag viele E-Mails.|en=get,es=recibir,fr=recevoir,it=ricevere,pt=receber,tr=almak,ar=أحصل,ru=получать,pl=otrzymywać,uk=отримувати|
+kennen|wissen wie jemand ist|A1|ALL|INT|Ich kenne den Nachbarn sehr gut.|en=know,es=conocer,fr=connaître,it=conoscere,pt=conhecer,tr=tanımak,ar=أعرف,ru=знать,pl=znać,uk=знати|
+fahren|mit Transportmittel bewegen|A1|reisen,alltag|INT|Wir fahren mit dem Zug nach Wien.|en=travel,es=viajar,fr=aller en,it=andare in,pt=ir de,tr=gitmek,ar=أسافر,ru=ехать,pl=jechać,uk=їхати|
+laufen|zu Fuß sich bewegen|A1|alltag,gesundheit|INT|Ich laufe jeden Abend im Park.|en=run,es=correr,fr=courir,it=correre,pt=correr,tr=koşmak,ar=أركض,ru=бегать,pl=biegać,uk=бігати|
+spielen|Spiel tätigen|A1|freizeit,familie|INT|Die Kinder spielen gern im Garten.|en=play,es=jugar,fr=jouer,it=giocare,pt=jogar,tr=oynamak,ar=يلعبون,ru=играть,pl=grać,uk=грати|
+sitzen|auf einem Platz sein|A1|alltag|INT|Hier sitze ich jeden Morgen zum Frühstück.|en=sit,es=sentarse,fr=s'asseoir,it=sedere,pt=sentar-se,tr=oturmak,ar=أجلس,ru=сидеть,pl=siedzieć,uk=сидіти|
+stehen|auf den Füßen sein|A1|alltag|INT|Die Flasche steht in der Küche.|en=stand,es=estar de pie,fr=se tenir,it=stare in piedi,pt=estar de pé,tr=durmak,ar=تقف,ru=стоять,pl=stać,uk=стояти|

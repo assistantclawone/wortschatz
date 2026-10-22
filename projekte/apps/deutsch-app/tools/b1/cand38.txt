@@ -1,0 +1,63 @@
+die Rücksicht|freundliche Berücksichtigung anderer|alltag,familie|Nimm bitte mehr Rücksicht auf deine Schwester.
+der Vorrat|gesammelter Bestand an Gütern|einkaufen,alltag|Wir haben noch einen kleinen Vorrat an Mehl.
+die Abdichtung|Schutz gegen eindringendes Wasser|handwerk,bau|Die Abdichtung der Kellerwand muss erneuert werden.
+die Abfuhr|regelmässiges Abholen von Abfall|alltag,bau|Die Abfuhr des Mülls findet immer am Dienstag statt.
+abholzen|Bäume in einem Gebiet fällen|bau,handwerk|Sie dürfen den alten Wald nicht einfach abholzen.
+die Ablage|geordneter Platz für Dokumente|buero,arbeit|Die Rechnung liegt in der Ablage beim Eingang.
+ablehnen|etwas nicht annehmen|arbeit,behoerden|Der Chef musste die Anfrage aus Zeitgründen ablehnen.
+abnehmen|Gewicht verlieren|gesundheit,alltag|Sie will bis zum Sommer ein paar Kilos abnehmen.
+die Abrechnung|Übersicht über gezahlte Beträge|bank,arbeit|Die Abrechnung der Spesen dauert meist zwei Wochen.
+der Absatz|Teil eines geschriebenen Textes|buero,bildung|Der dritte Absatz in dem Brief ist zu lang.
+abschliessen|eine Tür fest verschliessen|alltag,wohnen|Bitte abschliessen die Haustür am Abend sorgfältig.
+der Abschluss|Ende eines Studiums oder Vertrags|bildung,arbeit|Nach dem Abschluss sucht sie eine Stelle in Bern.
+die Absicht|geplanter Zweck einer Handlung|alltag,arbeit|Er hatte nicht die Absicht, dich zu kränken.
+der Abstand|Entfernung zwischen zwei Dingen|wohnen,technik|Halten Sie beim Überholen genug Abstand zum Auto.
+der Abteilungsleiter|Person die eine Abteilung führt|arbeit,buero|Der Abteilungsleiter genehmigt die Anträge für Urlaub.
+abwaschen|Geschirr mit Wasser reinigen|alltag,wohnen|Nach dem Essen muss ich noch das Geschirr abwaschen.
+achten|auf etwas genau schauen|alltag,gesundheit|Bitte achten Sie auf die Hinweise im Treppenhaus.
+die Ader|Blutgefäss im Körper|gesundheit|Der Arzt hat eine dünne Ader am Arm gefunden.
+die Ahnung|vages Wissen über etwas|alltag,arbeit|Von der neuen Software habe ich noch keine Ahnung.
+der Akku|lauter Teil eines Geräts zum Speichern|technik,telefon|Der Akku meines Telefons ist schon wieder fast leer.
+der Alkohol|Flüssigkeit wie Bier oder Wein|gastro,gesundheit|Er trinkt keinen Alkohol, wenn er noch fahren muss.
+allergisch|überempfindlich gegen einen Stoff|gesundheit|Sie ist allergisch gegen Nüsse und muss aufpassen.
+das Allgemeinwissen|breites Grundwissen in vielen Bereichen|bildung|Sein Allgemeinwissen hilft ihm bei vielen Gesprächen.
+der Anbieter|Firma die eine Leistung liefert|technik,arbeit|Der Anbieter erhöht die Preise schon wieder zum Sommer.
+die Anerkennung|positive Beurteilung einer Leistung|arbeit,bildung|Für ihre Arbeit bekam sie viel Anerkennung im Team.
+anfassen|mit der Hand berühren|alltag,handwerk|Bitte anfassen Sie die heissen Töpfe nicht mit blossen Händen.
+die Anforderung|notwendige Voraussetzung für etwas|arbeit,bildung|Die Anforderung an den Job ist ein Lehrabschluss.
+die Angabe|mitgeteilte Information|buero,behoerden|Laut Angabe des Vermieters ist die Wohnung noch frei.
+der Angehörige|Person aus der eigenen Familie|familie,pflege|Sie pflegt mehrere Angehörige zu Hause.
+anhalten|langsamer werden und stehen bleiben|reisen,alltag|Das Taxi musste vor der Brücke plötzlich anhalten.
+die Anlage|technische Einrichtung in einem Gebäude|technik,bau|Die Anlage für die Heizung steht im Keller.
+anmelden|sich offiziell eintragen lassen|behoerden,bildung|Sie will sich für den Kurs im Herbst anmelden.
+die Anmeldung|offizielle Eintragung für etwas|behoerden,wohnen|Die Anmeldung beim Amt dauert leider immer lange.
+der Anlass|Grund für eine Veranstaltung|freizeit,alltag|Der Anlass für das Fest ist das Jubiläum des Vereins.
+anlaufen|langsam beginnen und in Bewegung kommen|technik,arbeit|Das neue Projekt wird im Januar offiziell anlaufen.
+anrichten|Schaden oder Unheil verursachen|alltag,arbeit|Der Fehler könnte in der Küche grossen Schaden anrichten.
+anschaffen|etwas Neues kaufen|einkaufen,alltag|Wir wollen uns im Frühling ein neues Sofa anschaffen.
+die Anschrift|vollständige Adresse einer Person|buero,behoerden|Schreib bitte die Anschrift auf das Formular für die Post.
+anspruchsvoll|mit hohen Anforderungen|arbeit,bildung|Der Job ist anspruchsvoll, macht ihm aber Freude.
+die Antwort|Reaktion auf eine Frage|alltag,buero|Auf meine Mail habe ich leider noch keine Antwort bekommen.
+die Anweisung|klare Vorgabe wie etwas zu tun ist|arbeit,buero|Der Chef gab eine kurze Anweisung für die neue Aufgabe.
+anziehen|Kleidung überziehen|alltag,familie|Die Kinder sollen sich warm anziehen bei diesem Wetter.
+die Apotheke|Geschäft für Medikamente|gesundheit,einkaufen|Die Medikamente bekommst du in jeder Apotheke am Dorfplatz.
+der Appetit|Lust auf Essen|gastro,gesundheit|Bei dieser Hitze habe ich kaum Appetit auf eine warme Mahlzeit.
+die Arbeitgeberin|Firma oder Person die Leute anstellt|arbeit|Die Arbeitgeberin bietet ihren Angestellten flexible Arbeitszeiten an.
+der Arbeitnehmer|Person die in einem Betrieb arbeitet|arbeit|Jeder Arbeitnehmer hat Anspruch auf vier Wochen Ferien.
+der Arbeitsplatz|Ort an dem jemand arbeitet|arbeit,buero|Ihr Arbeitsplatz liegt zum Glück ganz nahe am Bahnhof.
+die Arbeitszeit|vereinbarte Zeit für die Arbeit|arbeit|Die Arbeitszeit beginnt bei uns morgens um acht Uhr.
+aufhören|mit etwas aufhören|gesundheit,alltag|Er will nächsten Monat mit dem Rauchen aufhören.
+aufnehmen|etwas zu einem bestehenden Kreis hinzufügen|arbeit,bildung|Wir wollen das neue Mitglied im Verein aufnehmen.
+der Aufwand|Arbeit und Mühe für etwas|arbeit|Der Aufwand für die Reparatur war viel zu gross.
+der Aufzug|Anlage die Personen nach oben bringt|wohnen,technik|Der Aufzug im Altbau funktioniert schon seit Wochen nicht.
+ausbauen|etwas grösser und stärker machen|bau,technik|Sie wollen den Dachstock zu einem Büro ausbauen.
+ausdrücklich|sehr klar und mit Nachdruck betont|arbeit,recht|Der Arzt hat ausdrücklich gesagt, dass ich liegen muss.
+der Ausflug|kurze Reise in die Umgebung|freizeit,reisen|Am Samstag machen wir einen Ausflug in die Berge.
+ausfüllen|ein Formular mit Angaben ergänzen|behoerden,buero|Du musst das Formular ausfüllen, bevor du zur Kasse gehst.
+der Ausgang|Weg nach draussen|wohnen,reisen|Der Ausgang zum Parkplatz liegt auf der Rückseite des Gebäudes.
+ausgeben|Geld für etwas verwenden|bank,einkaufen|Sie will diesen Monat nicht so viel Geld ausgeben.
+ausgezeichnet|von sehr guter Qualität|alltag,gastro|Das Essen im neuen Restaurant war wirklich ausgezeichnet.
+die Auskunft|Information die jemand gibt|telefon,behoerden|Am Schalter bekommst du eine schnelle Auskunft zu den Öffnungszeiten.
+ausleihen|etwas von jemandem kurz nehmen|bildung,alltag|Ich möchte mir in der Bibliothek zwei Bücher ausleihen.
+aussen|auf der äusseren Seite|wohnen,alltag|Das Fenster ist aussen nass vom Regen.
+ausserdem|zusätzlich zu etwas anderem|alltag,buero|Ich komme gern, ausserdem bringe ich einen Kuchen mit.

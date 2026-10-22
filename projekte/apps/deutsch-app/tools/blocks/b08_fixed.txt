@@ -1,0 +1,60 @@
+selbst|betont die eigene Person|A1|ALL|INT|Ich mache das ohne Hilfe selbst.|en=myself,es=mismo,fr=moi-même,it=stesso,pt=mesmo,tr=kendim,ar=نفسي,ru=сам,pl=sam,uk=сам|
+wieder|erneut/nocheinmal|A1|ALL|INT|Wir sehen uns morgen wieder.|en=again,es=otra vez,fr=encore,it=di nuovo,pt=de novo,tr=tekrar,ar=مرة أخرى,ru=снова,pl=znowu,uk=знову|
+schon|bereits geschehen|A1|ALL|INT|Das Essen ist schon fertig.|en=already,es=ya,fr=déjà,it=già,pt=já,tr=çoktan,ar=بالفعل,ru=уже,pl=już,uk=вже|
+lange|über viel Zeit|A1|ALL|INT|Ich habe lange auf den Bus gewartet.|en=long,es=mucho tiempo,fr=longtemps,it=a lungo,pt=muito tempo,tr=uzun,ar=طويلا,ru=долго,pl=długo,uk=довго|
+kurz|wenig Zeit dauernd|A1|ALL|INT|Der Weg ist zum Bahnhof kurz.|en=short,es=corto,fr=court,it=corto,pt=curto,tr=kısa,ar=قصير,ru=короткий,pl=krótki,uk=короткий|
+letzte|zuvor gewesen|A1|ALL|INT|Das war die letzte Chance heute.|en=last,es=último,fr=dernier,it=ultimo,pt=último,tr=son,ar=الأخير,ru=последний,pl=ostatni,uk=останній|
+nächste|danach folgend|A1|ALL|INT|Die nächste Prüfung ist im Mai.|en=next,es=próximo,fr=prochain,it=prossimo,pt=próximo,tr=sonraki,ar=القادم,ru=следующий,pl=następny,uk=наступний|
+beide|zwei zusammen|A1|ALL|INT|Wir haben beide dasselbe Buch gelesen.|en=both,es=ambos,fr=les deux,it=entrambi,pt=ambos,tr=ikisi,ar=كلاهما,ru=оба,pl=oba,uk=обидва|
+ander|nicht derselbe|A1|ALL|INT|Ich nehme ein anderes Getränk.|en=other,es=otro,fr=autre,it=altro,pt=outro,tr=başka,ar=آخر,ru=другой,pl=inny,uk=інший|
+allein|ohne Begleitung|A1|ALL|INT|Ich wohne seit kurzem allein.|en=alone,es=solo,fr=seul,it=solo,pt=sozinho,tr=yalnız,ar=وحيد,ru=один,pl=sam,uk=сам|
+zusammen|gemeinsam als Gruppe|A1|ALL|INT|Wir kochen heute zusammen zu Hause.|en=together,es=juntos,fr=ensemble,it=insieme,pt=juntos,tr=birlikte,ar=معا,ru=вместе,pl=razem,uk=разом|
+bekommen|erhalten/geschenkt kriegen|A1|ALL|INT|Ich bekomme jeden Tag viele E-Mails.|en=receive,es=recibir,fr=recevoir,it=ricevere,pt=receber,tr=almak,ar=يستلم,ru=получать,pl=otrzymywać,uk=отримувати|
+finden|etwas entdecken|A1|ALL|INT|Ich finde den Schlüssel selten sofort.|en=find,es=encontrar,fr=trouver,it=trovare,pt=encontrar,tr=bulmak,ar=يجد,ru=находить,pl=znajdować,uk=знаходити|
+suchen|nach etwas schauen|A1|ALL|INT|Ich suche die Brille auf dem Tisch.|en=look for,es=buscar,fr=chercher,it=cercare,pt=procurar,tr=aramak,ar=يبحث,ru=искать,pl=szukać,uk=шукати|
+kennen|wissen wie jemand ist|A1|ALL|INT|Ich kenne den Nachbarn sehr gut.|en=know,es=conocer,fr=connaître,it=conoscere,pt=conhecer,tr=tanımak,ar=يعرف,ru=знать,pl=znać,uk=знати|
+heißen|genannt werden|A1|ALL|INT|Wie heißt die Straße hier genau?|en=be called,es=llamarse,fr=s'appeler,it=chiamarsi,pt=chamar-se,tr=adı olmak,ar=يسمى,ru=называться,pl=nazywać się,uk=називатися|
+bleiben|an einem Ort sein|A1|ALL|INT|Bitte bleiben Sie kurz im Zimmer.|en=stay,es=quedarse,fr=rester,it=restare,pt=ficar,tr=kalmak,ar=يبقى,ru=оставаться,pl=zostawać,uk=залишатися|
+fahren|mit Transportmittel bewegen|A1|reisen,alltag|INT|Wir fahren mit dem Zug nach Wien.|en=drive/go,es=ir,fr=aller,it=andare,pt=ir,tr=gitmek,ar=يذهب,ru=ехать,pl=jechać,uk=їхати|
+laufen|zu Fuß sich bewegen|A1|alltag,gesundheit|INT|Ich laufe jeden Abend im Park.|en=walk,es=caminar,fr=marcher,it=camminare,pt=caminhar,tr=yürümek,ar=يمشي,ru=ходить,pl=chodzić,uk=ходити|
+spielen|Spiel tätigen|A1|freizeit,familie|INT|Die Kinder spielen gern im Garten.|en=play,es=jugar,fr=jouer,it=giocare,pt=jogar,tr=oynamak,ar=يلعب,ru=играть,pl=grać,uk=грати|
+warten|geduldig bleiben|A1|alltag,reisen|INT|Wir warten am Bahnhof auf den Zug.|en=wait,es=esperar,fr=attendre,it=aspettare,pt=esperar,tr=beklemek,ar=ينتظر,ru=ждать,pl=czekać,uk=чекати|
+sitzen|auf einem Platz sein|A1|alltag|INT|Hier sitze ich jeden Morgen zum Frühstück.|en=sit,es=sentarse,fr=s'asseoir,it=sedersi,pt=sentar-se,tr=oturmak,ar=يجلس,ru=сидеть,pl=siedzieć,uk=сидіти|
+stehen|auf den Füßen sein|A1|alltag|INT|Die Flasche steht in der Küche.|en=stand,es=estar de pie,fr=être debout,it=stare in piedi,pt=ficar em pé,tr=ayakta durmak,ar=يقف,ru=стоять,pl=stać,uk=стояти|
+liegen|flach auf etwas sein|A1|alltag|INT|Das Buch liegt noch auf dem Tisch.|en=lie,es=estar tumbado,fr=être couché,it=essere sdraiato,pt=estar deitado,tr=uzanmak,ar=يستلقي,ru=лежать,pl=leżeć,uk=лежати|
+stellen|an einen Platz setzen|A1|alltag|INT|Bitte stellen Sie den Stuhl dort hin.|en=put,es=colocar,fr=poser,it=mettere,pt=colocar,tr=koymak,ar=يضع,ru=ставить,pl=stawiać,uk=ставити|
+legen|flach hinlegen|A1|alltag|INT|Ich lege das Handy neben das Bett.|en=lay,es=acostar,fr=poser,it=appoggiare,pt=deitar,tr=yatırmak,ar=يضع,ru=класть,pl=kłaść,uk=класти|
+öffnen|aufmachen|A1|alltag|INT|Kannst du bitte das Fenster öffnen?|en=open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl=otwierać,uk=відкривати|
+schließen|zumachen|A1|alltag|INT|Bitte schließen Sie die Tür leise.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl=zamykać,uk=закривати|
+anfangen|beginnen|A1|arbeit,bildung|INT|Der Kurs fängt um neun Uhr an.|en=begin,es=empezar,fr=commencer,it=iniziare,pt=começar,tr=başlamak,ar=يبدأ,ru=начинать,pl=zaczynać,uk=починати|
+aufhören|beenden|A1|alltag,arbeit|INT|Wir hören jetzt mit der Pause auf.|en=stop,es=parar,fr=arrêter,it=smettere,pt=parar,tr=durmak,ar=يتوقف,ru=прекращать,pl=przestawać,uk=припиняти|
+erzählen|von etwas berichten|A1|alltag,familie|INT|Er erzählt eine lustige Geschichte.|en=tell,es=contar,fr=raconter,it=raccontare,pt=contar,tr=anlatmak,ar=يحكي,ru=рассказывать,pl=opowiadać,uk=розповідати|
+fragen|Frage stellen|A1|ALL|INT|Ich frage den Lehrer nach dem Termin.|en=ask,es=preguntar,fr=demander,it=chiedere,pt=perguntar,tr=sormak,ar=يسأل,ru=спрашивать,pl=pytać,uk=питати|
+antworten|Rückmeldung geben|A1|ALL|INT|Bitte antworten Sie mir heute noch.|en=answer,es=responder,fr=répondre,it=rispondere,pt=responder,tr=cevap vermek,ar=يجيب,ru=отвечать,pl=odpowiadać,uk=відповідати|
+denken|im Kopf überlegen|A1|ALL|INT|Ich denke oft an meine Familie.|en=think,es=pensar,fr=penser,it=pensare,pt=pensar,tr=düşünmek,ar=يفكر,ru=думать,pl=myśleć,uk=думати|
+meinen|eine Ansicht haben|A1|ALL|INT|Ich meine, dass der Film gut ist.|en=mean/think,es=opinar,fr=penser,it=pensare,pt=achar,tr=düşünmek,ar=يعني,ru=считать,pl=uważać,uk=вважати|
+vergessen|nicht mehr wissen|A1|ALL|INT|Ich habe den Termin leider vergessen.|en=forget,es=olvidar,fr=oublier,it=dimenticare,pt=esquecer,tr=unutmak,ar=ينسى,ru=забывать,pl=zapominać,uk=забувати|
+tragen|in der Hand halten|A1|alltag,einkaufen|INT|Sie trägt die Tasche zum Auto.|en=carry,es=llevar,fr=porter,it=portare,pt=levar,tr=taşımak,ar=يحمل,ru=нести,pl=nosić,uk=нести|
+kochen|Speisen zubereiten|A1|alltag,gastro|INT|Ich koche heute Abend eine Suppe.|en=cook,es=cocinar,fr=cuisiner,it=cucinare,pt=cozinhar,tr=pişirmek,ar=يطبخ,ru=готовить,pl=gotować,uk=готувати|
+putzen|reinigen|A1|wohnen|INT|Ich putze am Samstag die Küche.|en=clean,es=limpiar,fr=nettoyer,it=pulire,pt=limpar,tr=temizlemek,ar=ينظف,ru=убирать,pl=sprzątać,uk=прибирати|
+waschen|mit Wasser reinigen|A1|wohnen,gesundheit|INT|Ich wasche die Hände vor dem Essen.|en=wash,es=lavar,fr=laver,it=lavare,pt=lavar,tr=yıkamak,ar=يغسل,ru=мыть,pl=myć,uk=мити|
+schauen|hinsehen|A1|ALL|CH|Schau mal hier auf die Karte.|en=look,es=mirar,fr=regarder,it=guardare,pt=olhar,tr=bakmak,ar=ينظر,ru=смотреть,pl=patrzeć,uk=дивитися|
+einladen|Gast einbinden|A1|familie,freizeit|INT|Ich lade meine Freunde zum Essen ein.|en=invite,es=invitar,fr=inviter,it=invitare,pt=convidar,tr=davet etmek,ar=يدعو,ru=приглашать,pl=zapraszać,uk=запрошувати|
+mitbringen|etwas dazu nehmen|A1|familie|INT|Bring bitte Getränke zur Party mit.|en=bring along,es=traer,fr=apporter,it=portare,pt=trazer,tr=getirmek,ar=يحضر معه,ru=приносить,pl=przynosić,uk=приносити|
+zahlen|Geld geben|A1|einkaufen,bank|INT|Ich zahle die Rechnung am Montag.|en=pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=платить,pl=płacić,uk=платити|
+bezahlen|Geld für etwas geben|A1|einkaufen,bank|INT|Wie bezahle ich hier mit Karte?|en=pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=оплачивать,pl=płacić,uk=оплачувати|
+kosten|Preis haben|A1|einkaufen|INT|Die Fahrkarte kostet sieben Euro.|en=cost,es=costar,fr=coûter,it=costare,pt=custar,tr=mal olmak,ar=يكلف,ru=стоить,pl=kosztować,uk=коштувати|
+aufmachen|öffnen|A1|alltag|INT|Kannst du die Tür bitte aufmachen?|en=open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl=otwierać,uk=відкривати|
+zumachen|schließen|A1|alltag|INT|Bitte mach das Licht aus.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl=zamykać,uk=закривати|
+verlassen|einen Ort weggehen|A1|alltag,reisen|INT|Wir verlassen das Haus um sieben.|en=leave,es=salir,fr=quitter,it=lasciare,pt=sair,tr=terk etmek,ar=يغادر,ru=покидать,pl=opuszczać,uk=залишати|
+mitnehmen|etwas mit sich führen|A1|reisen,alltag|INT|Nimm einen Regenschirm mit nach draußen.|en=take along,es=llevar,fr=emporter,it=portare con sé,pt=levar,tr=yanına almak,ar=يأخذ معه,ru=брать с собой,pl=brać ze sobą,uk=брати з собою|
+erklären|deutlich sagen|A1|bildung,buero|INT|Der Lehrer erklärt die Grammatik ganz langsam.|en=explain,es=explicar,fr=expliquer,it=spiegare,pt=explicar,tr=açıklamak,ar=يشرح,ru=объяснять,pl=wyjaśniać,uk=пояснювати|
+üben|regelmäßig trainieren|A1|bildung|INT|Ich übe jeden Tag neue Wörter.|en=practise,es=practicar,fr=pratiquer,it=esercitarsi,pt=praticar,tr=alıştırma yapmak,ar=يتمرن,ru=тренировать,pl=ćwiczyć,uk=тренувати|
+wiederholen|noch einmal sagen|A1|bildung|INT|Bitte wiederholen Sie den Satz noch einmal.|en=repeat,es=repetir,fr=répéter,it=ripetere,pt=repetir,tr=tekrarlamak,ar=يكرر,ru=повторять,pl=powtarzać,uk=повторювати|
+dauern|Zeit brauchen|A1|alltag|INT|Der Film dauert zwei Stunden.|en=last,es=durar,fr=durer,it=durare,pt=durar,tr=sürmek,ar=يستغرق,ru=длиться,pl=trwać,uk=тривати|
+fehlen|nicht da sein|A1|arbeit,bildung|INT|Mir fehlt heute leider die Zeit.|en=be missing,es=faltar,fr=manquer,it=mancare,pt=faltar,tr=eksik olmak,ar=ينقص,ru=не хватать,pl=brakować,uk=бракувати|
+passen|gut angehören|A1|einkaufen,alltag|INT|Die Schuhe passen mir ganz gut.|en=fit,es=quedar bien,fr=aller,it=stare bene,pt=servir,tr=uymak,ar=يناسب,ru=подходить,pl=pasować,uk=пасувати|
+gefallen|gut finden|A1|alltag|INT|Die Wohnung gefällt mir sehr.|en=like,es=gustar,fr=plaire,it=piacere,pt=agradar,tr=hoşuna gitmek,ar=يعجب,ru=нравиться,pl=podobać się,uk=подобатися|
+bleiben|weiter an einem Ort sein|A1|alltag|INT|Er bleibt heute den ganzen Tag zu Hause.|en=stay,es=quedarse,fr=rester,it=restare,pt=ficar,tr=kalmak,ar=يبقى,ru=оставаться,pl=zostawać,uk=залишатися|
+schauen|sich umsehen|A1|alltag|DE|Wir schauen uns die Wohnung kurz an.|en=look,es=mirar,fr=regarder,it=guardare,pt=olhar,tr=bakmak,ar=ينظر,ru=смотреть,pl=patrzeć,uk=дивитися|
+fragen|um Auskunft bitten|A1|ALL|INT|Darf ich Sie etwas fragen?|en=ask,es=preguntar,fr=demander,it=chiedere,pt=perguntar,tr=sormak,ar=يسأل,ru=спрашивать,pl=pytać,uk=питати|

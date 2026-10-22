@@ -1,0 +1,62 @@
+der Tisch|Möbelstück zum Essen|A1|wohnen,alltag|INT|Der Tisch steht im Wohnzimmer.|en=table,es=mesa,fr=table,it=tavolo,pt=mesa,tr=masa,ar=طاولة,ru=стол,pl=stół,uk=стіл|
+der Stuhl|Sitzmöbel mit Lehne|A1|wohnen,alltag|INT|Der Stuhl ist aus Holz.|en=chair,es=silla,fr=chaise,it=sedia,pt=cadeira,tr=sandalye,ar=كرسي,ru=стул,pl=krzesło,uk=стілець|
+das Zimmer|Raum in einer Wohnung|A1|wohnen,alltag|INT|Das Zimmer ist hell und warm.|en=room,es=habitación,fr=chambre,it=camera,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+die Tür|Zugang zum Raum|A1|wohnen,bau|INT|Die Tür ist offen.|en=door,es=puerta,fr=porte,it=porta,pt=porta,tr=kapı,ar=باب,ru=дверь,pl=drzwi,uk=двері|
+das Fenster|Öffnung für Licht und Luft|A1|wohnen,bau|INT|Das Fenster ist geschlossen.|en=window,es=ventana,fr=fenêtre,it=finestra,pt=janela,tr=pencere,ar=نافذة,ru=окно,pl=okno,uk=вікно|
+das Licht|Helligkeit in einem Raum|A1|wohnen,technik|INT|Das Licht ist zu hell.|en=light,es=luz,fr=lumière,it=luce,pt=luz,tr=ışık,ar=ضوء,ru=свет,pl=światło,uk=світло|
+die Küche|Raum zum Kochen|A1|wohnen,gastro|INT|Die Küche ist klein aber sauber.|en=kitchen,es=cocina,fr=cuisine,it=cucina,pt=cozinha,tr=mutfak,ar=مطبخ,ru=кухня,pl=kuchnia,uk=кухня|
+das Bad|Raum zum Waschen|A1|wohnen,gesundheit|INT|Das Bad ist im Erdgeschoss.|en=bathroom,es=baño,fr=salle de bain,it=bagno,pt=banheiro,tr=banyo,ar=حمام,ru=ванная,pl=łazienka,uk=ванна кімната|
+das Bett|Möbel zum Schlafen|A1|wohnen,gesundheit|INT|Das Bett ist sehr weich.|en=bed,es=cama,fr=lit,it=letto,pt=cama,tr=yatak,ar=سرير,ru=кровать,pl=łóżko,uk=ліжко|
+die Wohnung|Wohnraum mit mehreren Zimmern|A1|wohnen,alltag|INT|Die Wohnung liegt im dritten Stock.|en=apartment,es=piso,fr=appartement,it=appartamento,pt=apartamento,tr=daire,ar=شقة,ru=квартира,pl=mieszkanie,uk=квартира|
+das Haus|Gebäude zum Wohnen|A1|wohnen,bau|INT|Das Haus hat einen Garten.|en=house,es=casa,fr=maison,it=casa,pt=casa,tr=ev,ar=منزل,ru=дом,pl=dom,uk=будинок|
+der Garten|Fläche hinter dem Haus|A1|wohnen,freizeit|INT|Der Garten ist im Sommer sehr grün.|en=garden,es=jardín,fr=jardin,it=giardino,pt=jardim,tr=bahçe,ar=حديقة,ru=сад,pl=ogród,uk=сад|
+der Schlüssel|Gegenstand zum Öffnen|A1|wohnen,alltag|INT|Der Schlüssel liegt auf dem Tisch.|en=key,es=llave,fr=clé,it=chiave,pt=chave,tr=anahtar,ar=مفتاح,ru=ключ,pl=klucz,uk=ключ|
+das Handy|mobiles Telefon|A1|technik,telefon|INT|Das Handy ist fast leer.|en=mobile phone,es=móvil,fr=téléphone portable,it=cellulare,pt=celular,tr=cep telefonu,ar=هاتف محمول,ru=мобильный телефон,pl=telefon komórkowy,uk=мобільний телефон|
+der Computer|elektronisches Rechengerät|A1|technik,buero|INT|Der Computer ist schon alt.|en=computer,es=ordenador,fr=ordinateur,it=computer,pt=computador,tr=bilgisayar,ar=حاسوب,ru=компьютер,pl=komputer,uk=комп'ютер|
+die Uhr|Gerät zur Zeitmessung|A1|alltag,technik|INT|Die Uhr hängt an der Wand.|en=clock,es=reloj,fr=horloge,it=orologio,pt=relógio,tr=saat,ar=ساعة,ru=часы,pl=zegar,uk=годинник|
+die Tasche|Behälter zum Tragen|A1|alltag,einkaufen|INT|Die Tasche steht neben der Tür.|en=bag,es=bolsa,fr=sac,it=borsa,pt=bolsa,tr=çanta,ar=حقيبة,ru=сумка,pl=torba,uk=сумка|
+das Geld|Zahlungsmittel|A1|bank,einkaufen|INT|Das Geld liegt in der Schublade.|en=money,es=dinero,fr=argent,it=denaro,pt=dinheiro,tr=para,ar=مال,ru=деньги,pl=pieniądze,uk=гроші|
+der Preis|Betrag für eine Ware|A1|einkaufen,bank|INT|Der Preis ist zu hoch.|en=price,es=precio,fr=prix,it=prezzo,pt=preço,tr=fiyat,ar=سعر,ru=цена,pl=cena,uk=ціна|
+der Laden|Geschäft zum Einkaufen|A1|einkaufen,alltag|INT|Der Laden öffnet um acht Uhr.|en=shop,es=tienda,fr=magasin,it=negozio,pt=loja,tr=dükkan,ar=متجر,ru=магазин,pl=sklep,uk=магазин|
+das Brot|Backware aus Mehl|A1|einkaufen,gastro|INT|Das Brot ist noch warm.|en=bread,es=pan,fr=pain,it=pane,pt=pão,tr=ekmek,ar=خبز,ru=хлеб,pl=chleb,uk=хліб|
+die Milch|weisses Getränk von der Kuh|A1|einkaufen,gastro|INT|Die Milch steht im Kühlschrank.|en=milk,es=leche,fr=lait,it=latte,pt=leite,tr=süt,ar=حليب,ru=молоко,pl=mleko,uk=молоко|
+der Kaffee|dunkles Heissgetränk|A1|gastro,alltag|INT|Der Kaffee ist heiss.|en=coffee,es=café,fr=café,it=caffè,pt=café,tr=kahve,ar=قهوة,ru=кофе,pl=kawa,uk=кава|
+der Tee|Getränk aus Blättern|A1|gastro,alltag|INT|Der Tee schmeckt nach Minze.|en=tea,es=té,fr=thé,it=tè,pt=chá,tr=çay,ar=شاي,ru=чай,pl=herbata,uk=чай|
+der Apfel|rundes Obst|A1|einkaufen,gastro|INT|Der Apfel ist rot und süss.|en=apple,es=manzana,fr=pomme,it=mela,pt=maçã,tr=elma,ar=تفاحة,ru=яблоко,pl=jabłko,uk=яблуко|
+das Gemüse|essbare Pflanzen zum Kochen|A1|einkaufen,gastro|INT|Das Gemüse ist heute frisch.|en=vegetables,es=verduras,fr=légumes,it=verdura,pt=legumes,tr=sebze,ar=خضار,ru=овощи,pl=warzywa,uk=овочі|
+das Fleisch|Nahrung vom Tier|A1|einkaufen,gastro|INT|Das Fleisch ist im Kühlschrank.|en=meat,es=carne,fr=viande,it=carne,pt=carne,tr=et,ar=لحم,ru=мясо,pl=mięso,uk=м'ясо|
+das Frühstück|erste Mahlzeit des Tages|A1|gastro,alltag|INT|Das Frühstück ist um sieben Uhr.|en=breakfast,es=desayuno,fr=petit-déjeuner,it=colazione,pt=café da manhã,tr=kahvaltı,ar=فطور,ru=завтрак,pl=śniadanie,uk=сніданок|
+das Mittagessen|Mahlzeit am Mittag|A1|gastro,alltag|INT|Das Mittagessen ist fertig.|en=lunch,es=almuerzo,fr=déjeuner,it=pranzo,pt=almoço,tr=öğle yemeği,ar=غداء,ru=обед,pl=obiad,uk=обід|
+das Abendessen|Mahlzeit am Abend|A1|gastro,alltag|INT|Das Abendessen dauert eine Stunde.|en=dinner,es=cena,fr=dîner,it=cena,pt=jantar,tr=akşam yemeği,ar=عشاء,ru=ужин,pl=kolacja,uk=вечеря|
+die Familie|Eltern und Kinder|A1|familie,alltag|INT|Die Familie wohnt in Bern.|en=family,es=familia,fr=famille,it=famiglia,pt=família,tr=aile,ar=عائلة,ru=семья,pl=rodzina,uk=сім'я|
+der Vater|männlicher Elternteil|A1|familie,alltag|INT|Der Vater kocht heute das Essen.|en=father,es=padre,fr=père,it=padre,pt=pai,tr=baba,ar=أب,ru=отец,pl=ojciec,uk=батько|
+die Mutter|weiblicher Elternteil|A1|familie,alltag|INT|Die Mutter arbeitet im Spital.|en=mother,es=madre,fr=mère,it=madre,pt=mãe,tr=anne,ar=أم,ru=мать,pl=matka,uk=мати|
+die Eltern|Vater und Mutter|A1|familie,alltag|INT|Die Eltern wohnen auf dem Land.|en=parents,es=padres,fr=parents,it=genitori,pt=pais,tr=ebeveynler,ar=والدان,ru=родители,pl=rodzice,uk=батьки|
+der Bruder|männliches Geschwister|A1|familie,alltag|INT|Der Bruder ist zwölf Jahre alt.|en=brother,es=hermano,fr=frère,it=fratello,pt=irmão,tr=kardeş,ar=أخ,ru=брат,pl=brat,uk=брат|
+die Schwester|weibliches Geschwister|A1|familie,alltag|INT|Die Schwester lernt Deutsch.|en=sister,es=hermana,fr=sœur,it=sorella,pt=irmã,tr=kız kardeş,ar=أخت,ru=сестра,pl=siostra,uk=сестра|
+der Sohn|männliches Kind|A1|familie,alltag|INT|Der Sohn geht in die Schule.|en=son,es=hijo,fr=fils,it=figlio,pt=filho,tr=oğul,ar=ابن,ru=сын,pl=syn,uk=син|
+die Tochter|weibliches Kind|A1|familie,alltag|INT|Die Tochter ist zwei Jahre alt.|en=daughter,es=hija,fr=fille,it=figlia,pt=filha,tr=kız,ar=ابنة,ru=дочь,pl=córka,uk=донька|
+die Schule|Ort zum Lernen|A1|bildung,familie|INT|Die Schule beginnt um acht Uhr.|en=school,es=escuela,fr=école,it=scuola,pt=escola,tr=okul,ar=مدرسة,ru=школа,pl=szkoła,uk=школа|
+der Lehrer|Person die unterrichtet|A1|bildung,arbeit|INT|Der Lehrer erklärt die Grammatik.|en=teacher,es=profesor,fr=enseignant,it=insegnante,pt=professor,tr=öğretmen,ar=معلم,ru=учитель,pl=nauczyciel,uk=вчитель|
+das Buch|gebundene Textsammlung|A1|bildung,freizeit|INT|Das Buch ist sehr spannend.|en=book,es=libro,fr=livre,it=libro,pt=livro,tr=kitap,ar=كتاب,ru=книга,pl=książka,uk=книга|
+die Sprache|Verständigungsmittel|A1|bildung,alltag|INT|Die Sprache ist nicht einfach.|en=language,es=idioma,fr=langue,it=lingua,pt=idioma,tr=dil,ar=لغة,ru=язык,pl=język,uk=мова|
+das Wort|kleinste sprachliche Einheit|A1|bildung,alltag|INT|Das Wort kenne ich nicht.|en=word,es=palabra,fr=mot,it=parola,pt=palavra,tr=kelime,ar=كلمة,ru=слово,pl=słowo,uk=слово|
+die Arbeit|Tätigkeit als Beruf|A1|arbeit,buero|INT|Die Arbeit macht mir Spass.|en=work,es=trabajo,fr=travail,it=lavoro,pt=trabalho,tr=iş,ar=عمل,ru=работа,pl=praca,uk=робота|
+der Beruf|erlernte Tätigkeit|A1|arbeit,bildung|INT|Der Beruf gefällt mir gut.|en=profession,es=profesión,fr=métier,it=professione,pt=profissão,tr=meslek,ar=مهنة,ru=профессия,pl=zawód,uk=професія|
+das Büro|Raum für Verwaltungsarbeit|A1|buero,arbeit|INT|Das Büro ist im zweiten Stock.|en=office,es=oficina,fr=bureau,it=ufficio,pt=escritório,tr=ofis,ar=مكتب,ru=офис,pl=biuro,uk=офіс|
+der Termin|verabredete Zeit|A1|buero,alltag|INT|Der Termin ist am Montag.|en=appointment,es=cita,fr=rendez-vous,it=appuntamento,pt=compromisso,tr=randevu,ar=موعد,ru=встреча,pl=spotkanie,uk=зустріч|
+die Woche|Zeitraum von sieben Tagen|A1|alltag,arbeit|INT|Die Woche geht schnell vorbei.|en=week,es=semana,fr=semaine,it=settimana,pt=semana,tr=hafta,ar=أسبوع,ru=неделя,pl=tydzień,uk=тиждень|
+der Monat|Zeitraum von vier Wochen|A1|alltag,arbeit|INT|Der Monat hat dreissig Tage.|en=month,es=mes,fr=mois,it=mese,pt=mês,tr=ay,ar=شهر,ru=месяц,pl=miesiąc,uk=місяць|
+der Morgen|Tagesbeginn|A1|alltag,freizeit|INT|Der Morgen ist kühl und ruhig.|en=morning,es=mañana,fr=matin,it=mattina,pt=manhã,tr=sabah,ar=صباح,ru=утро,pl=rano,uk=ранок|
+der Abend|Tagesende|A1|alltag,freizeit|INT|Der Abend ist sehr gemütlich.|en=evening,es=tarde,fr=soir,it=sera,pt=noite,tr=akşam,ar=مساء,ru=вечер,pl=wieczór,uk=вечір|
+das Wetter|Zustand der Atmosphäre|A1|alltag,reisen|INT|Das Wetter ist heute schön.|en=weather,es=tiempo,fr=météo,it=tempo,pt=tempo,tr=hava,ar=طقس,ru=погода,pl=pogoda,uk=погода|
+die Stadt|grosse Siedlung|A1|alltag,reisen|INT|Die Stadt ist sehr lebendig.|en=city,es=ciudad,fr=ville,it=città,pt=cidade,tr=şehir,ar=مدينة,ru=город,pl=miasto,uk=місто|
+das Dorf|kleine Siedlung auf dem Land|A1|alltag,reisen|INT|Das Dorf liegt am See.|en=village,es=pueblo,fr=village,it=villaggio,pt=aldeia,tr=köy,ar=قرية,ru=деревня,pl=wieś,uk=село|
+der Zug|Fahrzeug auf Schienen|A1|reisen,logistik|INT|Der Zug fährt um neun Uhr.|en=train,es=tren,fr=train,it=treno,pt=trem,tr=tren,ar=قطار,ru=поезд,pl=pociąg,uk=потяг|
+der Bus|grosses Fahrzeug im Stadtverkehr|A1|reisen,logistik|INT|Der Bus kommt in fünf Minuten.|en=bus,es=autobús,fr=bus,it=autobus,pt=ônibus,tr=otobüs,ar=حافلة,ru=автобус,pl=autobus,uk=автобус|
+der Bahnhof|Ort für Zugabfahrten|A1|reisen,logistik|INT|Der Bahnhof ist gleich hier links.|en=station,es=estación,fr=gare,it=stazione,pt=estação,tr=istasyon,ar=محطة قطار,ru=вокзал,pl=dworzec,uk=вокзал|
+die Fahrkarte|Ticket für die Fahrt|A1|reisen,logistik|INT|Die Fahrkarte kostet zehn Euro.|en=ticket,es=billete,fr=billet,it=biglietto,pt=passagem,tr=bilet,ar=تذكرة,ru=билет,pl=bilet,uk=квиток|
+die Reise|Fahrt an einen anderen Ort|A1|reisen,freizeit|INT|Die Reise dauert drei Stunden.|en=trip,es=viaje,fr=voyage,it=viaggio,pt=viagem,tr=seyahat,ar=رحلة,ru=поездка,pl=podróż,uk=подорож|
+das Hotel|Unterkunft für Gäste|A1|reisen,freizeit|INT|Das Hotel liegt im Zentrum.|en=hotel,es=hotel,fr=hôtel,it=albergo,pt=hotel,tr=otel,ar=فندق,ru=отель,pl=hotel,uk=готель|
+der Arzt|Person die Kranke behandelt|A1|gesundheit,arbeit|INT|Der Arzt ist heute beschäftigt.|en=doctor,es=médico,fr=médecin,it=medico,pt=médico,tr=doktor,ar=طبيب,ru=врач,pl=lekarz,uk=лікар|
+die Apotheke|Geschäft für Medikamente|A1|gesundheit,einkaufen|INT|Die Apotheke ist gleich um die Ecke.|en=pharmacy,es=farmacia,fr=pharmacie,it=farmacia,pt=farmácia,tr=eczane,ar=صيدلية,ru=аптека,pl=apteka,uk=аптека|

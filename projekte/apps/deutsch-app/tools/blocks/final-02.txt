@@ -1,0 +1,60 @@
+der Morgen|Tageszeit nach dem Aufstehen|A1|alltag,arbeit|INT|Der Morgen beginnt für mich um sechs Uhr.|en=morning,es=mañana,fr=matin,it=mattina,pt=manhã,tr=sabah,ar=صباح,ru=утро,pl=rano,uk=ранок|
+der Tag|Zeitraum von morgens bis abends|A1|alltag,arbeit|INT|Der Tag fängt heute früh an.|en=day,es=día,fr=jour,it=giorno,pt=dia,tr=gün,ar=يوم,ru=день,pl=dzień,uk=день|
+der Abend|Tageszeit bis zur Nacht|A1|alltag,freizeit|INT|Der Abend im Restaurant war schön.|en=evening,es=tarde,fr=soir,it=sera,pt=noite,tr=akşam,ar=مساء,ru=вечер,pl=wieczór,uk=вечір|
+die Nacht|Zeit zwischen Abend und Morgen|A1|alltag,wohnen|INT|Die Nacht war sehr ruhig.|en=night,es=noche,fr=nuit,it=notte,pt=noite,tr=gece,ar=ليل,ru=ночь,pl=noc,uk=ніч|
+der Mittag|Mittagszeit um zwölf Uhr|A1|alltag,gastro|INT|Am Mittag essen wir in der Kantine.|en=noon,es=mediodía,fr=midi,it=mezzogiorno,pt=meio-dia,tr=öğlen,ar=ظهر,ru=полдень,pl=południe,uk=полудень|
+die Woche|Zeitraum von sieben Tagen|A1|alltag,arbeit|INT|Die Woche hat sieben Tage.|en=week,es=semana,fr=semaine,it=settimana,pt=semana,tr=hafta,ar=أسبوع,ru=неделя,pl=tydzień,uk=тиждень|
+der Monat|Zeitraum von vier Wochen|A1|alltag,arbeit|INT|Der Monat ist im Kalender rot markiert.|en=month,es=mes,fr=mois,it=mese,pt=mês,tr=ay,ar=شهر,ru=месяц,pl=miesiąc,uk=місяць|
+das Jahr|Zeitraum von zwölf Monaten|A1|alltag,bildung|INT|In diesem Jahr lerne ich Deutsch.|en=year,es=año,fr=année,it=anno,pt=ano,tr=yıl,ar=سنة,ru=год,pl=rok,uk=рік|
+der Montag|erster Wochentag|A1|alltag,arbeit|INT|Am Montag beginnt der Kurs.|en=Monday,es=lunes,fr=lundi,it=lunedì,pt=segunda-feira,tr=pazartesi,ar=الاثنين,ru=понедельник,pl=poniedziałek,uk=понеділок|
+der Januar|erster Monat des Jahres|A1|alltag,freizeit|INT|Im Januar fahren wir in die Berge.|en=January,es=enero,fr=janvier,it=gennaio,pt=janeiro,tr=ocak,ar=يناير,ru=январь,pl=styczeń,uk=січень|
+der Sommer|warme Jahreszeit|A1|freizeit,reisen|INT|Im Sommer gehen wir oft baden.|en=summer,es=verano,fr=été,it=estate,pt=verão,tr=yaz,ar=صيف,ru=лето,pl=lato,uk=літо|
+der Winter|kalte Jahreszeit|A1|freizeit,reisen|INT|Der Winter ist hier sehr kalt.|en=winter,es=invierno,fr=hiver,it=inverno,pt=inverno,tr=kış,ar=شتاء,ru=зима,pl=zima,uk=зима|
+die Familie|Eltern und Kinder|A1|familie,alltag|INT|Die Familie wohnt in einem Haus.|en=family,es=familia,fr=famille,it=famiglia,pt=família,tr=aile,ar=عائلة,ru=семья,pl=rodzina,uk=сім'я|
+die Mutter|weiblicher Elternteil|A1|familie,alltag|INT|Die Mutter holt das Kind ab.|en=mother,es=madre,fr=mère,it=madre,pt=mãe,tr=anne,ar=أم,ru=мать,pl=matka,uk=мати|
+der Vater|männlicher Elternteil|A1|familie,alltag|INT|Der Vater kocht am Sonntag.|en=father,es=padre,fr=père,it=padre,pt=pai,tr=baba,ar=أب,ru=отец,pl=ojciec,uk=батько|
+die Schwester|weibliches Geschwister|A1|familie,alltag|INT|Die Schwester besucht mich morgen.|en=sister,es=hermana,fr=sœur,it=sorella,pt=irmã,tr=kız kardeş,ar=أخت,ru=сестра,pl=siostra,uk=сестра|
+der Bruder|männliches Geschwister|A1|familie,alltag|INT|Der Bruder studiert in Bern.|en=brother,es=hermano,fr=frère,it=fratello,pt=irmão,tr=erkek kardeş,ar=أخ,ru=брат,pl=brat,uk=брат|
+der Freund|älterer Artikel, Gefährte|A1|familie,freizeit|INT|Der Freund hilft mir beim Umzug.|en=friend,es=amigo,fr=ami,it=amico,pt=amigo,tr=arkadaş,ar=صديق,ru=друг,pl=przyjaciel,uk=друг|
+die Wohnung|Ort zum Wohnen|A1|wohnen,alltag|INT|Die Wohnung hat drei Zimmer.|en=flat,es=piso,fr=appartement,it=appartamento,pt=apartamento,tr=daire,ar=شقة,ru=квартира,pl=mieszkanie,uk=квартира|
+das Zimmer|Raum in einer Wohnung|A1|wohnen,alltag|INT|Das Zimmer ist sehr hell.|en=room,es=habitación,fr=chambre,it=stanza,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+die Küche|Raum zum Kochen|A1|wohnen,gastro|INT|Die Küche ist klein aber gemütlich.|en=kitchen,es=cocina,fr=cuisine,it=cucina,pt=cozinha,tr=mutfak,ar=مطبخ,ru=кухня,pl=kuchnia,uk=кухня|
+der Kühlschrank|Gerät zum Kühlen von Essen|A1|wohnen,gastro|INT|Der Kühlschrank ist noch fast leer.|en=fridge,es=nevera,fr=réfrigérateur,it=frigorifero,pt=geladeira,tr=buzdolabı,ar=ثلاجة,ru=холодильник,pl=lodówka,uk=холодильник|
+die Lampe|Gerät zum Beleuchten|A1|wohnen,technik|INT|Die Lampe über dem Tisch ist kaputt.|en=lamp,es=lámpara,fr=lampe,it=lampada,pt=lâmpada,tr=lamba,ar=مصباح,ru=лампа,pl=lampa,uk=лампа|
+die Treppe|Stufen im Haus|A1|wohnen,bau|INT|Die Treppe führt in den dritten Stock.|en=stairs,es=escalera,fr=escalier,it=scala,pt=escada,tr=merdiven,ar=درج,ru=лестница,pl=schody,uk=сходи|
+die Tür|Eingang zu einem Raum|A1|wohnen,alltag|INT|Bitte schliessen Sie die Tür leise.|en=door,es=puerta,fr=porte,it=porta,pt=porta,tr=kapı,ar=باب,ru=дверь,pl=drzwi,uk=двері|
+das Fenster|Öffnung mit Glas in der Wand|A1|wohnen,alltag|INT|Das Fenster ist heute offen.|en=window,es=ventana,fr=fenêtre,it=finestra,pt=janela,tr=pencere,ar=نافذة,ru=окно,pl=okno,uk=вікно|
+der Schlüssel|Gegenstand zum Öffnen|A1|wohnen,alltag|INT|Der Schlüssel steckt in der Tasche.|en=key,es=llave,fr=clé,it=chiave,pt=chave,tr=anahtar,ar=مفتاح,ru=ключ,pl=klucz,uk=ключ|
+das Brot|Nahrung aus Mehl|A1|einkaufen,gastro|INT|Das Brot ist noch ganz frisch.|en=bread,es=pan,fr=pain,it=pane,pt=pão,tr=ekmek,ar=خبز,ru=хлеб,pl=chleb,uk=хліб|
+die Milch|weisses Getränk vom Tier|A1|einkaufen,gastro|INT|Die Milch kostet zwei Franken.|en=milk,es=leche,fr=lait,it=latte,pt=leite,tr=süt,ar=حليب,ru=молоко,pl=mleko,uk=молоко|
+der Käse|Nahrungsmittel aus Milch|A1|einkaufen,gastro|INT|Der Käse schmeckt besonders gut.|en=cheese,es=queso,fr=fromage,it=formaggio,pt=queijo,tr=peynir,ar=جبن,ru=сыр,pl=ser,uk=сир|
+das Ei|Lebensmittel mit Schale|A1|einkaufen,gastro|INT|Das Ei koche ich fünf Minuten.|en=egg,es=huevo,fr=œuf,it=uovo,pt=ovo,tr=yumurta,ar=بيضة,ru=яйцо,pl=jajko,uk=яйце|
+die Butter|Streichfett aus Milch|A1|einkaufen,gastro|INT|Die Butter ist im Kühlschrank.|en=butter,es=mantequilla,fr=beurre,it=burro,pt=manteiga,tr=tereyağı,ar=زبدة,ru=масло,pl=masło,uk=масло|
+der Salat|Gericht aus Blättern und Gemüse|A1|gastro,einkaufen|INT|Der Salat ist frisch und grün.|en=salad,es=ensalada,fr=salade,it=insalata,pt=salada,tr=salata,ar=سلطة,ru=салат,pl=sałatka,uk=салат|
+die Pizza|italienisches Gericht mit Teig|A1|gastro,freizeit|INT|Die Pizza kommt in zehn Minuten.|en=pizza,es=pizza,fr=pizza,it=pizza,pt=pizza,tr=pizza,ar=بيتزا,ru=пицца,pl=pizza,uk=піца|
+der Teller|Geschirr für Speisen|A1|gastro,wohnen|INT|Der Teller steht schon auf dem Tisch.|en=plate,es=plato,fr=assiette,it=piatto,pt=prato,tr=tabak,ar=طبق,ru=тарелка,pl=talerz,uk=тарілка|
+die Tasse|Gefäss für Kaffee oder Tee|A1|gastro,wohnen|INT|Die Tasse ist noch halb voll.|en=cup,es=taza,fr=tasse,it=tazza,pt=xícara,tr=fincan,ar=فنجان,ru=чашка,pl=filiżanka,uk=чашка|
+das Glas|Gefäss aus Glas für Getränke|A1|gastro,wohnen|INT|Das Glas Wasser steht neben dir.|en=glass,es=vaso,fr=verre,it=bicchiere,pt=copo,tr=bardak,ar=كوب,ru=стакан,pl=szklanka,uk=склянка|
+der Löffel|Besteck zum Essen|A1|gastro,wohnen|INT|Der Löffel liegt rechts vom Teller.|en=spoon,es=cuchara,fr=cuillère,it=cucchiaio,pt=colher,tr=kaşık,ar=ملعقة,ru=ложка,pl=łyżka,uk=ложка|
+die Gabel|Besteck mit Zinken|A1|gastro,wohnen|INT|Die Gabel ist links vom Teller.|en=fork,es=tenedor,fr=fourchette,it=forchetta,pt=garfo,tr=çatal,ar=شوكة,ru=вилка,pl=widelec,uk=виделка|
+das Messer|Besteck zum Schneiden|A1|gastro,wohnen|INT|Das Messer schneidet sehr gut.|en=knife,es=cuchillo,fr=couteau,it=coltello,pt=faca,tr=bıçak,ar=سكين,ru=нож,pl=nóż,uk=ніж|
+der Supermarkt|Geschäft für Lebensmittel|A1|einkaufen,alltag|INT|Der Supermarkt schliesst um acht Uhr.|en=supermarket,es=supermercado,fr=supermarché,it=supermercato,pt=supermercado,tr=süpermarket,ar=سوبر ماركت,ru=супермаркет,pl=supermarket,uk=супермаркет|
+die Post|Einrichtung für Briefe|A1|behoerden,alltag|INT|Die Post ist neben der Apotheke.|en=post office,es=correo,fr=poste,it=posta,pt=correio,tr=postane,ar=بريد,ru=почта,pl=poczta,uk=пошта|
+die Bank|Geldinstitut|A1|bank,alltag|INT|Die Bank öffnet um neun Uhr.|en=bank,es=banco,fr=banque,it=banca,pt=banco,tr=banka,ar=مصرف,ru=банк,pl=bank,uk=банк|
+der Kaffee|Getränk aus gerösteten Bohnen|A1|gastro,freizeit|INT|Der Kaffee ist leider kalt.|en=coffee,es=café,fr=café,it=caffè,pt=café,tr=kahve,ar=قهوة,ru=кофе,pl=kawa,uk=кава|
+das Restaurant|Ort zum Essen und Trinken|A1|gastro,freizeit|INT|Das Restaurant liegt am Fluss.|en=restaurant,es=restaurante,fr=restaurant,it=ristorante,pt=restaurante,tr=restoran,ar=مطعم,ru=ресторан,pl=restauracja,uk=ресторан|
+das Café|Ort für Kaffee und Kuchen|A1|gastro,freizeit|INT|Im Café treffen wir unsere Freunde.|en=café,es=cafetería,fr=café,it=bar,pt=café,tr=kafe,ar=مقهى,ru=кафе,pl=kawiarnia,uk=кав'ярня|
+die Strasse|befestigter Weg für Fahrzeuge|A1|reisen,alltag|INT|Die Strasse vor dem Haus ist neu.|en=street,es=calle,fr=rue,it=strada,pt=rua,tr=sokak,ar=شارع,ru=улица,pl=ulica,uk=вулиця|
+die Stadt|grösserer Ort mit vielen Häusern|A1|reisen,alltag|INT|Die Stadt ist am Wochenende ruhig.|en=city,es=ciudad,fr=ville,it=città,pt=cidade,tr=şehir,ar=مدينة,ru=город,pl=miasto,uk=місто|
+das Land|Staat oder ländliche Gegend|A1|reisen,alltag|INT|Das Land hat viele schöne Seen.|en=country,es=país,fr=pays,it=paese,pt=país,tr=ülke,ar=بلاد,ru=страна,pl=kraj,uk=країна|
+die Schweiz|mitteleuropäischer Staat|A1|reisen,behoerden|CH,INT|Die Schweiz hat vier Landessprachen.|en=Switzerland,es=Suiza,fr=Suisse,it=Svizzera,pt=Suíça,tr=İsviçre,ar=سويسرا,ru=Швейцария,pl=Szwajcaria,uk=Швейцарія|
+Deutschland|mitteleuropäischer Staat|A1|reisen,behoerden|DE,INT|Deutschland grenzt an die Schweiz.|en=Germany,es=Alemania,fr=Allemagne,it=Germania,pt=Alemanha,tr=Almanya,ar=ألمانيا,ru=Германия,pl=Niemcy,uk=Німеччина|
+die Rechnung|Forderung über Betrag|A1|gastro,einkaufen,bank|INT|Die Rechnung beträgt vierzig Franken.|en=bill,es=cuenta,fr=addition,it=conto,pt=conta,tr=hesap,ar=فاتورة,ru=счёт,pl=rachunek,uk=рахунок|
+die Kasse|Ort zum Bezahlen|A1|einkaufen,gastro|INT|Bitte zahlen Sie an der Kasse.|en=checkout,es=caja,fr=caisse,it=cassa,pt=caixa,tr=kasa,ar=صندوق,ru=касса,pl=kasa,uk=каса|
+der Ausweis|amtlicher Identitätsnachweis|A1|behoerden,recht|INT|Bitte zeigen Sie Ihren Ausweis.|en=ID card,es=carné,fr=pièce d'identité,it=documento,pt=documento,tr=kimlik,ar=بطاقة هوية,ru=удостоверение,pl=dokument,uk=посвідчення|
+das Formular|Vordruck zum Ausfüllen|A1|behoerden,buero|INT|Bitte füllen Sie das Formular aus.|en=form,es=formulario,fr=formulaire,it=modulo,pt=formulário,tr=form,ar=استمارة,ru=бланк,pl=formularz,uk=бланк|
+die Unterschrift|Name als Bestätigung|A1|behoerden,buero|INT|Hier fehlt noch Ihre Unterschrift.|en=signature,es=firma,fr=signature,it=firma,pt=assinatura,tr=imza,ar=توقيع,ru=подпись,pl=podpis,uk=підпис|
+das Amt|staatliche Stelle|A1|behoerden,recht|INT|Das Amt ist am Freitag geschlossen.|en=office,es=oficina,fr=administration,it=ufficio,pt=repartição,tr=daire,ar=مكتب,ru=ведомство,pl=urząd,uk=установа|
+der Termin|vereinbarter Zeitpunkt|A1|behoerden,arbeit,gesundheit|INT|Der Termin ist am Dienstag um zehn.|en=appointment,es=cita,fr=rendez-vous,it=appuntamento,pt=marcação,tr=randevu,ar=موعد,ru=приём,pl=termin,uk=прийом|
+die Praxis|Arztpraxis|A1|gesundheit,alltag|INT|Die Praxis öffnet um acht Uhr.|en=practice,es=consultorio,fr=cabinet,it=studio,pt=consultório,tr=muayenehane,ar=عيادة,ru=кабинет врача,pl=gabinet,uk=кабінет|
+die Apotheke|Geschäft für Medikamente|A1|gesundheit,einkaufen|INT|Die Apotheke hat heute Bereitschaft.|en=pharmacy,es=farmacia,fr=pharmacie,it=farmacia,pt=farmácia,tr=eczane,ar=صيدلية,ru=аптека,pl=apteka,uk=аптека|

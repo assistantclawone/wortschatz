@@ -1,0 +1,34 @@
+das|bestimmter Artikel neutrum|A1|ALL|INT|Das Kind spielt im Garten.|en=the,es=el,fr=le,it=il,pt=o,tr=-,ar=ال,ru=артикль среднего рода,pl=rodzajnik,uk=артикль середнього роду|
+ein|unbestimmter Artikel maskulin und neutrum|A1|ALL|INT|Ich möchte ein Bier bitte.|en=a/an,es=un,fr=un,it=un,pt=um,tr=bir,ar=أداة تنكير,ru=неопределённый артикль,pl=rodzajnik nieokreślony,uk=неозначений артикль|
+zu|Richtung und Zweck|A1|ALL|INT|Ich gehe zu meiner Mutter.|en=to,es=a,fr=à,it=a,pt=a,tr=-e,ar=إلى,ru=к,pl=do,uk=до|
+von|Ausgangspunkt|A1|ALL|INT|Ich komme von der Arbeit.|en=from,es=de,fr=de,it=da,pt=de,tr=-den,ar=من,ru=от,pl=od,uk=від|
+mit|Begleitung|A1|ALL|INT|Ich fahre mit dem Zug.|en=with,es=con,fr=avec,it=con,pt=com,tr=ile,ar=مع,ru=с,pl=z,uk=з|
+auf|Position auf einer Fläche|A1|ALL|INT|Das Buch liegt auf dem Tisch.|en=on,es=en,fr=sur,it=su,pt=em,tr=üstünde,ar=على,ru=на,pl=na,uk=на|
+für|Zweck und Nutzen|A1|ALL|INT|Das Geschenk ist für dich.|en=for,es=para,fr=pour,it=per,pt=para,tr=için,ar=ل,ru=для,pl=dla,uk=для|
+an|Kontakt an einer Grenze|A1|ALL|INT|Ich warte an der Haltestelle.|en=at,es=en,fr=à,it=a,pt=em,tr=-de,ar=عند,ru=у,pl=przy,uk=біля|
+bei|Nähe einer Person|A1|ALL|INT|Ich wohne bei meinen Eltern.|en=at/with,es=en casa de,fr=chez,it=da,pt=com,ar=عند,ru=у,pl=u,uk=у|
+nach|Richtung und Zeitfolge|A1|ALL|INT|Nach dem Essen gehen wir spazieren.|en=after/to,es=después,fr=après,it=dopo,pt=depois,tr=sonra,ar=بعد,ru=после,pl=po,uk=після|
+aus|Herkunft|A1|ALL|INT|Sie kommt aus Spanien.|en=from,es=de,fr=de,it=da,pt=de,tr=-dan,ar=من,ru=из,pl=z,uk=з|
+vor|Position und Zeitpunkt davor|A1|ALL|INT|Das Auto steht vor dem Haus.|en=in front of/before,es=delante/antes,fr=devant/avant,it=davanti/prima,pt=diante/antes,ar=أمام,ru=перед,pl=przed,uk=перед|
+über|Position oberhalb|A1|ALL|INT|Die Lampe hängt über dem Tisch.|en=over/about,es=sobre,fr=au-dessus,it=sopra,pt=sobre,tr=üstünde,ar=فوق,ru=над,pl=nad,uk=над|
+unter|Position unterhalb|A1|ALL|INT|Die Katze schläft unter dem Bett.|en=under,es=debajo,fr=sous,it=sotto,pt=debaixo,tr=altında,ar=تحت,ru=под,pl=pod,uk=під|
+neben|Position seitlich daneben|A1|ALL|INT|Die Bank ist neben der Post.|en=next to,es=al lado de,fr=à côté de,it=accanto,pt=ao lado de,tr=yanında,ar=بجانب,ru=рядом,pl=obok,uk=поруч|
+zwischen|Position in der Mitte von zwei Dingen|A1|ALL|INT|Der Stuhl steht zwischen den Tischen.|en=between,es=entre,fr=entre,it=tra,pt=entre,tr=arasında,ar=بين,ru=между,pl=między,uk=між|
+ohne|Fehlen von etwas|A1|ALL|INT|Ich trinke Kaffee ohne Zucker.|en=without,es=sin,fr=sans,it=senza,pt=sem,tr=siz,ar=بدون,ru=без,pl=bez,uk=без|
+gegen|Richtung entgegen|A1|ALL|INT|Das Fahrrad fuhr gegen die Wand.|en=against,es=contra,fr=contre,it=contro,pt=contra,tr=karşı,ar=ضد,ru=против,pl=przeciw,uk=проти|
+durch|Bewegung von einer Seite zur anderen|A1|ALL|INT|Wir gehen durch den Park.|en=through,es=por,fr=par,it=attraverso,pt=pelo,tr=içinden,ar=عبر,ru=через,pl=przez,uk=через|
+um|Uhrzeit und Bewegung um etwas herum|A1|ALL|INT|Der Kurs beginnt um neun Uhr.|en=at/around,es=a,fr=à,it=alle,pt=às,tr=-de,ar=في,ru=в,pl=o,uk=о|
+seit|Zeitdauer ab einem Punkt|A1|ALL|INT|Ich wohne seit einem Jahr hier.|en=since/for,es=desde,fr=depuis,it=da,pt=desde,tr=-den beri,ar=منذ,ru=с,pl=od,uk=з|
+bis|Endpunkt einer Zeit oder Strecke|A1|ALL|INT|Der Laden ist bis acht Uhr offen.|en=until,es=hasta,fr=jusqu'à,it=fino a,pt=até,tr=-e kadar,ar=حتى,ru=до,pl=do,uk=до|
+oder|Alternative|A1|ALL|INT|Möchtest du Tee oder Kaffee?|en=or,es=o,fr=ou,it=o,pt=ou,tr=veya,ar=أو,ru=или,pl=lub,uk=або|
+aber|Gegensatz|A1|ALL|INT|Ich bin müde aber glücklich.|en=but,es=pero,fr=mais,it=ma,pt=mas,tr=ama,ar=لكن,ru=но,pl=ale,uk=але|
+wenn|Bedingung|A1|ALL|INT|Wenn es regnet bleibe ich hier.|en=if/when,es=si/cuando,fr=si/quand,it=se/quando,pt=se/quando,tr=eğer,ar=إذا,ru=если,pl=jeśli,uk=якщо|
+dass|Einleitung eines Nebensatzes|A1|ALL|INT|Ich glaube dass er Recht hat.|en=that,es=que,fr=que,it=che,pt=que,tr=ki,ar=أن,ru=что,pl=że,uk=що|
+weil|Grund|A1|ALL|INT|Ich bleibe zu Hause weil ich krank bin.|en=because,es=porque,fr=parce que,it=perché,pt=porque,tr=çünkü,ar=لأن,ru=потому что,pl=ponieważ,uk=тому що|
+denn|Begründung in Hauptsatzstellung|A1|ALL|INT|Ich komme später denn ich arbeite noch.|en=because,es=porque,fr=car,it=perché,pt=pois,tr=çünkü,ar=لأن,ru=потому что,pl=bo,uk=бо|
+als|Vergleich und Zeitpunkt in der Vergangenheit|A1|ALL|INT|Er ist älter als ich.|en=than/when,es=que/cuando,fr=que/quand,it=di/quando,pt=que/quando,tr=-den,ar=من/عندما,ru=чем/когда,pl=niż,uk=ніж|
+ob|indirekte Ja-Nein-Frage|A1|ALL|INT|Ich weiss nicht ob er kommt.|en=whether,es=si,fr=si,it=se,pt=se,tr=-ip,ar=إذا,ru=ли,pl=czy,uk=чи|
+sich|Reflexivpronomen|A1|ALL|INT|Er wäscht sich jeden Morgen.|en=oneself,es=se,fr=se,it=si,pt=se,tr=kendi,ar=نفسه,ru=себя,pl=siebie,uk=себе|
+mich|Akkusativ von ich|A1|ALL|INT|Sie besucht mich am Wochenende.|en=me,es=me,fr=moi,it=mi,pt=me,tr=beni,ar=إياي,ru=меня,pl=mnie,uk=мене|
+dir|Dativ von du|A1|ALL|INT|Ich gebe dir das Buch morgen.|en=you,es=te,fr=toi,it=ti,pt=te,tr=sana,ar=إليك,ru=тебе,pl=tobie,uk=тобі|
+ihm|Dativ von er und es|A1|ALL|INT|Ich helfe ihm heute beim Umzug.|en=him,es=le,fr=lui,it=gli,pt=lhe,tr=ona,ar=له,ru=ему,pl=jemu,uk=йому|

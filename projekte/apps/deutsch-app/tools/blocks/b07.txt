@@ -1,0 +1,70 @@
+können|Möglichkeit haben|A1|ALL|INT|Ich kann heute nicht kommen.|en=can,es=poder,fr=pouvoir,it=potere,pt=poder,tr=edebilmek,ar=يستطيع,ru=мочь,pl=móc,uk=могти|
+zum|zu dem (Kurzform)|A1|ALL|INT|Wir gehen zum Bahnhof.|en=to the,es=al,fr=au,it=al,pt=ao,tr=-e/-a,ar=إلى,ru=к,pl=do,uk=до|
+zur|zu der (Kurzform)|A1|ALL|INT|Ich gehe zur Arbeit.|en=to the,es=a la,fr=à la,it=alla,pt=à,tr=-e/-a,ar=إلى,ru=к,pl=do,uk=до|
+im|in dem (Kurzform)|A1|ALL|INT|Ich wohne im Zentrum.|en=in the,es=en el,fr=dans le,it=nel,pt=no,tr=-de/-da,ar=في,ru=в,pl=w,uk=у|
+am|an dem (Kurzform)|A1|ALL|INT|Ich arbeite am Montag.|en=on the,es=en el,fr=au,it=al,pt=no,tr=-de/-da,ar=في,ru=в,pl=w,uk=у|
+ins|in das (Kurzform)|A1|ALL|INT|Wir gehen ins Kino.|en=into the,es=al,fr=au,it=nel,pt=no,tr=-e/-a,ar=إلى,ru=в,pl=do,uk=у|
+Vater|männlicher Elternteil|A1|familie,alltag|INT|Mein Vater arbeitet in Zürich.|en=father,es=padre,fr=père,it=padre,pt=pai,tr=baba,ar=أب,ru=отец,pl=ojciec,uk=батько|
+Mutter|weiblicher Elternteil|A1|familie,alltag|INT|Meine Mutter kocht sehr gut.|en=mother,es=madre,fr=mère,it=madre,pt=mãe,tr=anne,ar=أم,ru=мать,pl=matka,uk=мати|
+Eltern|Vater und Mutter|A1|familie,alltag|INT|Meine Eltern wohnen in Bern.|en=parents,es=padres,fr=parents,it=genitori,pt=pais,tr=ebeveyn,ar=والدان,ru=родители,pl=rodzice,uk=батьки|
+Bruder|männliches Geschwister|A1|familie,alltag|INT|Mein Bruder ist zehn Jahre alt.|en=brother,es=hermano,fr=frère,it=fratello,pt=irmão,tr=kardeş,ar=أخ,ru=брат,pl=brat,uk=брат|
+Schwester|weibliches Geschwister|A1|familie,alltag|INT|Meine Schwester wohnt in Wien.|en=sister,es=hermana,fr=sœur,it=sorella,pt=irmã,tr=kız kardeş,ar=أخت,ru=сестра,pl=siostra,uk=сестра|
+Familie|Eltern und Kinder|A1|familie,alltag|INT|Meine Familie ist nicht gross.|en=family,es=familia,fr=famille,it=famiglia,pt=família,tr=aile,ar=أسرة,ru=семья,pl=rodzina,uk=сімʼя|
+Freund|männliche bekannte Person|A1|alltag,freizeit|INT|Mein Freund kommt aus Spanien.|en=friend,es=amigo,fr=ami,it=amico,pt=amigo,tr=arkadaş,ar=صديق,ru=друг,pl=przyjaciel,uk=друг|
+Leute|mehrere Personen|A1|alltag,freizeit|INT|Viele Leute warten auf den Bus.|en=people,es=gente,fr=gens,it=gente,pt=pessoas,tr=insanlar,ar=ناس,ru=люди,pl=ludzie,uk=люди|
+Name|Bezeichnung einer Person|A1|alltag,behoerden|INT|Wie ist Ihr Name|en=name,es=nombre,fr=nom,it=nome,pt=nome,tr=ad,ar=اسم,ru=имя,pl=imię,uk=імʼя|
+Adresse|Anschrift einer Person|A1|alltag,behoerden|INT|Meine Adresse steht im Vertrag.|en=address,es=dirección,fr=adresse,it=indirizzo,pt=endereço,tr=adres,ar=عنوان,ru=адрес,pl=adres,uk=адреса|
+Straße|befestigter Weg|A1|alltag,wohnen|INT|Ich wohne in der Hauptstraße.|en=street,es=calle,fr=rue,it=strada,pt=rua,tr=sokak,ar=شارع,ru=улица,pl=ulica,uk=вулиця|
+Haus|Gebäude zum Wohnen|A1|wohnen,alltag|INT|Das Haus ist sehr alt.|en=house,es=casa,fr=maison,it=casa,pt=casa,tr=ev,ar=منزل,ru=дом,pl=dom,uk=дім|
+Wohnung|Mietwohnung einer Familie|A1|wohnen,alltag|INT|Die Wohnung hat drei Zimmer.|en=flat,es=piso,fr=appartement,it=appartamento,pt=apartamento,tr=daire,ar=شقة,ru=квартира,pl=mieszkanie,uk=квартира|
+Zimmer|Raum in einer Wohnung|A1|wohnen,alltag|INT|Das Zimmer ist hell und ruhig.|en=room,es=habitación,fr=chambre,it=camera,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+Tür|beweglicher Zugang zum Raum|A1|wohnen,alltag|INT|Bitte schliessen Sie die Tür.|en=door,es=puerta,fr=porte,it=porta,pt=porta,tr=kapı,ar=باب,ru=дверь,pl=drzwi,uk=двері|
+Fenster|Glasöffnung in der Wand|A1|wohnen,alltag|INT|Das Fenster ist noch offen.|en=window,es=ventana,fr=fenêtre,it=finestra,pt=janela,tr=pencere,ar=نافذة,ru=окно,pl=okno,uk=вікно|
+Tisch|Möbel mit Platte und Beinen|A1|wohnen,alltag|INT|Das Buch liegt auf dem Tisch.|en=table,es=mesa,fr=table,it=tavolo,pt=mesa,tr=masa,ar=طاولة,ru=стол,pl=stół,uk=стіл|
+Stuhl|Sitzmöbel für eine Person|A1|wohnen,alltag|INT|Der Stuhl steht am Fenster.|en=chair,es=silla,fr=chaise,it=sedia,pt=cadeira,tr=sandalye,ar=كرسي,ru=стул,pl=krzesło,uk=стілець|
+Bett|Möbel zum Schlafen|A1|wohnen,alltag|INT|Das Bett steht im Schlafzimmer.|en=bed,es=cama,fr=lit,it=letto,pt=cama,tr=yatak,ar=سرير,ru=кровать,pl=łóżko,uk=ліжко|
+Arbeit|berufliche Tätigkeit|A1|arbeit,alltag|INT|Die Arbeit beginnt um acht Uhr.|en=work,es=trabajo,fr=travail,it=lavoro,pt=trabalho,tr=iş,ar=عمل,ru=работа,pl=praca,uk=робота|
+Chef|Leiter einer Firma|A1|arbeit,buero|INT|Mein Chef ist heute nicht da.|en=boss,es=jefe,fr=chef,it=capo,pt=chefe,tr=patron,ar=مدير,ru=начальник,pl=szef,uk=начальник|
+Kollege|Person im selben Betrieb|A1|arbeit,buero|INT|Mein Kollege hilft mir oft.|en=colleague,es=colega,fr=collègue,it=collega,pt=colega,tr=iş arkadaşı,ar=زميل,ru=коллега,pl= kolega,uk=колега|
+Firma|gewerbliches Unternehmen|A1|arbeit,buero|INT|Die Firma hat viele Angestellte.|en=company,es=empresa,fr=entreprise,it=azienda,pt=empresa,tr=şirket,ar=شركة,ru=фирма,pl= firma,uk=фірма|
+Beruf|erlernte Tätigkeit|A1|arbeit,bildung|INT|Was ist Ihr Beruf|en=profession,es=profesión,fr=métier,it=professione,pt=profissão,tr=meslek,ar=مهنة,ru=профессия,pl= zawód,uk=професія|
+Stelle|Arbeitsplatz im Betrieb|A1|arbeit,buero|INT|Ich suche eine neue Stelle.|en=position,es=puesto,fr=poste,it=posto,pt=vaga,tr=iş,ar=وظيفة,ru=должность,pl= posada,uk=посада|
+Geld|Zahlungsmittel|A1|bank,einkaufen|INT|Ich habe kein Geld dabei.|en=money,es=dinero,fr=argent,it=denaro,pt=dinheiro,tr=para,ar=مال,ru=деньги,pl= pieniądze,uk=гроші|
+Preis|Kosten einer Ware|A1|einkaufen,bank|INT|Der Preis ist mir zu hoch.|en=price,es=precio,fr=prix,it=prezzo,pt=preço,tr=fiyat,ar=سعر,ru=цена,pl= cena,uk=ціна|
+Geschäft|Laden zum Einkaufen|A1|einkaufen,alltag|INT|Das Geschäft schliesst um sechs.|en=shop,es=tienda,fr=magasin,it=negozio,pt=loja,tr=dükkân,ar=متجر,ru=магазин,pl= sklep,uk=магазин|
+Kasse|Ort zum Bezahlen|A1|einkaufen,bank|INT|Bitte zahlen Sie an der Kasse.|en=checkout,es=caja,fr=caisse,it=cassa,pt=caixa,tr=kasa,ar=صندوق,ru=касса,pl= kasa,uk=каса|
+Rechnung|Beleg über eine Zahlung|A1|einkaufen,bank|INT|Die Rechnung liegt in der Tasche.|en=bill,es=factura,fr=facture,it=fattura,pt=conta,tr=fatura,ar=فاتورة,ru=счёт,pl= rachunek,uk=рахунок|
+Termin|vereinbarte Zeit|A1|behoerden,gesundheit|INT|Ich habe morgen einen Termin.|en=appointment,es=cita,fr=rendez-vous,it=appuntamento,pt=marcação,tr=randevu,ar=موعد,ru=запись,pl= termin,uk=прийом|
+Arzt|medizinische Fachperson|A1|gesundheit|INT|Der Arzt kommt gleich.|en=doctor,es=médico,fr=médecin,it=medico,pt=médico,tr=doktor,ar=طبيب,ru=врач,pl= lekarz,uk=лікар|
+Krankheit|Störung der Gesundheit|A1|gesundheit|INT|Die Krankheit dauert eine Woche.|en=illness,es=enfermedad,fr=maladie,it=malattia,pt=doença,tr=hastalık,ar=مرض,ru=болезнь,pl= choroba,uk=хвороба|
+Apotheke|Geschäft für Medikamente|A1|gesundheit,einkaufen|INT|Die Apotheke ist heute geschlossen.|en=pharmacy,es=farmacia,fr=pharmacie,it=farmacia,pt=farmácia,tr=eczane,ar=صيدلية,ru=аптека,pl= apteka,uk=аптека|
+Schule|Ort zum Lernen|A1|bildung,familie|INT|Die Schule beginnt um acht.|en=school,es=escuela,fr=école,it=scuola,pt=escola,tr=okul,ar=مدرسة,ru=школа,pl= szkoła,uk=школа|
+Kurs|Unterricht in einer Gruppe|A1|bildung|INT|Der Deutschkurs beginnt im Mai.|en=course,es=curso,fr=cours,it=corso,pt=curso,tr=kurs,ar=دورة,ru=курс,pl= kurs,uk=курс|
+Buch|gebundenes Schriftwerk|A1|bildung,freizeit|INT|Ich lese gerade ein gutes Buch.|en=book,es=libro,fr=livre,it=libro,pt=livro,tr=kitap,ar=كتاب,ru=книга,pl= książka,uk=книга|
+Sprache|System der Verständigung|A1|bildung,alltag|INT|Deutsch ist eine schöne Sprache.|en=language,es=lengua,fr=langue,it=lingua,pt=língua,tr=dil,ar=لغة,ru=язык,pl= język,uk=мова|
+Bahnhof|Ort zum Ein-Aussteigen|A1|reisen|INT|Der Bahnhof liegt im Zentrum.|en=station,es=estación,fr=gare,it=stazione,pt=estação,tr=istasyon,ar=محطة,ru=вокзал,pl= dworzec,uk=вокзал|
+Zug|Fahrzeug auf Schienen|A1|reisen|INT|Der Zug hat heute Verspätung.|en=train,es=tren,fr=train,it=treno,pt=comboio,tr=tren,ar=قطار,ru=поезд,pl= pociąg,uk=поїзд|
+Flughafen|Ort für Flugzeuge|A1|reisen|INT|Der Flughafen ist weit weg.|en=airport,es=aeropuerto,fr=aéroport,it=aeroporto,pt=aeroporto,tr=havaalanı,ar=مطار,ru=аэропорт,pl= lotnisko,uk=аеропорт|
+Fahrkarte|Ticket für den Verkehr|A1|reisen|INT|Ich kaufe eine Fahrkarte am Schalter.|en=ticket,es=billete,fr=billet,it=biglietto,pt=bilhete,tr=bilet,ar=تذكرة,ru=билет,pl= bilet,uk=квиток|
+Hotel|Gebäude für Gäste|A1|reisen|INT|Das Hotel liegt am See.|en=hotel,es=hotel,fr=hôtel,it=albergo,pt=hotel,tr=otel,ar=فندق,ru=отель,pl= hotel,uk=готель|
+Auto|Fahrzeug mit vier Rädern|A1|reisen,alltag|INT|Mein Auto ist alt aber sicher.|en=car,es=coche,fr=voiture,it=auto,pt=carro,tr=araba,ar=سيارة,ru=машина,pl= samochód,uk=авто|
+Bus|grosses Fahrzeug für viele|A1|reisen,alltag|INT|Der Bus kommt in fünf Minuten.|en=bus,es=autobús,fr=bus,it=autobus,pt=autocarro,tr=otobüs,ar=حافلة,ru=автобус,pl= autobus,uk=автобус|
+Tag|Zeitraum von 24 Stunden|A1|ALL|INT|Der Tag war sehr lang.|en=day,es=día,fr=jour,it=giorno,pt=dia,tr=gün,ar=يوم,ru=день,pl= dzień,uk=день|
+Woche|sieben Tage|A1|ALL|INT|Die Woche hat sieben Tage.|en=week,es=semana,fr=semaine,it=settimana,pt=semana,tr=hafta,ar=أسبوع,ru=неделя,pl= tydzień,uk=тиждень|
+Monat|Zeitraum von vier Wochen|A1|ALL|INT|Der Monat beginnt nächste Woche.|en=month,es=mes,fr=mois,it=mese,pt=mês,tr=ay,ar=شهر,ru=месяц,pl= miesiąc,uk=місяць|
+Uhr|Gerät zum Zeitmessen|A1|ALL|INT|Wie viel Uhr ist es|en=clock,es=reloj,fr=horloge,it=orologio,pt=relógio,tr=saat,ar=ساعة,ru=часы,pl= zegar,uk=годинник|
+Stunde|Zeitraum von 60 Minuten|A1|ALL|INT|Der Kurs dauert zwei Stunden.|en=hour,es=hora,fr=heure,it=ora,pt=hora,tr=saat,ar=ساعة,ru=час,pl= godzina,uk=година|
+essen|Nahrung zu sich nehmen|A1|gastro,alltag|INT|Wann essen wir zu Abend|en=eat,es=comer,fr=manger,it=mangiare,pt=comer,tr=yemek,ar=يأكل,ru=есть,pl= jeść,uk=їсти|
+trinken|Flüssigkeit zu sich nehmen|A1|gastro,alltag|INT|Ich trinke jeden Tag viel Wasser.|en=drink,es=beber,fr=boire,it=bere,pt=beber,tr=içmek,ar=يشرب,ru=пить,pl= pić,uk=пити|
+fragen|eine Antwort erbitten|A1|ALL|INT|Ich möchte dich etwas fragen.|en=ask,es=preguntar,fr=demander,it=chiedere,pt=perguntar,tr=sormak,ar=يسأل,ru=спрашивать,pl= pytać,uk=питати|
+antworten|eine Antwort geben|A1|ALL|INT|Bitte antworten Sie mir heute.|en=answer,es=responder,fr=répondre,it=rispondere,pt=responder,tr=cevap vermek,ar=يجيب,ru=отвечать,pl= odpowiadać,uk=відповідати|
+warten|an einem Ort bleiben|A1|ALL|INT|Wir warten schon zehn Minuten.|en=wait,es=esperar,fr=attendre,it=aspettare,pt=esperar,tr=beklemek,ar=ينتظر,ru=ждать,pl= czekać,uk=чекати|
+öffnen|Zugang frei machen|A1|ALL|INT|Bitte öffnen Sie das Fenster.|en=open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl= otwierać,uk=відчиняти|
+schliessen|Zugang versperren|A1|ALL|INT|Bitte schliessen Sie die Tür.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl= zamykać,uk=зачиняти|
+zeigen|auf etwas hinweisen|A1|ALL|INT|Können Sie mir den Weg zeigen|en=show,es=mostrar,fr=montrer,it=mostrare,pt=mostrar,tr=göstermek,ar=يظهر,ru=показывать,pl= pokazywać,uk=показувати|
+finden|an einen Ort entdecken|A1|ALL|INT|Ich kann den Schlüssel nicht finden.|en=find,es=encontrar,fr=trouver,it=trovare,pt=encontrar,tr=bulmak,ar=يجد,ru=находить,pl= znajdować,uk=знаходити|
+bezahlen|Geld für etwas geben|A1|einkaufen,bank|INT|Ich bezahle mit der Karte.|en=pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=платить,pl= płacić,uk=платити|
+schreiben|Text mit Schrift|A1|bildung,buero|INT|Bitte schreiben Sie Ihren Namen.|en=write,es=escribir,fr=écrire,it=scrivere,pt=escrever,tr=yazmak,ar=يكتب,ru=писать,pl= pisać,uk=писати|
+lesen|Text erfassen|A1|bildung,freizeit|INT|Ich lese jeden Abend ein Buch.|en=read,es=leer,fr=lire,it=leggere,pt=ler,tr=okumak,ar=يقرأ,ru=читать,pl= czytać,uk=читати|
+hören|mit dem Ohr wahrnehmen|A1|ALL|INT|Ich höre gern Musik.|en=hear,es=oír,fr=entendre,it=sentire,pt=ouvir,tr=duymak,ar=يسمع,ru=слышать,pl= słyszeć,uk=чути|
+gehen|sich zu Fuss bewegen|A1|ALL|INT|Wir gehen jetzt nach Hause.|en=go,es=ir,fr=aller,it=andare,pt=ir,tr=gitmek,ar=يذهب,ru=идти,pl= iść,uk=йти|

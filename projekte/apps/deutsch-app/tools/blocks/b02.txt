@@ -1,0 +1,60 @@
+Sie|höfliche Anrede|A1|ALL|INT|Wie heissen Sie bitte?|en=you,es=usted,fr=vous,it=Lei,pt=senhor,tr=siz,ar=أنت,ru=Вы,pl=Pan,uk=Ви|
+wir|Personalpronomen wir|A1|ALL|INT|Wir lernen zusammen Deutsch.|en=we,es=nosotros,fr=nous,it=noi,pt=nós,tr=biz,ar=نحن,ru=мы,pl=my,uk=ми|
+sie|Personalpronomen sie|A1|ALL|INT|Sie arbeitet bei der Bank.|en=she/they,es=ella/ellas,fr=elle/elles,it=lei/loro,pt=ela/elas,tr=o/onlar,ar=هي/هم,ru=она/они,pl=ona/one,uk=вона/вони|
+er|Personalpronomen er|A1|ALL|INT|Er wohnt in Bern.|en=he,es=él,fr=il,it=lui,pt=ele,tr=o,ar=هو,ru=он,pl=on,uk=він|
+wer|Fragepronomen Person|A1|ALL|INT|Wer kommt heute zum Abendessen?|en=who,es=quién,fr=qui,it=chi,pt=quem,tr=kim,ar=من,ru=кто,pl=kto,uk=хто|
+was|Fragepronomen Sache|A1|ALL|INT|Was möchtest du trinken?|en=what,es=qué,fr=quoi,it=cosa,pt=o que,tr=ne,ar=ماذا,ru=что,pl=co,uk=що|
+wo|Fragewort Ort|A1|ALL|INT|Wo ist die nächste Apotheke?|en=where,es=dónde,fr=où,it=dove,pt=onde,tr=nerede,ar=أين,ru=где,pl=gdzie,uk=де|
+wann|Fragewort Zeit|A1|ALL|INT|Wann beginnt der Kurs?|en=when,es=cuándo,fr=quand,it=quando,pt=quando,tr=ne zaman,ar=متى,ru=когда,pl=kiedy,uk=коли|
+wie|Fragewort Art und Weise|A1|ALL|INT|Wie heisst du?|en=how,es=cómo,fr=comment,it=come,pt=como,tr=nasıl,ar=كيف,ru=как,pl=jak,uk=як|
+warum|Fragewort Grund|A1|ALL|INT|Warum bist du heute so müde?|en=why,es=por qué,fr=pourquoi,it=perché,pt=por que,tr=neden,ar=لماذا,ru=почему,pl=dlaczego,uk=чому|
+welcher|Fragewort Auswahl|A1|ALL|INT|Welcher Bus fährt zum Bahnhof?|en=which,es=cuál,fr=quel,it=quale,pt=qual,tr=hangi,ar=أي,ru=какой,pl=który,uk=який|
+in|Ortsangabe im Inneren|A1|ALL|INT|Die Kinder spielen in dem Garten.|en=in,es=en,fr=dans,it=in,pt=em,tr=içinde,ar=في,ru=в,pl=w,uk=у|
+auf|Ortsangabe auf etwas|A1|ALL|INT|Das Buch liegt auf dem Tisch.|en=on,es=sobre,fr=sur,it=su,pt=sobre,tr=üstünde,ar=على,ru=на,pl=na,uk=на|
+unter|Ortsangabe unter etwas|A1|ALL|INT|Die Katze schläft unter dem Bett.|en=under,es=debajo,fr=sous,it=sotto,pt=debaixo,tr=altında,ar=تحت,ru=под,pl=pod,uk=під|
+neben|Ortsangabe daneben|A1|ALL|INT|Die Bank ist neben der Post.|en=next to,es=al lado de,fr=à côté de,it=accanto a,pt=ao lado de,tr=yanında,ar=بجانب,ru=рядом с,pl=obok,uk=поруч|
+zwischen|Ortsangabe dazwischen|A1|ALL|INT|Der Stuhl steht zwischen den Tischen.|en=between,es=entre,fr=entre,it=tra,pt=entre,tr=arasında,ar=بين,ru=между,pl=między,uk=між|
+hinter|Ortsangabe dahinter|A1|ALL|INT|Das Auto steht hinter dem Haus.|en=behind,es=detrás,fr=derrière,it=dietro,pt=atrás,tr=arkasında,ar=خلف,ru=за,pl=za,uk=за|
+zu|Richtung zu einer Person|A1|ALL|INT|Ich gehe zu meiner Mutter.|en=to,es=a,fr=chez,it=da,pt=a,tr=-e,ar=إلى,ru=к,pl=do,uk=до|
+ohne|nicht mit|A1|ALL|INT|Ich kann ohne Brille nicht lesen.|en=without,es=sin,fr=sans,it=senza,pt=sem,tr=siz,ar=بدون,ru=без,pl=bez,uk=без|
+gegen|Richtung gegen etwas|A1|ALL|INT|Die Frau lehnt gegen die Wand.|en=against,es=contra,fr=contre,it=contro,pt=contra,tr=karşı,ar=ضد,ru=против,pl=przeciw,uk=проти|
+durch|Bewegung hindurch|A1|ALL|INT|Ich gehe durch den Park.|en=through,es=por,fr=à travers,it=attraverso,pt=através,tr=boyunca,ar=عبر,ru=через,pl=przez,uk=через|
+um|Uhrzeitangabe|A1|ALL|INT|Der Kurs beginnt um acht Uhr.|en=at,es=a las,fr=à,it=alle,pt=às,tr=saat,ar=في,ru=в,pl=o,uk=о|
+seit|Zeitraum von früher bis jetzt|A1|ALL|INT|Ich wohne seit zwei Jahren hier.|en=since,es=desde,fr=depuis,it=da,pt=desde,tr=beri,ar=منذ,ru=с,pl=od,uk=з|
+bis|Endpunkt eines Zeitraums|A1|ALL|INT|Ich arbeite bis fünf Uhr.|en=until,es=hasta,fr=jusqu'à,it=fino a,pt=até,tr=kadar,ar=حتى,ru=до,pl=do,uk=до|
+oder|Alternative|A1|ALL|INT|Möchtest du Tee oder Kaffee?|en=or,es=o,fr=ou,it=o,pt=ou,tr=veya,ar=أو,ru=или,pl=lub,uk=або|
+aber|Gegensatz|A1|ALL|INT|Ich bin müde aber zufrieden.|en=but,es=pero,fr=mais,it=ma,pt=mas,tr=ama,ar=لكن,ru=но,pl=ale,uk=але|
+wenn|Bedingung|A1|ALL|INT|Wenn es regnet bleibe ich zu Hause.|en=if,es=si,fr=si,it=se,pt=se,tr=eğer,ar=إذا,ru=если,pl=jeśli,uk=якщо|
+dass|Nebensatzkonjunktion|A1|ALL|INT|Ich glaube dass er recht hat.|en=that,es=que,fr=que,it=che,pt=que,tr=ki,ar=أن,ru=что,pl=że,uk=що|
+weil|Angabe des Grundes|A1|ALL|INT|Ich bleibe hier weil ich müde bin.|en=because,es=porque,fr=parce que,it=perché,pt=porque,tr=çünkü,ar=لأن,ru=потому что,pl=ponieważ,uk=тому що|
+denn|begründende Konjunktion|A1|ALL|INT|Ich nehme das Taxi denn es regnet.|en=because,es=porque,fr=car,it=perché,pt=pois,tr=çünkü,ar=لأن,ru=так как,pl=bowiem,uk=адже|
+etwas|unbestimmte Menge|A1|ALL|INT|Ich möchte etwas zu trinken.|en=something,es=algo,fr=quelque chose,it=qualcosa,pt=algo,tr=bir şey,ar=شيء,ru=что-то,pl=coś,uk=щось|
+nichts|keine Sache|A1|ALL|INT|Ich verstehe nichts.|en=nothing,es=nada,fr=rien,it=niente,pt=nada,tr=hiçbir şey,ar=لا شيء,ru=ничего,pl=nic,uk=нічого|
+jemand|unbestimmte Person|A1|ALL|INT|Jemand hat mich angerufen.|en=someone,es=alguien,fr=quelqu'un,it=qualcuno,pt=alguém,tr=biri,ar=شخص ما,ru=кто-то,pl=ktoś,uk=хтось|
+alle|gesamte Gruppe|A1|ALL|INT|Alle sind schon da.|en=all,es=todos,fr=tous,it=tutti,pt=todos,tr=hepsi,ar=الجميع,ru=все,pl=wszyscy,uk=всі|
+viel|grosse Menge|A1|ALL|INT|Ich habe heute viel zu tun.|en=much,es=mucho,fr=beaucoup,it=tanto,pt=muito,tr=çok,ar=كثير,ru=много,pl=dużo,uk=багато|
+mehr|grössere Menge|A1|ALL|INT|Ich möchte mehr Wasser bitte.|en=more,es=más,fr=plus,it=più,pt=mais,tr=daha,ar=أكثر,ru=больше,pl=więcej,uk=більше|
+wenig|kleine Menge|A1|ALL|INT|Ich habe nur wenig Zeit.|en=little,es=poco,fr=peu,it=poco,pt=pouco,tr=az,ar=قليل,ru=мало,pl=mało,uk=мало|
+bitte|höfliche Bitte|A1|ALL|INT|Ein Kaffee bitte.|en=please,es=por favor,fr=s'il vous plaît,it=per favore,pt=por favor,tr=lütfen,ar=من فضلك,ru=пожалуйста,pl=proszę,uk=будь ласка|
+danke|Ausdruck des Dankes|A1|ALL|INT|Danke für deine Hilfe.|en=thank you,es=gracias,fr=merci,it=grazie,pt=obrigado,tr=teşekkürler,ar=شكرا,ru=спасибо,pl=dziękuję,uk=дякую|
+hallo|Begrüssung|A1|ALL|INT|Hallo ich bin neu hier.|en=hello,es=hola,fr=bonjour,it=ciao,pt=olá,tr=merhaba,ar=مرحبا,ru=привет,pl=cześć,uk=привіт|
+guten Tag|formelle Begrüssung|A1|ALL|DE|Guten Tag wie geht es Ihnen?|en=good day,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=iyi günler,ar=طاب يومك,ru=добрый день,pl=dobry dzień,uk=добрий день|
+guten Morgen|Begrüssung am Morgen|A1|ALL|INT|Guten Morgen der Kaffee ist fertig.|en=good morning,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=günaydın,ar=صباح الخير,ru=доброе утро,pl=dzień dobry,uk=доброго ранку|
+auf Wiedersehen|Abschiedsgruss|A1|ALL|INT|Auf Wiedersehen bis morgen.|en=goodbye,es=adiós,fr=au revoir,it=arrivederci,pt=adeus,tr=hoşça kalın,ar=إلى اللقاء,ru=до свидания,pl=do widzenia,uk=до побачення|
+tschüss|informeller Abschied|A1|ALL|INT|Tschüss bis morgen.|en=bye,es=adiós,fr=salut,it=ciao,pt=tchau,tr=görüşürüz,ar=وداعا,ru=пока,pl=pa,uk=бувай|
+Grüezi|schweizerische Begrüssung|A1|ALL|CH|Grüezi wie geht es Ihnen?|en=hello,es=hola,fr=bonjour,it=ciao,pt=olá,tr=merhaba,ar=مرحبا,ru=здравствуйте,pl=dobry dzień,uk=вітаю|
+Servus|österreichische Begrüssung|A1|ALL|AT|Servus wie geht es dir?|en=hello,es=hola,fr=salut,it=ciao,pt=olá,tr=merhaba,ar=مرحبا,ru=привет,pl=cześć,uk=привіт|
+Entschuldigung|höfliche Bitte um Verzeihung|A1|ALL|INT|Entschuldigung wo ist der Bahnhof?|en=excuse me,es=perdón,fr=pardon,it=scusi,pt=desculpe,tr=özür dilerim,ar=عذرا,ru=извините,pl=przepraszam,uk=вибачте|
+ich bin|sich vorstellen|A1|ALL|INT|Ich bin Anna aus Spanien.|en=I am,es=yo soy,fr=je suis,it=io sono,pt=eu sou,tr=benim,ar=أنا,ru=я,pl=jestem,uk=я|
+du bist|Personalform von sein|A1|ALL|INT|Du bist sehr freundlich.|en=you are,es=tú eres,fr=tu es,it=tu sei,pt=você é,tr=sensin,ar=أنت,ru=ты,pl=jesteś,uk=ти|
+ja bitte|höfliche Zustimmung|A1|ALL|INT|Möchten Sie noch Wasser? Ja bitte.|en=yes please,es=sí por favor,fr=oui s'il vous plaît,it=sì per favore,pt=sim por favor,tr=evet lütfen,ar=نعم من فضلك,ru=да пожалуйста,pl=tak proszę,uk=так будь ласка|
+nein danke|höfliche Ablehnung|A1|ALL|INT|Noch ein Kaffee? Nein danke.|en=no thank you,es=no gracias,fr=non merci,it=no grazie,pt=não obrigado,tr=hayır teşekkürler,ar=لا شكرا,ru=нет спасибо,pl=nie dziękuję,uk=ні дякую|
+Wie geht es Ihnen|höfliche Frage nach Befinden|A1|ALL|INT|Guten Tag wie geht es Ihnen?|en=how are you,es=cómo está usted,fr=comment allez-vous,it=come sta,pt=como está,tr=nasılsınız,ar=كيف حالك,ru=как вы,pl=jak się pan ma,uk=як ви|
+Es geht mir gut|Antwort auf Befinden|A1|ALL|INT|Es geht mir gut danke der Nachfrage.|en=I am fine,es=estoy bien,fr=je vais bien,it=sto bene,pt=estou bem,tr=iyiyim,ar=أنا بخير,ru=у меня всё хорошо,pl=mam się dobrze,uk=мені добре|
+Wie heisst du|Frage nach dem Namen|A1|ALL|INT|Wie heisst du ich heisse Ali.|en=what is your name,es=cómo te llamas,fr=comment tu t'appelles,it=come ti chiami,pt=como se chama,tr=adın ne,ar=ما اسمك,ru=как тебя зовут,pl=jak się nazywasz,uk=як тебе звати|
+Wie heissen Sie|höfliche Frage nach dem Namen|A1|ALL|INT|Wie heissen Sie bitte?|en=what is your name,es=cómo se llama,fr=comment vous appelez-vous,it=come si chiama,pt=como se chama,tr=adınız ne,ar=ما اسمك,ru=как вас зовут,pl=jak się pan nazywa,uk=як вас звати|
+ich heisse|sich mit Namen vorstellen|A1|ALL|INT|Ich heisse Maria und komme aus Italien.|en=my name is,es=me llamo,fr=je m'appelle,it=mi chiamo,pt=chamo-me,tr=adım,ar=اسمي,ru=меня зовут,pl=nazywam się,uk=мене звати|
+Woher kommen Sie|Frage nach Herkunft|A1|ALL|INT|Woher kommen Sie aus welchem Land?|en=where are you from,es=de dónde es usted,fr=d'où venez-vous,it=di dove è,pt=de onde vem,tr=nerelisiniz,ar=من أين أنت,ru=откуда вы,pl=skąd pan jest,uk=звідки ви|
+Ich komme aus|Herkunft angeben|A1|ALL|INT|Ich komme aus der Schweiz.|en=I am from,es=soy de,fr=je viens de,it=vengo da,pt=sou de,tr=den,ar=أنا من,ru=я из,pl=jestem z,uk=я з|
+Bitte schön|höfliche Antwort auf Dank|A1|ALL|INT|Danke sehr. Bitte schön.|en=you are welcome,es=de nada,fr=je vous en prie,it=prego,pt=de nada,tr=bir şey değil,ar=على الرحب,ru=пожалуйста,pl=proszę bardzo,uk=прошу|
+Kein Problem|Antwort auf Entschuldigung|A1|ALL|INT|Entschuldigung. Kein Problem.|en=no problem,es=no hay problema,fr=pas de problème,it=nessun problema,pt=sem problema,tr=sorun değil,ar=لا مشكلة,ru=нет проблем,pl=nie ma problemu,uk=немає проблем|

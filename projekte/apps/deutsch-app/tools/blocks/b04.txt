@@ -1,0 +1,60 @@
+wer|Fragewort nach Person|A1|ALL|INT|Wer kommt heute zum Essen?|en=who,es=quién,fr=qui,it=chi,pt=quem,tr=kim,ar=من,ru=кто,pl=kto,uk=хто|
+wie|Fragewort nach Art|A1|ALL|INT|Wie heissen Sie bitte?|en=how,es=cómo,fr=comment,it=come,pt=como,tr=nasıl,ar=كيف,ru=как,pl=jak,uk=як|
+was|Fragewort nach Sache|A1|ALL|INT|Was möchten Sie trinken?|en=what,es=qué,fr=quoi,it=cosa,pt=o que,tr=ne,ar=ماذا,ru=что,pl=co,uk=що|
+wo|Fragewort nach Ort|A1|ALL|INT|Wo ist die nächste Apotheke?|en=where,es=dónde,fr=où,it=dove,pt=onde,tr=nerede,ar=أين,ru=где,pl=gdzie,uk=де|
+wann|Fragewort nach Zeit|A1|ALL|INT|Wann beginnt der Deutschkurs?|en=when,es=cuándo,fr=quand,it=quando,pt=quando,tr=ne zaman,ar=متى,ru=когда,pl=kiedy,uk=коли|
+warum|Fragewort nach Grund|A1|ALL|INT|Warum ist der Laden heute geschlossen?|en=why,es=por qué,fr=pourquoi,it=perché,pt=por que,tr=neden,ar=لماذا,ru=почему,pl=dlaczego,uk=чому|
+wenn|Bedingung oder Zeit|A1|ALL|INT|Wenn es regnet bleibe ich zu Hause.|en=if/when,es=si/cuando,fr=si/quand,it=se/quando,pt=se/quando,tr=eğer/ne zaman,ar=إذا/عندما,ru=если/когда,pl=jeśli/kiedy,uk=якщо/коли|
+weil|Grund einleiten|A1|ALL|INT|Ich komme später weil ich arbeiten muss.|en=because,es=porque,fr=parce que,it=perché,pt=porque,tr=çünkü,ar=لأن,ru=потому что,pl=ponieważ,uk=тому що|
+dass|Nebensatz einleiten|A1|ALL|INT|Ich denke dass der Preis zu hoch ist.|en=that,es=que,fr=que,it=che,pt=que,tr=-diği,ar=أن,ru=что,pl=że,uk=що|
+wenn es geht|höfliche Bedingung|A1|ALL|INT|Ruf mich bitte an wenn es geht.|en=if possible,es=si es posible,fr=si possible,it=se possibile,pt=se possível,tr=mümkünse,ar=إن أمكن,ru=если возможно,pl=jeśli można,uk=якщо можна|
+aber|Gegensatz einleiten|A1|ALL|INT|Ich mag Tee aber Kaffee trinke ich lieber.|en=but,es=pero,fr=mais,it=ma,pt=mas,tr=ama,ar=لكن,ru=но,pl=ale,uk=але|
+oder|Alternative einleiten|A1|ALL|INT|Möchten Sie Wasser oder Saft?|en=or,es=o,fr=ou,it=o,pt=ou,tr=veya,ar=أو,ru=или,pl=lub,uk=або|
+denn|Grund im Hauptsatz|A1|ALL|INT|Ich nehme den Bus denn es regnet.|en=because,es=ya que,fr=car,it=poiché,pt=pois,tr=çünkü,ar=فإن,ru=так как,pl=bowiem,uk=бо|
+als|Vergleich oder Vergangenheit|A1|ALL|INT|Als Kind habe ich viel Fussball gespielt.|en=than/when,es=que/cuando,fr=que/quand,it=di/quando,pt=do/ quando,tr=olarak/iken,ar=من/عندما,ru=чем/когда,pl=niż/gdy,uk=ніж/коли|
+ob|indirekte Frage|A1|ALL|INT|Ich weiss nicht ob der Arzt geöffnet hat.|en=whether,es=si,fr=si,it=se,pt=se,tr=-ıp -ıp,ar=إن كان,ru=ли,pl=czy,uk=чи|
+man|unbestimmte Person|A1|ALL|INT|Hier darf man nicht rauchen.|en=one,es=se,fr=on,it=si,pt=se,tr=insan,ar=المرء,ru=один,pl=się,uk=люди|
+sich|reflexives Pronomen|A1|ALL|INT|Ich muss mich noch um die Wohnung kümmern.|en=oneself,es=se,fr=se,it=si,pt=se,tr=kendi,ar=نفسه,ru=себя,pl=się,uk=себе|
+mich|Akkusativ von ich|A1|ALL|INT|Der Arzt ruft mich morgen an.|en=me,es=me,fr=moi,it=me,pt=me,tr=beni,ar=نفسي,ru=меня,pl=mnie,uk=мене|
+dich|Akkusativ von du|A1|ALL|INT|Ich sehe dich morgen im Kurs.|en=you,es=te,fr=toi,it=te,pt=te,tr=seni,ar=نفسك,ru=тебя,pl=ciebie,uk=тебе|
+mir|Dativ von ich|A1|ALL|INT|Kannst du mir bitte helfen?|en=to me,es=me,fr=moi,it=mi,pt=me,tr=bana,ar=لي,ru=мне,pl=mi,uk=мені|
+dir|Dativ von du|A1|ALL|INT|Ich wünsche dir einen schönen Tag.|en=to you,es=te,fr=toi,it=ti,pt=te,tr=sana,ar=لك,ru=тебе,pl=tobie,uk=тобі|
+wir|erste Person Plural|A1|ALL|INT|Wir gehen am Samstag zusammen einkaufen.|en=we,es=nosotros,fr=nous,it=noi,pt=nós,tr=biz,ar=نحن,ru=мы,pl=my,uk=ми|
+ihr|zweite Person Plural|A1|ALL|INT|Wo wohnt ihr jetzt?|en=you,es=vosotros,fr=vous,it=voi,pt=vós,tr=siz,ar=أنتم,ru=вы,pl=wy,uk=ви|
+sie|dritte Person Plural|A1|ALL|INT|Sie fahren morgen in die Berge.|en=they,es=ellos,fr=ils,it=loro,pt=eles,tr=onlar,ar=هم,ru=они,pl=oni,uk=вони|
+er|dritte Person maskulin|A1|ALL|INT|Er arbeitet seit Januar in der Fabrik.|en=he,es=él,fr=il,it=lui,pt=ele,tr=o,ar=هو,ru=он,pl=on,uk=він|
+sie|dritte Person feminin|A1|ALL|INT|Sie kocht heute eine Suppe.|en=she,es=ella,fr=elle,it=lei,pt=ela,tr=o,ar=هي,ru=она,pl=ona,uk=вона|
+Sie|höfliche Anrede|A1|ALL|INT|Können Sie mir bitte helfen?|en=you,es=usted,fr=vous,it=Lei,pt=você,tr=siz,ar=حضرتك,ru=вы,pl=pan/pani,uk=ви|
+mein|Possessiv ich|A1|ALL|INT|Das ist mein Schlüssel für die Wohnung.|en=my,es=mi,fr=mon,it=mio,pt=meu,tr=benim,ar=لي,ru=мой,pl=mój,uk=мій|
+dein|Possessiv du|A1|ALL|INT|Ist das dein Handy auf dem Tisch?|en=your,es=tu,fr=ton,it=tuo,pt=teu,tr=senin,ar=لك,ru=твой,pl=twój,uk=твій|
+unser|Possessiv wir|A1|ALL|INT|Unser Haus liegt am Dorfrand.|en=our,es=nuestro,fr=notre,it=nostro,pt=nosso,tr=bizim,ar=لنا,ru=наш,pl=nasz,uk=наш|
+dieser|hinweisend nah|A1|ALL|INT|Dieser Bus fährt direkt zum Bahnhof.|en=this,es=este,fr=ce,it=questo,pt=este,tr=bu,ar=هذا,ru=этот,pl=ten,uk=цей|
+kein|Negationsartikel|A1|ALL|INT|Ich habe heute keine Zeit.|en=no/not a,es=ningún,fr=aucun,it=nessun,pt=nenhum,tr=hiç,ar=لا,ru=никакой,pl=żaden,uk=жодний|
+nichts|keine Sache|A1|ALL|INT|Ich habe heute nichts gegessen.|en=nothing,es=nada,fr=rien,it=niente,pt=nada,tr=hiçbir şey,ar=لا شيء,ru=ничего,pl=nic,uk=нічого|
+niemand|keine Person|A1|ALL|INT|Niemand hat ans Telefon gegangen.|en=nobody,es=nadie,fr=personne,it=nessuno,pt=ninguém,tr=kimse,ar=لا أحد,ru=никто,pl=nikt,uk=ніхто|
+etwas|unbestimmte Sache|A1|ALL|INT|Möchtest du etwas Tee?|en=something,es=algo,fr=quelque chose,it=qualcosa,pt=algo,tr=bir şey,ar=شيء,ru=что-то,pl=coś,uk=щось|
+alle|gesamte Gruppe|A1|ALL|INT|Alle Kurse beginnen am Montag.|en=all,es=todos,fr=tous,it=tutti,pt=todos,tr=hepsi,ar=الكل,ru=все,pl=wszyscy,uk=усі|
+viel|grosse Menge|A1|ALL|INT|Ich habe viel Arbeit diese Woche.|en=much,es=mucho,fr=beaucoup,it=molto,pt=muito,tr=çok,ar=كثير,ru=много,pl=dużo,uk=багато|
+wenig|kleine Menge|A1|ALL|INT|Ich habe nur wenig Geld dabei.|en=little,es=poco,fr=peu,it=poco,pt=pouco,tr=az,ar=قليل,ru=мало,pl=mało,uk=мало|
+mehr|grössere Menge|A1|ALL|INT|Ich möchte bitte mehr Kaffee.|en=more,es=más,fr=plus,it=più,pt=mais,tr=daha fazla,ar=أكثر,ru=больше,pl=więcej,uk=більше|
+sehr gern|höflicher Wunsch|A1|ALL|INT|Ich trinke sehr gern Tee mit Zitrone.|en=very gladly,es=con mucho gusto,fr=très volontiers,it=molto volentieri,pt=com muito gosto,tr=çok isteyerek,ar=بكل سرور,ru=с удовольствием,pl=bardzo chętnie,uk=дуже охоче|
+seit|Zeitangabe ab Vergangenheit|A1|ALL|INT|Ich wohne seit drei Jahren hier.|en=since,es=desde,fr=depuis,it=da,pt=desde,tr=beri,ar=منذ,ru=с,pl=od,uk=з|
+bis|Endpunkt einer Zeitspanne|A1|ALL|INT|Der Kurs dauert bis Freitag.|en=until,es=hasta,fr=jusqu'à,it=fino a,pt=até,tr=kadar,ar=حتى,ru=до,pl=do,uk=до|
+ohne|Fehlen von etwas|A1|ALL|INT|Ich trinke Kaffee ohne Zucker.|en=without,es=sin,fr=sans,it=senza,pt=sem,tr=siz,ar=بدون,ru=без,pl=bez,uk=без|
+danke schön|höflicher Dank|A1|ALL|INT|Danke schön für Ihre Hilfe.|en=thank you very much,es=muchas gracias,fr=merci beaucoup,it=grazie mille,pt=muito obrigado,tr=çok teşekkürler,ar=شكرا جزيلا,ru=большое спасибо,pl=pięknie dziękuję,uk=щиро дякую|
+bitte schön|höfliche Antwort|A1|ALL|INT|Bitte schön das ist meine Karte.|en=you are welcome,es=de nada,fr=je vous en prie,it=prego,pt=de nada,tr=buyurun,ar=على الرحب,ru=пожалуйста,pl=proszę bardzo,uk=прошу|
+entschuldigung|höfliche Störung|A1|ALL|INT|Entschuldigung wo ist der Ausgang?|en=excuse me,es=disculpe,fr=excusez-moi,it=scusi,pt=desculpe,tr=affedersiniz,ar=عذرا,ru=извините,pl=przepraszam,uk=вибачте|
+guten Morgen|Begrüssung am Morgen|A1|ALL|INT|Guten Morgen wie geht es Ihnen?|en=good morning,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=günaydın,ar=صباح الخير,ru=доброе утро,pl=dzień dobry,uk=доброго ранку|
+guten Tag|Begrüssung tagsüber|A1|ALL|INT|Guten Tag ich habe einen Termin.|en=good day,es=buenas tardes,fr=bonjour,it=buongiorno,pt=boa tarde,tr=iyi günler,ar=نهارك سعيد,ru=добрый день,pl=dzień dobry,uk=добрий день|
+guten Abend|Begrüssung am Abend|A1|ALL|INT|Guten Abend die Suppe ist fertig.|en=good evening,es=buenas noches,fr=bonsoir,it=buonasera,pt=boa noite,tr=iyi akşamlar,ar=مساء الخير,ru=добрый вечер,pl=dobry wieczór,uk=добрий вечір|
+auf Wiedersehen|Abschiedsgruss|A1|ALL|INT|Auf Wiedersehen bis nächste Woche.|en=goodbye,es=adiós,fr=au revoir,it=arrivederci,pt=até logo,tr=hoşça kalın,ar=إلى اللقاء,ru=до свидания,pl=do widzenia,uk=до побачення|
+tschüss|lockerer Abschied|A1|ALL|DE|Tschüss bis morgen im Kurs.|en=bye,es=chao,fr=salut,it=ciao,pt=tchau,tr=bay bay,ar=وداعا,ru=пока,pl=pa,uk=бувай|
+hallo|freundliche Begrüssung|A1|ALL|INT|Hallo wie heissen Sie?|en=hello,es=hola,fr=bonjour,it=ciao,pt=olá,tr=merhaba,ar=مرحبا,ru=привет,pl=cześć,uk=привіт|
+es geht mir gut|Antwort auf Wie geht es|A1|ALL|INT|Danke es geht mir gut.|en=I am fine,es=estoy bien,fr=je vais bien,it=sto bene,pt=estou bem,tr=iyiyim,ar=أنا بخير,ru=у меня всё хорошо,pl=czuję się dobrze,uk=мені добре|
+tut mir leid|Entschuldigung ausdrücken|A1|ALL|INT|Das tut mir leid ich wusste es nicht.|en=I am sorry,es=lo siento,fr=je suis désolé,it=mi dispiace,pt=sinto muito,tr=özür dilerim,ar=أنا آسف,ru=мне жаль,pl=przykro mi,uk=мені шкода|
+keine Ursache|Antwort auf Entschuldigung|A1|ALL|INT|Keine Ursache das kann passieren.|en=no problem,es=no hay problema,fr=ce n'est rien,it=non fa niente,pt=não faz mal,tr=sorun değil,ar=لا مشكلة,ru=ничего страшного,pl=nie ma sprawy,uk=немає за що|
+um zu|Zweck ausdrücken|A1|ALL|INT|Ich fahre zum Bahnhof um zu arbeiten.|en=in order to,es=para,fr=pour,it=per,pt=para,tr=için,ar=لكي,ru=чтобы,pl=aby,uk=щоб|
+nach Hause|Richtung eigenes Zuhause|A1|ALL|INT|Ich gehe jetzt nach Hause.|en=home,es=a casa,fr=à la maison,it=a casa,pt=para casa,tr=eve,ar=إلى المنزل,ru=домой,pl=do domu,uk=додому|
+zu Hause|Ort eigenes Zuhause|A1|ALL|INT|Ich arbeite heute zu Hause.|en=at home,es=en casa,fr=à la maison,it=a casa,pt=em casa,tr=evde,ar=في المنزل,ru=дома,pl=w domu,uk=вдома|
+Bescheid geben|informieren|A1|buero,telefon,arbeit|INT|Ich gebe Ihnen morgen Bescheid.|en=let know,es=avisar,fr=informer,it=avvisare,pt=avisar,tr=haber vermek,ar=إبلاغ,ru=сообщить,pl=powiadomić,uk=повідомити|
+in Ordnung|Zustimmung oder erledigt|A1|ALL|INT|In Ordnung ich komme um acht.|en=all right,es=de acuerdo,fr=d'accord,it=d'accordo,pt=combinado,tr=tamam,ar=حسنا,ru=хорошо,pl=w porządku,uk=гаразд|

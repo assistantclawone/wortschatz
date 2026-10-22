@@ -1,0 +1,60 @@
+die Leute|mehrere Personen|A1|alltag,familie,freizeit|INT|Die Leute warten vor dem Bahnhof.|en=the people,es=la gente,fr=les gens,it=le persone,pt=as pessoas,tr=insanlar,ar=الناس,ru=люди,pl=ludzie,uk=люди|
+die Stadt|grosser Wohnort|A1|alltag,reisen,wohnen|INT|Die Stadt ist heute sehr voll.|en=the city,es=la ciudad,fr=la ville,it=la città,pt=a cidade,tr=şehir,ar=المدينة,ru=город,pl=miasto,uk=місто|
+das Land|Staat oder Territorium|A1|alltag,reisen|INT|Das Land hat viele Berge.|en=the country,es=el país,fr=le pays,it=il paese,pt=o país,tr=ülke,ar=البلد,ru=страна,pl=kraj,uk=країна|
+das Land|ländliche Gegend|A1|wohnen,freizeit|INT|Wir wohnen lieber auf dem Land.|en=the countryside,es=el campo,fr=la campagne,it=la campagna,pt=o campo,tr=kır,ar=الريف,ru=деревня,pl=wieś,uk=село|
+der Platz|freie Fläche in der Stadt|A1|alltag,wohnen|INT|Der Platz ist am Wochenende voll.|en=the square,es=la plaza,fr=la place,it=la piazza,pt=a praça,tr=meydan,ar=الساحة,ru=площадь,pl=plac,uk=площа|
+der Platz|Sitzgelegenheit|A1|alltag,reisen|INT|Ist dieser Platz noch frei?|en=the seat,es=el asiento,fr=la place,it=il posto,pt=o lugar,tr=koltuk,ar=المقعد,ru=место,pl=miejsce,uk=місце|
+das Haus|Gebäude zum Wohnen|A1|wohnen,familie|INT|Das Haus hat einen grossen Garten.|en=the house,es=la casa,fr=la maison,it=la casa,pt=a casa,tr=ev,ar=البيت,ru=дом,pl=dom,uk=будинок|
+die Wohnung|Zuhause in einem Haus|A1|wohnen,familie|INT|Die Wohnung ist hell und ruhig.|en=the flat,es=el piso,fr=l'appartement,it=l'appartamento,pt=o apartamento,tr=daire,ar=الشقة,ru=квартира,pl=mieszkanie,uk=квартира|
+das Zimmer|Raum in einer Wohnung|A1|wohnen|INT|Das Zimmer ist noch leer.|en=the room,es=la habitación,fr=la chambre,it=la stanza,pt=o quarto,tr=oda,ar=الغرفة,ru=комната,pl=pokój,uk=кімната|
+die Tür|Zugang zu einem Raum|A1|wohnen,alltag|INT|Die Tür ist schon offen.|en=the door,es=la puerta,fr=la porte,it=la porta,pt=a porta,tr=kapı,ar=الباب,ru=дверь,pl=drzwi,uk=двері|
+das Fenster|Öffnung in einer Wand|A1|wohnen|INT|Das Fenster ist heute geschlossen.|en=the window,es=la ventana,fr=la fenêtre,it=la finestra,pt=a janela,tr=pencere,ar=النافذة,ru=окно,pl=okno,uk=вікно|
+der Tisch|Möbel zum Arbeiten und Essen|A1|wohnen,buero|INT|Der Tisch steht in der Küche.|en=the table,es=la mesa,fr=la table,it=il tavolo,pt=a mesa,tr=masa,ar=الطاولة,ru=стол,pl=stół,uk=стіл|
+der Stuhl|Sitzmöbel für eine Person|A1|wohnen,buero|INT|Der Stuhl ist bequem.|en=the chair,es=la silla,fr=la chaise,it=la sedia,pt=a cadeira,tr=sandalye,ar=الكرسي,ru=стул,pl=krzesło,uk=стілець|
+das Bett|Möbel zum Schlafen|A1|wohnen,gesundheit|INT|Das Bett ist sehr weich.|en=the bed,es=la cama,fr=le lit,it=il letto,pt=a cama,tr=yatak,ar=السرير,ru=кровать,pl=łóżko,uk=ліжко|
+die Küche|Raum zum Kochen|A1|wohnen,gastro|INT|Die Küche ist neu und modern.|en=the kitchen,es=la cocina,fr=la cuisine,it=la cucina,pt=a cozinha,tr=mutfak,ar=المطبخ,ru=кухня,pl=kuchnia,uk=кухня|
+das Bad|Raum zum Waschen|A1|wohnen,gesundheit|INT|Das Bad ist klein aber sauber.|en=the bathroom,es=el baño,fr=la salle de bain,it=il bagno,pt=o banheiro,tr=banyo,ar=الحمام,ru=ванная,pl=łazienka,uk=ванна|
+der Garten|Fläche am Haus mit Pflanzen|A1|wohnen,freizeit|INT|Der Garten ist im Sommer schön.|en=the garden,es=el jardín,fr=le jardin,it=il giardino,pt=o jardim,tr=bahçe,ar=الحديقة,ru=сад,pl=ogród,uk=сад|
+die Schule|Ort zum Lernen|A1|bildung,familie|INT|Die Schule beginnt um acht Uhr.|en=the school,es=la escuela,fr=l'école,it=la scuola,pt=a escola,tr=okul,ar=المدرسة,ru=школа,pl=szkoła,uk=школа|
+der Kurs|Unterricht in einer Gruppe|A1|bildung|INT|Der Kurs dauert drei Monate.|en=the course,es=el curso,fr=le cours,it=il corso,pt=o curso,tr=kurs,ar=الدورة,ru=курс,pl=kurs,uk=курс|
+die Sprache|System der Verständigung|A1|bildung|INT|Die Sprache ist leicht zu lernen.|en=the language,es=el idioma,fr=la langue,it=la lingua,pt=o idioma,tr=dil,ar=اللغة,ru=язык,pl=język,uk=мова|
+das Wort|kleinste Spracheinheit|A1|bildung|INT|Das Wort kenne ich noch nicht.|en=the word,es=la palabra,fr=le mot,it=la parola,pt=a palavra,tr=kelime,ar=الكلمة,ru=слово,pl=słowo,uk=слово|
+die Frage|Aussage die eine Antwort will|A1|bildung,alltag|INT|Die Frage war sehr einfach.|en=the question,es=la pregunta,fr=la question,it=la domanda,pt=a pergunta,tr=soru,ar=السؤال,ru=вопрос,pl=pytanie,uk=питання|
+die Antwort|Reaktion auf eine Frage|A1|bildung,alltag|INT|Die Antwort ist richtig.|en=the answer,es=la respuesta,fr=la réponse,it=la risposta,pt=a resposta,tr=cevap,ar=الجواب,ru=ответ,pl=odpowiedź,uk=відповідь|
+der Name|Bezeichnung einer Person|A1|alltag,behoerden|INT|Der Name steht oben auf dem Formular.|en=the name,es=el nombre,fr=le nom,it=il nome,pt=o nome,tr=isim,ar=الاسم,ru=имя,pl=imię,uk=ім'я|
+die Adresse|Wohnort mit Strasse und Nummer|A1|behoerden,alltag|INT|Die Adresse steht auf dem Brief.|en=the address,es=la dirección,fr=l'adresse,it=l'indirizzo,pt=o endereço,tr=adres,ar=العنوان,ru=адрес,pl=adres,uk=адреса|
+die Strasse|befestigter Weg für Fahrzeuge|A1|alltag,reisen|INT|Die Strasse ist heute gesperrt.|en=the street,es=la calle,fr=la rue,it=la strada,pt=a rua,tr=sokak,ar=الشارع,ru=улица,pl=ulica,uk=вулиця|
+der Weg|Route zu einem Ziel|A1|alltag,reisen|INT|Der Weg zum Bahnhof ist kurz.|en=the way,es=el camino,fr=le chemin,it=la strada,pt=o caminho,tr=yol,ar=الطريق,ru=путь,pl=droga,uk=шлях|
+die Karte|bedrucktes Blatt Papier|A1|reisen,alltag|INT|Die Karte zeigt die ganze Stadt.|en=the map,es=el mapa,fr=la carte,it=la mappa,pt=o mapa,tr=harita,ar=الخريطة,ru=карта,pl=mapa,uk=карта|
+das Geld|Zahlungsmittel|A1|bank,einkaufen|INT|Das Geld liegt in der Tasche.|en=the money,es=el dinero,fr=l'argent,it=i soldi,pt=o dinheiro,tr=para,ar=المال,ru=деньги,pl=pieniądze,uk=гроші|
+der Preis|Betrag für eine Ware|A1|einkaufen|INT|Der Preis ist mir zu hoch.|en=the price,es=el precio,fr=le prix,it=il prezzo,pt=o preço,tr=fiyat,ar=السعر,ru=цена,pl=cena,uk=ціна|
+die Rechnung|Forderung über einen Betrag|A1|gastro,einkaufen|INT|Die Rechnung kommt am Ende.|en=the bill,es=la cuenta,fr=l'addition,it=il conto,pt=a conta,tr=hesap,ar=الفاتورة,ru=счёт,pl=rachunek,uk=рахунок|
+der Laden|Geschäft zum Einkaufen|A1|einkaufen|INT|Der Laden ist bis acht Uhr offen.|en=the shop,es=la tienda,fr=le magasin,it=il negozio,pt=a loja,tr=dükkan,ar=المتجر,ru=магазин,pl=sklep,uk=магазин|
+der Markt|Ort zum Verkauf von Waren|A1|einkaufen|INT|Der Markt ist jeden Samstag hier.|en=the market,es=el mercado,fr=le marché,it=il mercato,pt=o mercado,tr=pazar,ar=السوق,ru=рынок,pl=rynek,uk=ринок|
+die Tasche|Behälter zum Tragen|A1|einkaufen,alltag|INT|Die Tasche steht vor der Tür.|en=the bag,es=la bolsa,fr=le sac,it=la borsa,pt=a bolsa,tr=çanta,ar=الحقيبة,ru=сумка,pl=torba,uk=сумка|
+das Brot|gebackenes Lebensmittel|A1|einkaufen,gastro|INT|Das Brot ist noch warm.|en=the bread,es=el pan,fr=le pain,it=il pane,pt=o pão,tr=ekmek,ar=الخبز,ru=хлеб,pl=chleb,uk=хліб|
+die Milch|weisses Getränk|A1|einkaufen,gastro|INT|Die Milch steht im Kühlschrank.|en=the milk,es=la leche,fr=le lait,it=il latte,pt=o leite,tr=süt,ar=الحليب,ru=молоко,pl=mleko,uk=молоко|
+der Kaffee|heisses Getränk|A1|gastro|INT|Der Kaffee ist heiss.|en=the coffee,es=el café,fr=le café,it=il caffè,pt=o café,tr=kahve,ar=القهوة,ru=кофе,pl=kawa,uk=кава|
+der Apfel|frucht mit Kerngehäuse|A1|einkaufen,gastro|INT|Der Apfel ist rot und süss.|en=the apple,es=la manzana,fr=la pomme,it=la mela,pt=a maçã,tr=elma,ar=التفاحة,ru=яблоко,pl=jabłko,uk=яблуко|
+der Bahnhof|Ort für Züge|A1|reisen|INT|Der Bahnhof ist nicht weit von hier.|en=the station,es=la estación,fr=la gare,it=la stazione,pt=a estação,tr=istasyon,ar=محطة القطار,ru=вокзал,pl=dworzec,uk=вокзал|
+der Zug|Fahrzeug auf Schienen|A1|reisen|INT|Der Zug fährt um sieben Uhr.|en=the train,es=el tren,fr=le train,it=il treno,pt=o trem,tr=tren,ar=القطار,ru=поезд,pl=pociąg,uk=потяг|
+der Bus|grosses Fahrzeug für viele Personen|A1|reisen|INT|Der Bus kommt in fünf Minuten.|en=the bus,es=el autobús,fr=le bus,it=l'autobus,pt=o ônibus,tr=otobüs,ar=الحافلة,ru=автобус,pl=autobus,uk=автобус|
+das Auto|Fahrzeug mit vier Rädern|A1|reisen,alltag|INT|Das Auto steht vor dem Haus.|en=the car,es=el coche,fr=la voiture,it=la macchina,pt=o carro,tr=araba,ar=السيارة,ru=автомобиль,pl=samochód,uk=автомобіль|
+das Flugzeug|Fahrzeug für die Luft|A1|reisen|INT|Das Flugzeug landet um zehn Uhr.|en=the plane,es=el avión,fr=l'avion,it=l'aereo,pt=o avião,tr=uçak,ar=الطائرة,ru=самолёт,pl=samolot,uk=літак|
+die Reise|Fahrt an einen anderen Ort|A1|reisen,freizeit|INT|Die Reise dauert zwei Wochen.|en=the trip,es=el viaje,fr=le voyage,it=il viaggio,pt=a viagem,tr=seyahat,ar=الرحلة,ru=поездка,pl=podróż,uk=подорож|
+der Urlaub|freie Zeit zum Reisen|A1|reisen,freizeit,arbeit|INT|Der Urlaub beginnt am Montag.|en=the holiday,es=las vacaciones,fr=les vacances,it=le vacanze,pt=as férias,tr=tatil,ar=العطلة,ru=отпуск,pl=urlop,uk=відпустка|
+das Hotel|Haus für Gäste|A1|reisen|INT|Das Hotel liegt direkt am See.|en=the hotel,es=el hotel,fr=l'hôtel,it=l'hotel,pt=o hotel,tr=otel,ar=الفندق,ru=отель,pl=hotel,uk=готель|
+die Arbeit|Tätigkeit und Stelle|A1|arbeit|INT|Die Arbeit macht mir Spass.|en=the work,es=el trabajo,fr=le travail,it=il lavoro,pt=o trabalho,tr=iş,ar=العمل,ru=работа,pl=praca,uk=робота|
+der Beruf|erlernte Tätigkeit|A1|arbeit,bildung|INT|Der Beruf interessiert mich sehr.|en=the profession,es=la profesión,fr=le métier,it=la professione,pt=a profissão,tr=meslek,ar=المهنة,ru=профессия,pl=zawód,uk=професія|
+das Büro|Raum für Büroarbeit|A1|buero,arbeit|INT|Das Büro ist im dritten Stock.|en=the office,es=la oficina,fr=le bureau,it=l'ufficio,pt=o escritório,tr=ofis,ar=المكتب,ru=офис,pl=biuro,uk=офіс|
+der Freund|männliche nahe Person|A1|familie,freizeit|INT|Der Freund hilft mir oft.|en=the friend,es=el amigo,fr=l'ami,it=l'amico,pt=o amigo,tr=arkadaş,ar=الصديق,ru=друг,pl=przyjaciel,uk=друг|
+die Familie|Eltern und Kinder|A1|familie|INT|Die Familie wohnt in der Nähe.|en=the family,es=la familia,fr=la famille,it=la famiglia,pt=a família,tr=aile,ar=العائلة,ru=семья,pl=rodzina,uk=сім'я|
+die Mutter|weiblicher Elternteil|A1|familie|INT|Die Mutter kocht am Sonntag.|en=the mother,es=la madre,fr=la mère,it=la madre,pt=a mãe,tr=anne,ar=الأم,ru=мать,pl=matka,uk=мати|
+der Vater|männlicher Elternteil|A1|familie|INT|Der Vater arbeitet viel.|en=the father,es=el padre,fr=le père,it=il padre,pt=o pai,tr=baba,ar=الأب,ru=отец,pl=ojciec,uk=батько|
+die Schwester|weibliches Geschwister|A1|familie|INT|Die Schwester ist noch klein.|en=the sister,es=la hermana,fr=la sœur,it=la sorella,pt=a irmã,tr=kız kardeş,ar=الأخت,ru=сестра,pl=siostra,uk=сестра|
+der Bruder|männliches Geschwister|A1|familie|INT|Der Bruder spielt gern Fussball.|en=the brother,es=el hermano,fr=le frère,it=il fratello,pt=o irmão,tr=erkek kardeş,ar=الأخ,ru=брат,pl=brat,uk=брат|
+das Wetter|Zustand der Luft|A1|alltag,reisen,freizeit|INT|Das Wetter ist heute sehr schön.|en=the weather,es=el tiempo,fr=le temps,it=il tempo,pt=o tempo,tr=hava,ar=الطقس,ru=погода,pl=pogoda,uk=погода|
+die Sonne|heller Stern am Himmel|A1|alltag,freizeit|INT|Die Sonne scheint den ganzen Tag.|en=the sun,es=el sol,fr=le soleil,it=il sole,pt=o sol,tr=güneş,ar=الشمس,ru=солнце,pl=słońce,uk=сонце|
+der Regen|Wasser vom Himmel|A1|alltag,reisen|INT|Der Regen hört bald auf.|en=the rain,es=la lluvia,fr=la pluie,it=la pioggia,pt=a chuva,tr=yağmur,ar=المطر,ru=дождь,pl=deszcz,uk=дощ|
+der Arzt|medizinische Fachperson|A1|gesundheit,behoerden|INT|Der Arzt kommt gleich zu Ihnen.|en=the doctor,es=el médico,fr=le médecin,it=il medico,pt=o médico,tr=doktor,ar=الطبيب,ru=врач,pl=lekár,uk=лікар|
+die Polizei|staatliche Sicherheitsbehörde|A1|behoerden,recht|INT|Die Polizei hilft bei Fragen.|en=the police,es=la policía,fr=la police,it=la polizia,pt=a polícia,tr=polis,ar=الشرطة,ru=полиция,pl=policja,uk=поліція|

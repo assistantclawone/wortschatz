@@ -1,0 +1,32 @@
+# AUFTRAG: Übersetzungen ergänzen (Reparatur)
+
+Die folgenden Zeilen haben nur 7 Felder — das 7. Feld (Übersetzungen) fehlt.
+
+Format pro Zeile (Pipe-getrennt, 8 Felder):
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+
+Regeln:
+- Übernimm die ersten 6 Felder WÖRTLICH unverändert.
+- Ergänze alle zehn Übersetzungen in dieser Reihenfolge: en,es,fr,it,pt,tr,ar,ru,pl,uk
+- Kurz und idiomatisch, keine Erklärsätze, KEINE Kommas in den Übersetzungen (stattdessen /).
+- Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+- Letztes Feld (flags) leer, Zeile endet mit |.
+- Ausgabe: eine Datei, eine Zeile pro Eintrag, keine Kopfzeile, kein Markdown, kein Codeblock.
+
+## Zu reparieren:
+
+selbst|betont die eigene Person|A1|ALL|INT|Ich mache das ohne Hilfe selbst.|
+wieder|erneut/nocheinmal|A1|ALL|INT|Wir sehen uns morgen wieder.|
+lange|über viel Zeit|A1|ALL|INT|Ich habe lange auf den Bus gewartet.|
+kurz|wenig Zeit dauernd|A1|ALL|INT|Der Weg ist zum Bahnhof kurz.|
+letzte|zuvor gewesen|A1|ALL|INT|Das war die letzte Chance heute.|
+nächste|danach folgend|A1|ALL|INT|Die nächste Prüfung ist im Mai.|
+beide|zwei zusammen|A1|ALL|INT|Wir haben beide dasselbe Buch gelesen.|
+ander|nicht derselbe|A1|ALL|INT|Ich nehme ein anderes Getränk.|
+bekommen|erhalten/geschenkt kriegen|A1|ALL|INT|Ich bekomme jeden Tag viele E-Mails.|
+kennen|wissen wie jemand ist|A1|ALL|INT|Ich kenne den Nachbarn sehr gut.|
+fahren|mit Transportmittel bewegen|A1|reisen,alltag|INT|Wir fahren mit dem Zug nach Wien.|
+laufen|zu Fuß sich bewegen|A1|alltag,gesundheit|INT|Ich laufe jeden Abend im Park.|
+spielen|Spiel tätigen|A1|freizeit,familie|INT|Die Kinder spielen gern im Garten.|
+sitzen|auf einem Platz sein|A1|alltag|INT|Hier sitze ich jeden Morgen zum Frühstück.|
+stehen|auf den Füßen sein|A1|alltag|INT|Die Flasche steht in der Küche.|

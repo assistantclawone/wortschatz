@@ -1,0 +1,65 @@
+der Rucksack|Gepäckstück für den Rücken|reisen,alltag|Für die Wanderung packe ich meinen Rucksack.|the backpack|la mochila|le sac à dos|lo zaino|a mochila|sırt çantası|حقيبة الظهر|рюкзак|plecak|рюкзак
+die Unterkunft|Ort zum Übernachten|reisen|Wir haben eine günstige Unterkunft in der Nähe gebucht.|the accommodation|el alojamiento|l hébergement|l alloggio|a acomodação|konaklama|مكان الإقامة|проживание|zakwaterowanie|проживання
+die Abreise|Beginn der Rückfahrt|reisen|Die Abreise ist für Montag früh geplant.|the departure|la salida|le départ|la partenza|a partida|gidiş|від'їзд|отъезд|wyjazd|від&#x27;їзд
+die Arztpraxis|Praxis eines Arztes|gesundheit|Ich rufe heute die Arztpraxis an.|the doctor s office|el consultorio|le cabinet médical|l ambulatorio|o consultório|doktor muayenehanesi|عيادة الطبيب|кабинет врача|gabinet lekarski|кабінет лікаря
+das Attest|ärztliche Bescheinigung|gesundheit,buero|Für den Chef brauche ich ein Attest vom Arzt.|the medical certificate|el certificado médico|le certificat médical|il certificato medico|o atestado médico|doktor raporu|شهادة طبية|справка|zaświadczenie lekarskie|довідка
+der Mieter|Person die eine Wohnung mietet|wohnen|Der Mieter muss jeden Monat die Miete zahlen.|the tenant|el inquilino|le locataire|l inquilino|o inquilino|kiracı|المستأجر|квартиросъёмщик|lokator|орендар
+der Balkon|Freifläche vor der Wohnung|wohnen|Im Sommer sitzen wir abends gern auf dem Balkon.|the balcony|el balcón|le balcon|il balcone|a varanda|balkon|الشرفة|балкон|balkon|балкон
+der Rasen|kurz geschnittene Grasfläche|wohnen|Am Wochenende mäht mein Nachbar den Rasen.|the lawn|el césped|la pelouse|il prato|o gramado|çim|الحديقة الخضراء|газон|trawnik|газон
+der Pfand|Geld als Rückgabepflicht für Flaschen|einkaufen|Für die Flasche bekomme ich zwei Euro Pfand.|the bottle deposit|el depósito|la consigne|il deposito cauzionale|o depósito|depozito|مبلغ التأمين|залог|kaucja|застава
+der Kontoauszug|Liste aller Kontobewegungen|bank|Dem Vermieter schicke ich jeden Monat den Kontoauszug.|the bank statement|el extracto bancario|le relevé de compte|l estratto conto|o extrato bancário|hesap özeti|كشف الحساب|банковская выписка|wyciąg bankowy|виписка з рахунку
+die Verlängerung|längere Frist für etwas|behoerden|Für den Ausweis brauche ich bald eine Verlängerung.|the extension|la prórroga|le renouvellement|il rinnovo|a prorrogação|uzatma|التمديد|продление|przedłużenie|продовження
+die Zahlung|Überweisung eines Betrags|bank|Die Zahlung geht morgen von meinem Konto ab.|the payment|el pago|le paiement|il pagamento|o pagamento|ödeme|الدفع|оплата|płatność|оплата
+das Ziel|Punkt den man erreichen will|arbeit,alltag|Mein Ziel ist die Deutschprüfung im Juni.|the goal|la meta|le but|l obiettivo|o objetivo|hedef|الهدف|цель|cel|мета
+die Kenntnisse|was jemand gelernt hat|arbeit,bildung|Für die Stelle sind gute Sprachkenntnisse nötig.|the knowledge|los conocimientos|les connaissances|le conoscenze|os conhecimentos|bilgi|المعرفة|знания|wiedza|знання
+die Fähigkeit|was jemand tun kann|arbeit,bildung|Geduld ist eine wichtige Fähigkeit im Beruf.|the ability|la capacidad|la capacité|la capacità|a capacidade|beceri|القدرة|способность|umiejętność|здібність
+der Backofen|Gerät zum Backen|einkaufen,wohnen|Den Kuchen schiebe ich für eine Stunde in den Backofen.|the oven|el horno|le four|il forno|o forno|fırın|الفرن|духовка|piekarnik|духова шафа
+die Sicherung|Sicherung im Stromkreis|technik,wohnen|Bei zu vielen Geräten fliegt die Sicherung raus.|the fuse|el fusible|le fusible|il fusibile|o fusível|sigorta|القاطع|предохранитель|bezpiecznik|запобіжник
+das Fahrrad|zweirädriges Gefährt|alltag,technik|Mit dem Fahrrad fahre ich jeden Morgen zur Arbeit.|the bicycle|la bicicleta|le vélo|la bicicletta|a bicicleta|bisiklet|الدراجة|велосипед|rower|велосипед
+der Geldbeutel|kleine Tasche für Geld|alltag,bank|Meinen Geldbeutel habe ich zu Hause vergessen.|the wallet|la cartera|le portefeuille|il portafoglio|a carteira|cüzdan|محفظة النقود|кошелёк|portfel|гаманець
+der Briefkasten|Kasten für eingehende Post|alltag,wohnen|Im Briefkasten liegt heute wieder nur Werbung.|the mailbox|el buzón|la boîte aux lettres|la cassetta della posta|a caixa de correio|posta kutusu|صندوق البريد|почтовый ящик|skrzynka pocztowa|поштова скринька
+der Absender|Person die etwas verschickt|buero,alltag|Der Brief kam ohne Absender zurück.|the sender|el remitente|l expéditeur|il mittente|o remetente|gönderen|المرسل|отправитель|nadawca|відправник
+der Empfänger|Person die etwas bekommt|buero,alltag|Der Empfänger muss das Paket selbst abholen.|the recipient|el destinatario|le destinataire|il destinatario|o destinatário|alıcı|المستلم|получатель|odbiorca|одержувач
+die Information|Auskunft zu einem Thema|buero,alltag|Die Information zu den Kursen finde ich im Internet.|the information|la información|l information|l informazione|a informação|bilgi|المعلومة|информация|informacja|інформація
+der Rat|Empfehlung wie man handeln soll|alltag|Bei Problemen gibt mir mein Vater oft einen guten Rat.|the advice|el consejo|le conseil|il consiglio|o conselho|tavsiye|النصيحة|совет|rada|порада
+der Vorschlag|Idee die man anbietet|arbeit,alltag|Mein Vorschlag hat die Arbeitszeit verkürzt.|the suggestion|la propuesta|la proposition|la proposta|a sugestão|öneri|الاقتراح|предложение|propozycja|пропозиція
+die Freude|Gefühl des Glücklichseins|alltag|Die Freude über die Zusage war groß.|the joy|la alegría|la joie|la gioia|a alegria|sevinç|الفرح|радость|radość|радість
+die Ruhe|Zustand ohne Lärm|alltag,gesundheit|Nach der Arbeit brauche ich eine Stunde Ruhe.|the peace|la calma|le calme|la calma|a tranquilidade|sessizlik|الهدوء|тишина|spokój|тиша
+das Verhalten|Art wie man sich zeigt|alltag,arbeit|Sein Verhalten im Gespräch war sehr freundlich.|the behavior|el comportamiento|le comportement|il comportamento|o comportamento|davranış|السلوك|поведение|zachowanie|поведінка
+abmelden|etwas offiziell beenden|buero,behoerden|Ich muss mich für den Kurs abmelden.|to deregister|darse de baja|se désinscrire|annullare l iscrizione|cancelar a inscrição|kaydı silmek|إلغاء التسجيل|отменять регистрацию|wyrejestrować|скасувати реєстрацію
+ummelden|Adresse amtlich ändern|behoerden,wohnen|Nach dem Umzug muss ich mich ummelden.|to re-register|registrar el cambio de domicilio|changer d adresse|aggiornare la residenza|atualizar o endereço|adres değiştirmek|تغيير محل الإقامة|перерегистрироваться|przemeldować|перереєструватися
+erneuern|wieder gültig machen|behoerden,buero|Im März muss ich meinen Pass erneuern.|to renew|renovar|renouveler|rinnovare|renovar|yenilemek|تجديد|обновлять|odnowić|поновлювати
+zuständig|für eine Aufgabe verantwortlich|arbeit,behoerden|Für diese Fragen ist mein Kollege zuständig.|responsible|responsable|responsable|responsabile|responsável|yetkili|مسؤول|ответственный|odpowiedzialny|відповідальний
+verspätet|nach der geplanten Zeit|reisen,alltag|Der Zug ist heute zwanzig Minuten verspätet.|delayed|retrasado|retardé|in ritardo|atrasado|gecikmiş|متأخر|опоздавший|opóźniony|із запізненням
+rechtzeitig|gerade noch früh genug|alltag,arbeit|Bitte kommt rechtzeitig zur Sitzung.|in time|a tiempo|à temps|in tempo|a tempo|zamanında|في الوقت المناسب|вовремя|na czas|вчасно
+vorsichtig|mit Aufmerksamkeit handelnd|alltag,gesundheit|Sei vorsichtig mit dem heißen Wasser.|careful|con cuidado|prudent|attento|cuidadoso|dikkatli|حذر|осторожный|ostrożny|обережний
+peinlich|so dass man sich schämt|alltag|Der Fehler vor allen Kollegen war mir peinlich.|embarrassing|vergonzoso|gênant|imbarazzante|constrangedor|utandırıcı|محرج|неловкий|krępujący|незручний
+gefährlich|mit grossem Risiko verbunden|alltag,gesundheit|Diese Kurve ist bei Regen gefährlich.|dangerous|peligroso|dangereux|pericoloso|perigoso|tehlikeli|خطير|опасный|niebezpieczny|небезпечний
+erfolgreich|mit gutem Ergebnis|arbeit,alltag|Das Gespräch mit dem Chef war erfolgreich.|successful|exitoso|réussi|riuscito|bem-sucedido|başarılı|ناجح|успешный|udany|успішний
+anstrengend|viel Kraft kostende Tätigkeit|arbeit,gesundheit|Der Umzug war sehr anstrengend.|tiring|agotador|épuisant|faticoso|cansativo|yorucu|مرهق|утомительный|męczący|виснажливий
+entspannt|ohne Stress und Anspannung|gesundheit,alltag|Nach dem Urlaub fühle ich mich entspannt.|relaxed|relajado|détendu|rilassato|relaxado|rahat|مسترخٍ|расслабленный|zrelaksowany|розслаблений
+kompliziert|schwer verständlich|alltag,buero|Das Formular sieht sehr kompliziert aus.|complicated|complicado|compliqué|complicato|complicado|karmaşık|معقد|сложный|skomplikowany|складний
+ärgerlich|Fehler der Ärger auslöst|alltag|Der Fehler in der Rechnung ist wirklich ärgerlich.|annoying|molesto|agaçant|fastidioso|irritante|sinir bozucu|مزعج|досадный|irytujący|дратівливий
+enttäuscht|traurig wegen falscher Hoffnung|alltag|Über die Absage war sie sehr enttäuscht.|disappointed|decepcionado|déçu|deluso|decepcionado|hayal kırıklığına uğramış|محبط|разочарованный|rozczarowany|розчарований
+fröhlich|gute Laune zeigend|alltag,freizeit|Die Kinder kommen fröhlich aus der Schule.|cheerful|alegre|joyeux|allegro|alegre|neşeli|مرح|весёлый|wesoły|веселий
+traurig|Gefühl bei einem traurigen Ereignis|alltag,familie|Sie war nach der Nachricht sehr traurig.|sad|triste|triste|triste|triste|üzgün|حزين|грустный|smutny|сумний
+obwohl|obgleich etwas dagegenspricht|alltag|Obwohl es regnet gehe ich joggen.|although|aunque|bien que|sebbene|embora|her ne kadar|رغم أن|хотя|chociaż|хоча
+falls|für den Fall dass|alltag,buero|Falls es regnet sag mir früh Bescheid.|if|en caso de que|au cas où|qualora|caso|eğer|في حال|если|jeśli|якщо
+vermutlich|sehr wahrscheinlich|alltag|Der Zug kommt vermutlich mit Verspätung.|presumably|probablemente|probablement|probabilmente|provavelmente|muhtemelen|على الأرجح|вероятно|prawdopodobnie|ймовірно
+eventuell|unter Umständen möglich|alltag,buero|Eventuell verschieben wir den Termin auf Montag.|possibly|posiblemente|éventuellement|eventualmente|eventualmente|belki|ربما|возможно|ewentualnie|можливо
+mindestens|nicht weniger als|alltag,einkaufen|Der Vorrat reicht mindestens bis Freitag.|at least|al menos|au moins|almeno|no mínimo|en az|على الأقل|как минимум|co najmniej|як мінімум
+höchstens|nicht mehr als|alltag,einkaufen|Der Aufenthalt dauert höchstens zwei Tage.|at most|como máximo|au plus|al massimo|no máximo|en fazla|على الأكثر|максимум|najwyżej|щонайбільше
+erkennen|mit den Augen oder Kopf erfassen|alltag,arbeit|Am Ton erkenne ich sofort die Stimme meines Chefs.|to recognize|reconocer|reconnaître|riconoscere|reconhecer|tanımak|التعرف|узнавать|rozpoznać|розпізнавати
+ausmachen|effektiv absprechen|alltag,arbeit|Wir machen den Termin für Dienstag aus.|to arrange|acordar|convenir|concordare|combinar|kararlaştırmak|الاتفاق على|договариваться|ustalać|домовлятися
+ablehnen|etwas nicht annehmen|arbeit,buero|Sie lehnt die Stelle wegen der Entfernung ab.|to decline|rechazar|refuser|rifiutare|recusar|reddetmek|رفض|отклонять|odrzucać|відхиляти
+übernehmen|eine Aufgabe an sich nehmen|arbeit|Ich übernehme die Nachtschicht bis Freitag.|to take over|asumir|prendre en charge|assumere|assumir|devralmak|تولي|перенимать|przejmować|переймати
+aufpassen|gut achtgeben|alltag,familie|Bitte pass auf die Kinder am See auf.|to watch out|prestar atención|faire attention|stare attenti|tomar cuidado|dikkat etmek|الانتباه|присматривать|uważać|пильнувати
+ausprobieren|etwas testen ob es klappt|alltag,technik|Du kannst das neue Gerät einfach ausprobieren.|to try out|probar|essayer|provare|experimentar|denemek|التجربة|испробовать|wypróbować|випробовувати
+zugeben|einen Fehler einräumen|alltag,arbeit|Ich gebe zu dass ich den Termin vergessen habe.|to admit|admitir|admettre|ammettere|admitir|kabul etmek|الاعتراف|признавать|przyznawać|визнавати
+anbieten|jemandem etwas zur Verfügung stellen|arbeit,alltag|Der Chef will mir eine Fortbildung anbieten.|to offer|ofrecer|proposer|offrire|oferecer|sunmak|طرح|предлагать|oferować|пропонувати
+abgeben|etwas persönlich einreichen|buero,behoerden|Die Unterlagen muss ich bis Montag abgeben.|to hand in|entregar|remettre|consegnare|entregar|teslim etmek|تسليم|сдавать|oddawać|здавати
+abonnieren|regelmässig erhalten wollen|alltag,technik|Ich habe eine Zeitung abonniert.|to subscribe|suscribirse|s abonner|abbonarsi|assinar|abone olmak|الاشتراك|подписываться|abonować|підписуватися
+aktualisieren|auf den neuesten Stand bringen|technik,buero|Bitte aktualisieren Sie Ihre Adresse auf der Website.|to update|actualizar|mettre à jour|aggiornare|atualizar|güncellemek|تحديث|обновлять|aktualizować|оновлювати
+sich erkundigen|nach Informationen fragen|buero,behoerden|Ich erkundige mich nach den Öffnungszeiten.|to inquire|informarse|s informer|informarsi|informar-se|bilgi almak|الاستفسار|справляться|dowiadywać się|дізнаватися
+sich gewöhnen|mit einer neuen Sache vertraut werden|alltag,arbeit|Ich habe mich an den Lärm gewöhnt.|to get used to|acostumbrarse|s habituer|abituarsi|acostumar-se|alışmak|التعوّد|привыкать|przyzwyczajać się|звикати
+sich beschweren|über etwas klagen|alltag,einkaufen|Ich möchte mich über die Rechnung beschweren.|to complain|quejarse|se plaindre|lamentarsi|reclamar|şikayet etmek|التذمر|жаловаться|skarżyć się|скаржитися

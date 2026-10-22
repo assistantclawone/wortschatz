@@ -1,0 +1,48 @@
+# AUFTRAG: A1-Wortliste Deutsch (Block B12)
+
+Du schreibst Einträge für einen Deutsch-Vokabeltrainer (Renato Santiago).
+Ziel: muttersprachlich neutrale, evidenzbasierte A1-Grundwortliste, nach Häufigkeit geordnet,
+für ein kommerzielles Produkt. **Keine Erfindungen.**
+
+## Ausgabeformat — EXAKT einhalten
+
+Eine Datei, eine Zeile pro Eintrag, Felder getrennt durch `|` (Pipe), keine Kopfzeile,
+keine Kommentare, **kein Markdown, kein Codeblock-Zaun**:
+
+```
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+```
+
+### Feldregeln
+
+1. **de** — Das deutsche Wort oder die Phrase, wie man sie wirklich lernt.
+   - Kommt das Wort real nie allein vor → **Phrase** nehmen (`Bescheid geben`, `Es geht mir gut`).
+   - Nomen mit Artikel und klein geschriebenem Nomen wie im Lehrwerk: `der Tisch`, `die Frau`, `das Kind`.
+     Verben im Infinitiv: `gehen`, `machen`. Adjektive in Grundform: `gross`.
+2. **meaning** — kurze deutsche Bedeutungsabgrenzung in 2–5 Wörtern (`Sitzgelegenheit`, `Geldinstitut`).
+   Bei mehreren Bedeutungen: **jede Bedeutung = eigene Zeile** mit eigener meaning.
+3. **level** — immer `A1` in diesem Auftrag.
+4. **cats** — `ALL` ODER Komma-Liste ohne Leerzeichen aus:
+   `alltag,behoerden,arbeit,gesundheit,wohnen,einkaufen,reisen,familie,bildung,freizeit,telefon,bank,gastro,handwerk,technik,pflege,logistik,bau,buero,recht`
+   - Basiswörter (`ja`, `nein`, `bitte`, `danke`, `ich`, `und`) → **ALL**
+   - Sonst nur die Bereiche, in denen das Wort wirklich vorkommt (2–4 Bereiche reichen).
+5. **region** — Komma-Liste aus `CH,AT,DE,INT`.
+   - Standard: `INT` (in allen drei Ländern gleich).
+   - Landesspezifische Wörter: `CH` / `AT` / `DE` (ggf. mehrere).
+6. **sentenceFull** — ein **geläufiger, natürlicher** Beispielsatz (5–10 Wörter), der den Eintrag
+   wörtlich enthält. Keine Konstruktionen, die niemand sagt.
+   - Kultursensibel neutral: keine Politik, keine Religion, keine Stereotype, keine Klischees.
+7. **Übersetzungen** — alle zehn Sprachen, in dieser Reihenfolge, `xx=...` durch Komma getrennt:
+   `en,es,fr,it,pt,tr,ar,ru,pl,uk`
+   - Kurz und idiomatisch, keine Erklärsätze.
+   - Keine Kommas in den Übersetzungen! (Feldtrenner) → `und/oder`-Form mit `/` schreiben.
+   - Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+8. **flags** — leer lassen (Zeile endet mit `|`) oder `slang` / `vulgar`.
+   In diesem Block: **leer**. Keine vulgären Wörter.
+
+## Inhaltlicher Auftrag
+
+Liefere **60 Einträge**: die 60 **häufigsten** deutschen Wörter/Phrasen auf A1-Niveau,
+die noch NICHT in der bestehenden Liste stehen.
+
+**Bereits vorhanden (NICHT wiederholen):** ja, nein, ich, sein, und, in, haben, das, nicht, du, der, die, ein, eine, ist, bin, sind, es, zu, von, mit, auf, für, an, bei, nach, aus, vor, über, auch, noch, nur, schon, immer, sehr, gut, gross, klein, neu, gehen, kommen, machen, geben, nehmen, sehen, sagen, sprechen, können, müssen, wollen, mögen, möchten, werden, bleiben, wohnen, arbeiten, lernen, verstehen, wissen, kaufen, essen, trinken, schlafen, helfen, brauchen, tag, zeit, jahr, mensch, kind, frau, mann, wasser, Sie, wir, er, wer, was, wo, wann, wie, warum, welcher, unter, neben, zwischen, hinter, ohne, gegen, durch, um, seit, bis, oder, aber, wenn, dass, weil, denn, etwas, nichts, jemand, alle, viel, mehr, wenig, bitte, danke, hallo, guten Tag, guten Morgen, auf Wiedersehen, tschüss, Grüezi, Servus, Entschuldigung, ich bin, du bist, ja bitte, nein danke, Wie geht es Ihnen, Es geht mir gut, Wie heisst du, Wie heissen Sie, ich heisse, Woher kommen Sie, Ich komme aus, Bitte schön, Kein Problem, doch, kein, keine, dieser, mein, dein, unser, ihr, man, sich, mich, mir, dich, dir, ihm, ihnen, uns, da, dort, hier, jetzt, heute, morgen, gestern, immer noch, gern, danke schön, ach so, natürlich, vielleicht, zusammen, allein, Bescheid geben, noch nicht, schon wieder, so, zu Hause, noch einmal, wenn es geht, als, ob, niemand, sehr gern, guten Abend, tut mir leid, keine Ursache, um zu, nach Hause, in Ordnung, kann, muss, will, möchte, darf, oben, unten, links, rechts, vorne, hinten, darauf, während, also, sehr gut, wie bitte

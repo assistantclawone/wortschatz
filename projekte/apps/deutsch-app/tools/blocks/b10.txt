@@ -1,0 +1,60 @@
+haben|Besitz ausdrücken|A1|ALL|INT|Haben Sie einen Termin frei?|en=to have,es=tener,fr=avoir,it=avere,pt=ter,tr=sahip olmak,ar=يملك,ru=иметь,pl=mieć,uk=мати|
+sein|sich befinden|A1|ALL|INT|Das Zimmer ist sehr hell.|en=to be,es=ser,fr=être,it=essere,pt=ser,tr=olmak,ar=يكون,ru=быть,pl=być,uk=бути|
+mein|Possessiv maskulin/neutrum|A1|ALL|INT|Das ist mein Schlüssel.|en=my,es=mi,fr=mon,it=mio,pt=meu,tr=benim,ar=لي,ru=мой,pl=mój,uk=мій|
+jeder|alle einzeln|A1|ALL|INT|Jeder Tag beginnt mit einem Kaffee.|en=every,es=cada,fr=chaque,it=ogni,pt=cada,tr=her,ar=كل,ru=каждый,pl=każdy,uk=кожен|
+ander|verschieden|A1|ALL|INT|Das ist eine andere Frage.|en=other,es=otro,fr=autre,it=altro,pt=outro,tr=başka,ar=آخر,ru=другой,pl=inny,uk=інший|
+spät|verzögert|A1|ALL|INT|Es ist schon ziemlich spät.|en=late,es=tarde,fr=tard,it=tardi,pt=tarde,tr=geç,ar=متأخر,ru=поздно,pl=późno,uk=пізно|
+jung|nicht alt|A1|ALL|INT|Die junge Frau wohnt nebenan.|en=young,es=joven,fr=jeune,it=giovane,pt=jovem,tr=genç,ar=شاب,ru=молодой,pl=młody,uk=молодий|
+alt|bejahrt|A1|ALL|INT|Das alte Haus steht am See.|en=old,es=viejo,fr=vieux,it=vecchio,pt=velho,tr=yaşlı,ar=قديم,ru=старый,pl=stary,uk=старий|
+hoch|von grosser Höhe|A1|wohnen,bau|INT|Der Berg ist sehr hoch.|en=high,es=alto,fr=haut,it=alto,pt=alto,tr=yüksek,ar=عالٍ,ru=высокий,pl=wysoki,uk=високий|
+niedrig|von kleiner Höhe|A1|wohnen,bau|INT|Die Decke im Keller ist niedrig.|en=low,es=bajo,fr=bas,it=basso,pt=baixo,tr=alçak,ar=منخفض,ru=низкий,pl=nisk,uk=низький|
+lang|von grosser Länge|A1|ALL|INT|Die Strasse ist sehr lang.|en=long,es=largo,fr=long,it=lungo,pt=longo,tr=uzun,ar=طويل,ru=длинный,pl=długi,uk=довгий|
+leicht|nicht schwer|A1|ALL|INT|Die Tasche ist sehr leicht.|en=light,es=ligero,fr=léger,it=leggero,pt=leve,tr=hafif,ar=خفيف,ru=лёгкий,pl=lekki,uk=легкий|
+schwer|mit viel Gewicht|A1|ALL|INT|Der Koffer ist zu schwer.|en=heavy,es=pesado,fr=lourd,it=pesante,pt=pesado,tr=ağır,ar=ثقيل,ru=тяжёлый,pl=ciężki,uk=важкий|
+billig|kostengünstig|A1|einkaufen|INT|Diese Jacke ist sehr billig.|en=cheap,es=barato,fr=bon marché,it=economico,pt=barato,tr=ucuz,ar=رخيص,ru=дешёвый,pl=tani,uk=дешевий|
+teuer|mit hohem Preis|A1|einkaufen,reisen|INT|Das Hotel ist leider teuer.|en=expensive,es=caro,fr=cher,it=caro,pt=caro,tr=pahalı,ar=غالي,ru=дорогой,pl=drogi,uk=дорогий|
+voll|nicht leer|A1|alltag,einkaufen|INT|Der Bus ist schon voll.|en=full,es=lleno,fr=plein,it=pieno,pt=cheio,tr=dolu,ar=ممتلئ,ru=полный,pl=pełny,uk=повний|
+leer|ohne Inhalt|A1|alltag,wohnen|INT|Das Glas ist noch leer.|en=empty,es=vacío,fr=vide,it=vuoto,pt=vazio,tr=boş,ar=فارغ,ru=пустой,pl=pusty,uk=порожній|
+fertig|abgeschlossen|A1|arbeit,alltag|INT|Ich bin gleich fertig.|en=ready,es=listo,fr=prêt,it=pronto,pt=pronto,tr=hazır,ar=جاهز,ru=готовый,pl=gotowy,uk=готовий|
+müde|ohne Energie|A1|gesundheit,alltag|INT|Nach der Arbeit bin ich müde.|en=tired,es=cansado,fr=fatigué,it=stanco,pt=cansado,tr=yorgun,ar=متعب,ru=усталый,pl=zmęczony,uk=втомлений|
+froh|erfreut|A1|alltag|INT|Ich bin froh über deine Hilfe.|en=glad,es=contento,fr=content,it=contento,pt=contente,tr=sevinçli,ar=سعيد,ru=рад,pl=zadowolony,uk=радий|
+gesund|ohne Krankheit|A1|gesundheit|INT|Meine Kinder sind gesund.|en=healthy,es=sano,fr=sain,it=sano,pt=saudável,tr=sağlıklı,ar=صحي,ru=здоровый,pl=zdrowy,uk=здоровий|
+krank|mit Krankheit|A1|gesundheit,arbeit|INT|Ich bin heute leider krank.|en=sick,es=enfermo,fr=malade,it=malato,pt=doente,tr=hasta,ar=مريض,ru=больной,pl=chory,uk=хворий|
+richtig|korrekt|A1|ALL|INT|Die Antwort ist richtig.|en=correct,es=correcto,fr=correct,it=corretto,pt=correto,tr=doğru,ar=صحيح,ru=правильный,pl=prawidłowy,uk=правильний|
+falsch|nicht korrekt|A1|ALL|INT|Die Adresse ist leider falsch.|en=wrong,es=incorrecto,fr=faux,it=sbagliato,pt=errado,tr=yanlış,ar=خاطئ,ru=неправильный,pl=błędny,uk=неправильний|
+wichtig|von Bedeutung|A1|arbeit,alltag|INT|Das ist ein wichtiger Termin.|en=important,es=importante,fr=important,it=importante,pt=importante,tr=önemli,ar=مهم,ru=важный,pl=ważny,uk=важливий|
+möglich|realisierbar|A1|alltag,arbeit|INT|Ist das morgen möglich?|en=possible,es=posible,fr=possible,it=possibile,pt=possível,tr=mümkün,ar=ممكن,ru=возможный,pl=możliwy,uk=можливий|
+letzt|zuletzt genannt|A1|ALL|INT|Das ist mein letzter Tag hier.|en=last,es=último,fr=dernier,it=ultimo,pt=último,tr=son,ar=أخير,ru=последний,pl=ostatni,uk=останній|
+einfach|nicht schwierig|A1|ALL|INT|Die Aufgabe ist ganz einfach.|en=easy,es=fácil,fr=facile,it=facile,pt=fácil,tr=kolay,ar=سهل,ru=простой,pl=łatwy,uk=простий|
+schwierig|nicht einfach|A1|bildung,arbeit|INT|Die Prüfung war sehr schwierig.|en=difficult,es=difícil,fr=difficile,it=difficile,pt=difícil,tr=zor,ar=صعب,ru=трудный,pl=trudny,uk=складний|
+ruhig|ohne Lärm|A1|wohnen,alltag|INT|Die Wohnung ist sehr ruhig.|en=quiet,es=tranquilo,fr=calme,it=tranquillo,pt=calmo,tr=sakin,ar=هادئ,ru=тихий,pl=spokojny,uk=спокійний|
+offen|nicht geschlossen|A1|einkaufen,alltag|INT|Der Laden ist bis acht offen.|en=open,es=abierto,fr=ouvert,it=aperto,pt=aberto,tr=açık,ar=مفتوح,ru=открытый,pl=otwarty,uk=відкритий|
+geschlossen|nicht offen|A1|einkaufen,alltag|INT|Das Geschäft ist heute geschlossen.|en=closed,es=cerrado,fr=fermé,it=chiuso,pt=fechado,tr=kapalı,ar=مغلق,ru=закрытый,pl=zamknięty,uk=закритий|
+letzte Woche|vorige Woche|A1|ALL|INT|Letzte Woche war ich krank.|en=last week,es=la semana pasada,fr=la semaine dernière,it=la settimana scorsa,pt=semana passada,tr=geçen hafta,ar=الأسبوع الماضي,ru=на прошлой неделе,pl=w zeszłym tygodniu,uk=минулого тижня|
+nächste Woche|kommende Woche|A1|ALL|INT|Nächste Woche habe ich Urlaub.|en=next week,es=la próxima semana,fr=la semaine prochaine,it=la prossima settimana,pt=próxima semana,tr=gelecek hafta,ar=الأسبوع القادم,ru=на следующей неделе,pl=w przyszłym tygodniu,uk=наступного тижня|
+der Morgen|Tagesbeginn|A1|alltag|INT|Der Morgen ist noch kühl.|en=morning,es=mañana,fr=matin,it=mattina,pt=manhã,tr=sabah,ar=صباح,ru=утро,pl=rano,uk=ранок|
+der Mittag|Tagesmitte|A1|alltag,gastro|INT|Der Mittag ist die beste Pause.|en=noon,es=mediodía,fr=midi,it=mezzogiorno,pt=meio-dia,tr=öğlen,ar=ظهر,ru=полдень,pl=południe,uk=полудень|
+der Nachmittag|Zeit nach Mittag|A1|alltag|INT|Der Nachmittag ist ruhig.|en=afternoon,es=tarde,fr=après-midi,it=pomeriggio,pt=tarde,tr=öğleden sonra,ar=بعد الظهر,ru=день,pl=popołudnie,uk=після обіду|
+der Abend|Tagesende|A1|alltag|INT|Der Abend war sehr schön.|en=evening,es=noche,fr=soir,it=sera,pt=noite,tr=akşam,ar=مساء,ru=вечер,pl=wieczór,uk=вечір|
+die Woche|sieben Tage|A1|ALL|INT|Die Woche hat sieben Tage.|en=week,es=semana,fr=semaine,it=settimana,pt=semana,tr=hafta,ar=أسبوع,ru=неделя,pl=tydzień,uk=тиждень|
+die Minute|sechzig Sekunden|A1|ALL|INT|Die Minute hat sechzig Sekunden.|en=minute,es=minuto,fr=minute,it=minuto,pt=minuto,tr=dakika,ar=دقيقة,ru=минута,pl=minuta,uk=хвилина|
+die Stunde|sechzig Minuten|A1|ALL|INT|Die Stunde ist fast vorbei.|en=hour,es=hora,fr=heure,it=ora,pt=hora,tr=saat,ar=ساعة,ru=час,pl=godzina,uk=година|
+der Monat|zwölfter Teil des Jahres|A1|ALL|INT|Der Monat hat dreissig Tage.|en=month,es=mes,fr=mois,it=mese,pt=mês,tr=ay,ar=شهر,ru=месяц,pl=miesiąc,uk=місяць|
+das Geschäft|Laden|A1|einkaufen|INT|Das Geschäft öffnet um neun.|en=shop,es=tienda,fr=magasin,it=negozio,pt=loja,tr=dükkan,ar=متجر,ru=магазин,pl=sklep,uk=магазин|
+das Haus|Gebäude zum Wohnen|A1|wohnen|INT|Das Haus hat einen Garten.|en=house,es=casa,fr=maison,it=casa,pt=casa,tr=ev,ar=منزل,ru=дом,pl=dom,uk=будинок|
+der Stuhl|Sitzmöbel|A1|wohnen|INT|Der Stuhl steht am Tisch.|en=chair,es=silla,fr=chaise,it=sedia,pt=cadeira,tr=sandalye,ar=كرسي,ru=стул,pl=krzesło,uk=стілець|
+der Tisch|Möbel zum Essen|A1|wohnen|INT|Der Tisch ist schon gedeckt.|en=table,es=mesa,fr=table,it=tavolo,pt=mesa,tr=masa,ar=طاولة,ru=стол,pl=stół,uk=стіл|
+das Bett|Möbel zum Schlafen|A1|wohnen|INT|Das Bett ist sehr bequem.|en=bed,es=cama,fr=lit,it=letto,pt=cama,tr=yatak,ar=سرير,ru=кровать,pl=łóżko,uk=ліжко|
+die Tür|Eingang eines Raums|A1|wohnen|INT|Die Tür ist leider zu.|en=door,es=puerta,fr=porte,it=porta,pt=porta,tr=kapı,ar=باب,ru=дверь,pl=drzwi,uk=двері|
+das Fenster|Öffnung in der Wand|A1|wohnen|INT|Das Fenster ist offen.|en=window,es=ventana,fr=fenêtre,it=finestra,pt=janela,tr=pencere,ar=نافذة,ru=окно,pl=okno,uk=вікно|
+die Wohnung|Ort zum Wohnen|A1|wohnen|INT|Die Wohnung ist schon frei.|en=flat,es=piso,fr=appartement,it=appartamento,pt=apartamento,tr=daire,ar=شقة,ru=квартира,pl=mieszkanie,uk=квартира|
+das Zimmer|Raum im Haus|A1|wohnen|INT|Das Zimmer ist klein aber hell.|en=room,es=habitación,fr=chambre,it=stanza,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+der Schlüssel|Werkzeug zum Öffnen|A1|wohnen,alltag|INT|Der Schlüssel liegt auf dem Tisch.|en=key,es=llave,fr=clé,it=chiave,pt=chave,tr=anahtar,ar=مفتاح,ru=ключ,pl=klucz,uk=ключ|
+die Tasche|Behälter zum Tragen|A1|einkaufen,reisen|INT|Die Tasche steht neben der Tür.|en=bag,es=bolsa,fr=sac,it=borsa,pt=bolsa,tr=çanta,ar=حقيبة,ru=сумка,pl=torba,uk=сумка|
+das Auto|Fahrzeug|A1|reisen,alltag|INT|Das Auto steht vor dem Haus.|en=car,es=coche,fr=voiture,it=auto,pt=carro,tr=araba,ar=سيارة,ru=машина,pl=samochód,uk=авто|
+die Arbeit|Tätigkeit zum Geldverdienen|A1|arbeit|INT|Die Arbeit beginnt um acht.|en=work,es=trabajo,fr=travail,it=lavoro,pt=trabalho,tr=iş,ar=عمل,ru=работа,pl=praca,uk=робота|
+das Geld|Zahlungsmittel|A1|bank,einkaufen|INT|Das Geld liegt in der Kasse.|en=money,es=dinero,fr=argent,it=denaro,pt=dinheiro,tr=para,ar=مال,ru=деньги,pl=pieniądze,uk=гроші|
+der Preis|Betrag einer Ware|A1|einkaufen|INT|Der Preis steht am Regal.|en=price,es=precio,fr=prix,it=prezzo,pt=preço,tr=fiyat,ar=سعر,ru=цена,pl=cena,uk=ціна|
+die Zeit|Ablauf der Stunden|A1|ALL|INT|Die Zeit vergeht sehr schnell.|en=time,es=tiempo,fr=temps,it=tempo,pt=tempo,tr=zaman,ar=وقت,ru=время,pl=czas,uk=час|
+der Name|Bezeichnung einer Person|A1|ALL|INT|Mein Name steht auf der Liste.|en=name,es=nombre,fr=nom,it=nome,pt=nome,tr=isim,ar=اسم,ru=имя,pl=imię,uk=імʼя|
+die Stadt|grosse Siedlung|A1|alltag,reisen|INT|Die Stadt ist sehr schön.|en=city,es=ciudad,fr=ville,it=città,pt=cidade,tr=şehir,ar=مدينة,ru=город,pl=miasto,uk=місто|

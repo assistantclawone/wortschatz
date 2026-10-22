@@ -1,0 +1,60 @@
+# AUFTRAG: Übersetzungen ergänzen (Reparatur)
+
+Die folgenden Zeilen haben nur 7 Felder — das 7. Feld (Übersetzungen) fehlt.
+
+Format pro Zeile (Pipe-getrennt, 8 Felder):
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+
+Regeln:
+- Übernimm die ersten 6 Felder WÖRTLICH unverändert.
+- Ergänze alle zehn Übersetzungen in dieser Reihenfolge: en,es,fr,it,pt,tr,ar,ru,pl,uk
+- Kurz und idiomatisch, keine Erklärsätze, KEINE Kommas in den Übersetzungen (stattdessen /).
+- Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+- Letztes Feld (flags) leer, Zeile endet mit |.
+- Ausgabe: eine Datei, eine Zeile pro Eintrag, keine Kopfzeile, kein Markdown, kein Codeblock.
+
+## Zu reparieren:
+
+selbst|betont die eigene Person|A1|ALL|INT|Ich mache das ohne Hilfe selbst.|
+wieder|erneut/nocheinmal|A1|ALL|INT|Wir sehen uns morgen wieder.|
+lange|über viel Zeit|A1|ALL|INT|Ich habe lange auf den Bus gewartet.|
+kurz|wenig Zeit dauernd|A1|ALL|INT|Der Weg ist zum Bahnhof kurz.|
+letzte|zuvor gewesen|A1|ALL|INT|Das war die letzte Chance heute.|
+nächste|danach folgend|A1|ALL|INT|Die nächste Prüfung ist im Mai.|
+beide|zwei zusammen|A1|ALL|INT|Wir haben beide dasselbe Buch gelesen.|
+ander|nicht derselbe|A1|ALL|INT|Ich nehme ein anderes Getränk.|
+bekommen|erhalten/geschenkt kriegen|A1|ALL|INT|Ich bekomme jeden Tag viele E-Mails.|
+kennen|wissen wie jemand ist|A1|ALL|INT|Ich kenne den Nachbarn sehr gut.|
+fahren|mit Transportmittel bewegen|A1|reisen,alltag|INT|Wir fahren mit dem Zug nach Wien.|
+laufen|zu Fuß sich bewegen|A1|alltag,gesundheit|INT|Ich laufe jeden Abend im Park.|
+spielen|Spiel tätigen|A1|freizeit,familie|INT|Die Kinder spielen gern im Garten.|
+sitzen|auf einem Platz sein|A1|alltag|INT|Hier sitze ich jeden Morgen zum Frühstück.|
+stehen|auf den Füßen sein|A1|alltag|INT|Die Flasche steht in der Küche.|
+liegen|flach auf etwas sein|A1|alltag|INT|Das Buch liegt noch auf dem Tisch.|
+stellen|an einen Platz setzen|A1|alltag|INT|Bitte stellen Sie den Stuhl dort hin.|
+legen|flach hinlegen|A1|alltag|INT|Ich lege das Handy neben das Bett.|
+anfangen|beginnen|A1|arbeit,bildung|INT|Der Kurs fängt um neun Uhr an.|
+aufhören|beenden|A1|alltag,arbeit|INT|Wir hören jetzt mit der Pause auf.|
+erzählen|von etwas berichten|A1|alltag,familie|INT|Er erzählt eine lustige Geschichte.|
+denken|im Kopf überlegen|A1|ALL|INT|Ich denke oft an meine Familie.|
+meinen|eine Ansicht haben|A1|ALL|INT|Ich meine, dass der Film gut ist.|
+vergessen|nicht mehr wissen|A1|ALL|INT|Ich habe den Termin leider vergessen.|
+tragen|in der Hand halten|A1|alltag,einkaufen|INT|Sie trägt die Tasche zum Auto.|
+kochen|Speisen zubereiten|A1|alltag,gastro|INT|Ich koche heute Abend eine Suppe.|
+putzen|reinigen|A1|wohnen|INT|Ich putze am Samstag die Küche.|
+waschen|mit Wasser reinigen|A1|wohnen,gesundheit|INT|Ich wasche die Hände vor dem Essen.|
+schauen|hinsehen|A1|ALL|CH|Schau mal hier auf die Karte.|
+einladen|Gast einbinden|A1|familie,freizeit|INT|Ich lade meine Freunde zum Essen ein.|
+mitbringen|etwas dazu nehmen|A1|familie|INT|Bring bitte Getränke zur Party mit.|
+zahlen|Geld geben|A1|einkaufen,bank|INT|Ich zahle die Rechnung am Montag.|
+aufmachen|öffnen|A1|alltag|INT|Kannst du die Tür bitte aufmachen?|
+zumachen|schließen|A1|alltag|INT|Bitte mach das Licht aus.|
+verlassen|einen Ort weggehen|A1|alltag,reisen|INT|Wir verlassen das Haus um sieben.|
+mitnehmen|etwas mit sich führen|A1|reisen,alltag|INT|Nimm einen Regenschirm mit nach draußen.|
+erklären|deutlich sagen|A1|bildung,buero|INT|Der Lehrer erklärt die Grammatik ganz langsam.|
+üben|regelmäßig trainieren|A1|bildung|INT|Ich übe jeden Tag neue Wörter.|
+wiederholen|noch einmal sagen|A1|bildung|INT|Bitte wiederholen Sie den Satz noch einmal.|
+dauern|Zeit brauchen|A1|alltag|INT|Der Film dauert zwei Stunden.|
+fehlen|nicht da sein|A1|arbeit,bildung|INT|Mir fehlt heute leider die Zeit.|
+passen|gut angehören|A1|einkaufen,alltag|INT|Die Schuhe passen mir ganz gut.|
+gefallen|gut finden|A1|alltag|INT|Die Wohnung gefällt mir sehr.|

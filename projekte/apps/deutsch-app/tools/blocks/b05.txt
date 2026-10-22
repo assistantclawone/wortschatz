@@ -1,0 +1,61 @@
+wer|Frage nach Person|A1|ALL|INT|Wer ist der Mann dort?|en=who,es=quién,fr=qui,it=chi,pt=quem,tr=kim,ar=من,ru=кто,pl=kto,uk=хто|
+wie|Frage nach Art|A1|ALL|INT|Wie heisst du mit Vornamen?|en=how,es=cómo,fr=comment,it=come,pt=como,tr=nasıl,ar=كيف,ru=как,pl=jak,uk=як|
+was|Frage nach Sache|A1|ALL|INT|Was ist das hier genau?|en=what,es=qué,fr=quoi,it=cosa,pt=o que,tr=ne,ar=ماذا,ru=что,pl=co,uk=що|
+wo|Frage nach Ort|A1|ALL|INT|Wo wohnst du jetzt genau?|en=where,es=dónde,fr=où,it=dove,pt=onde,tr=nerede,ar=أين,ru=где,pl=gdzie,uk=де|
+wann|Frage nach Zeit|A1|ALL|INT|Wann kommst du heute nach Hause?|en=when,es=cuándo,fr=quand,it=quando,pt=quando,tr=ne zaman,ar=متى,ru=когда,pl=kiedy,uk=коли|
+warum|Frage nach Grund|A1|ALL|INT|Warum lernst du jeden Tag Deutsch?|en=why,es=por qué,fr=pourquoi,it=perché,pt=por que,tr=neden,ar=لماذا,ru=почему,pl=dlaczego,uk=чому|
+werden|Hilfsverb Futur|A1|ALL|INT|Ich werde dich morgen anrufen.|en=will,es=ir a,fr=aller,it=stare per,pt=ir,tr=ecek,ar=سوف,ru=буду,pl=będę,uk=буду|
+kann|Ausdruck von Möglichkeit|A1|ALL|INT|Ich kann heute nicht kommen.|en=can,es=puedo,fr=peux,it=posso,pt=posso,tr=abilirim,ar=أستطيع,ru=могу,pl=mogę,uk=можу|
+muss|Ausdruck von Notwendigkeit|A1|ALL|INT|Ich muss heute lange arbeiten.|en=must,es=debo,fr=dois,it=devo,pt=devo,tr=zorundayım,ar=يجب علي,ru=должен,pl=muszę,uk=мушу|
+will|Ausdruck von Wunsch|A1|ALL|INT|Ich will jetzt nach Hause gehen.|en=want,es=quiero,fr=veux,it=voglio,pt=quero,tr=istiyorum,ar=أريد,ru=хочу,pl=chcę,uk=хочу|
+möchte|höflicher Wunsch|A1|ALL|INT|Ich möchte bitte einen Kaffee bestellen.|en=would like,es=quisiera,fr=voudrais,it=vorrei,pt=gostaria,tr=istiyorum,ar=أرغب,ru=хотел бы,pl=chciałbym,uk=хотів би|
+darf|Ausdruck von Erlaubnis|A1|ALL|INT|Darf ich hier kurz telefonieren?|en=may,es=puedo,fr=puis,it=posso,pt=posso,tr=izniniz var mı,ar=هل يسمح,ru=можно,pl=czy mogę,uk=чи можна|
+jemand|unbestimmte Person|A1|ALL|INT|Jemand hat heute Morgen angerufen.|en=somebody,es=alguien,fr=quelqu'un,it=qualcuno,pt=alguém,tr=biri,ar=شخص ما,ru=кто-то,pl=ktoś,uk=хтось|
+alle|gesamte Gruppe|A1|alltag,familie,arbeit|INT|Alle sind schon im Saal.|en=all,es=todos,fr=tous,it=tutti,pt=todos,tr=hepsi,ar=الجميع,ru=все,pl=wszyscy,uk=усі|
+viel|grosse Menge|A1|ALL|INT|Ich habe heute viel zu tun.|en=much,es=mucho,fr=beaucoup,it=molto,pt=muito,tr=çok,ar=كثير,ru=много,pl=dużo,uk=багато|
+wenig|kleine Menge|A1|ALL|INT|Ich habe leider wenig Zeit.|en=little,es=poco,fr=peu,it=poco,pt=pouco,tr=az,ar=قليل,ru=мало,pl=mało,uk=мало|
+mehr|grössere Menge|A1|alltag,einkaufen,arbeit|INT|Ich möchte noch mehr Wasser haben.|en=more,es=más,fr=plus,it=più,pt=mais,tr=daha fazla,ar=أكثر,ru=больше,pl=więcej,uk=більше|
+etwas|unbestimmte Sache|A1|ALL|INT|Ich möchte etwas Kaltes trinken.|en=something,es=algo,fr=quelque chose,it=qualcosa,pt=algo,tr=bir şey,ar=شيء ما,ru=что-то,pl=coś,uk=щось|
+nichts|keine Sache|A1|ALL|INT|Ich habe leider nichts verstanden.|en=nothing,es=nada,fr=rien,it=niente,pt=nada,tr=hiçbir şey,ar=لا شيء,ru=ничего,pl=nic,uk=нічого|
+hier|an diesem Ort|A1|ALL|INT|Ich bin hier ganz neu.|en=here,es=aquí,fr=ici,it=qui,pt=aqui,tr=burada,ar=هنا,ru=здесь,pl=tutaj,uk=тут|
+da|an jenem Ort|A1|ALL|INT|Da steht meine neue Tasche.|en=there,es=allí,fr=là,it=lì,pt=ali,tr=orada,ar=هناك,ru=там,pl=tam,uk=там|
+dort|an jenem Ort|A1|ALL|INT|Dort wartet der nächste Bus.|en=there,es=allí,fr=là-bas,it=laggiù,pt=ali,tr=orada,ar=هناك,ru=там,pl=tam,uk=там|
+oben|an höherer Stelle|A1|wohnen,alltag|INT|Das Buch liegt oben im Regal.|en=above,es=arriba,fr=en haut,it=sopra,pt=acima,tr=yukarıda,ar=في الأعلى,ru=наверху,pl=na górze,uk=вгорі|
+unten|an tieferer Stelle|A1|wohnen,alltag|INT|Die Küche ist unten im Haus.|en=below,es=abajo,fr=en bas,it=sotto,pt=abaixo,tr=aşağıda,ar=في الأسفل,ru=внизу,pl=na dole,uk=внизу|
+links|auf der linken Seite|A1|alltag,reisen|INT|Das Bad ist links im Gang.|en=left,es=izquierda,fr=à gauche,it=a sinistra,pt=à esquerda,tr=solda,ar=يسار,ru=слева,pl=po lewej,uk=ліворуч|
+rechts|auf der rechten Seite|A1|alltag,reisen|INT|Die Bank ist rechts an der Ecke.|en=right,es=derecha,fr=à droite,it=a destra,pt=à direita,tr=sağda,ar=يمين,ru=справа,pl=po prawej,uk=праворуч|
+vorne|an der Vorderseite|A1|alltag,reisen|INT|Bitte vorne in den Bus einsteigen.|en=in front,es=delante,fr=devant,it=davanti,pt=na frente,tr=önde,ar=في الأمام,ru=спереди,pl=z przodu,uk=спереду|
+hinten|an der Rückseite|A1|alltag,reisen|INT|Bitte hinten aus dem Bus aussteigen.|en=behind,es=detrás,fr=derrière,it=dietro,pt=atrás,tr=arkada,ar=في الخلف,ru=сзади,pl=z tyłu,uk=ззаду|
+darauf|oberer Bereich|A1|wohnen,alltag|INT|Der Schlüssel liegt darauf.|en=top,es=parte de arriba,fr=haut,it=parte alta,pt=parte de cima,tr=üst,ar=الجزء العلوي,ru=верх,pl=góra,uk=верх|
+zwischen|zwischen zwei Dingen|A1|ALL|INT|Die Post ist zwischen Bank und Apotheke.|en=between,es=entre,fr=entre,it=tra,pt=entre,tr=arasında,ar=بين,ru=между,pl=między,uk=між|
+neben|an der Seite von|A1|ALL|INT|Ich sitze neben dir im Kurs.|en=next to,es=al lado,fr=à côté,it=accanto,pt=ao lado,tr=yanında,ar=بجانب,ru=рядом,pl=obok,uk=поруч|
+ohne|nicht mit|A1|ALL|INT|Ich trinke Kaffee ohne Zucker.|en=without,es=sin,fr=sans,it=senza,pt=sem,tr=sız,ar=بدون,ru=без,pl=bez,uk=без|
+gegen|in Richtung auf|A1|alltag,gesundheit|INT|Ich nehme Tabletten gegen Kopfschmerzen.|en=against,es=contra,fr=contre,it=contro,pt=contra,tr=karşı,ar=ضد,ru=против,pl=przeciw,uk=проти|
+durch|von einer Seite zur anderen|A1|alltag,reisen|INT|Ich gehe durch den Park nach Hause.|en=through,es=por,fr=à travers,it=attraverso,pt=através,tr=içinden,ar=عبر,ru=через,pl=przez,uk=через|
+um|Uhrzeitangabe|A1|ALL|INT|Der Kurs beginnt um acht Uhr.|en=at,es=a las,fr=à,it=alle,pt=às,tr=saat,ar=في,ru=в,pl=o,uk=о|
+bis|Zeitgrenze|A1|ALL|INT|Ich arbeite bis fünf Uhr heute.|en=until,es=hasta,fr=jusqu'à,it=fino a,pt=até,tr=kadar,ar=حتى,ru=до,pl=do,uk=до|
+seit|Zeitpunkt in Vergangenheit|A1|alltag,arbeit|INT|Ich wohne seit einem Jahr hier.|en=since,es=desde,fr=depuis,it=da,pt=desde,tr=beri,ar=منذ,ru=с,pl=od,uk=з|
+während|Zeitraum betreffend|A1|arbeit,bildung|INT|Während der Pause trinke ich Kaffee.|en=during,es=durante,fr=pendant,it=durante,pt=durante,tr=esnasında,ar=خلال,ru=во время,pl=podczas,uk=під час|
+aber|Gegensatz|A1|ALL|INT|Ich bin müde aber glücklich.|en=but,es=pero,fr=mais,it=ma,pt=mas,tr=ama,ar=لكن,ru=но,pl=ale,uk=але|
+oder|Alternative|A1|ALL|INT|Möchten Sie Tee oder Kaffee trinken?|en=or,es=o,fr=ou,it=o,pt=ou,tr=veya,ar=أو,ru=или,pl=lub,uk=або|
+denn|Grund einführend|A1|ALL|INT|Ich bleibe hier denn es regnet.|en=because,es=porque,fr=car,it=perché,pt=pois,tr=çünkü,ar=لأن,ru=потому что,pl=bo,uk=бо|
+weil|Grund einführend|A1|ALL|INT|Ich lerne Deutsch weil ich hier arbeite.|en=because,es=porque,fr=parce que,it=perché,pt=porque,tr=çünkü,ar=لأن,ru=потому что,pl=ponieważ,uk=тому що|
+dass|Konjunktion Nebensatz|A1|ALL|INT|Ich denke dass du recht hast.|en=that,es=que,fr=que,it=che,pt=que,tr=ki,ar=أن,ru=что,pl=że,uk=що|
+wenn|Bedingung|A1|ALL|INT|Wenn es regnet bleibe ich zu Hause.|en=if,es=si,fr=si,it=se,pt=se,tr=eğer,ar=إذا,ru=если,pl=jeśli,uk=якщо|
+als|Vergleich|A1|ALL|INT|Ich bin grösser als du.|en=than,es=que,fr=que,it=di,pt=do que,tr=den,ar=من,ru=чем,pl=niż,uk=ніж|
+also|Folgerung|A1|ALL|INT|Also gehen wir heute zusammen einkaufen.|en=so,es=entonces,fr=donc,it=quindi,pt=então,tr=yani,ar=إذن,ru=итак,pl=więc,uk=отже|
+doch|Verstärkung einer Frage|A1|ALL|INT|Du kommst doch auch mit uns?|en=but,es=verdad,fr=quand même,it=vero,pt=não é,tr=değil mi,ar=أليس كذلك,ru=же,pl=przecież,uk=адже|
+auch|zusätzlich|A1|ALL|INT|Ich möchte auch einen Kaffee bitte.|en=also,es=también,fr=aussi,it=anche,pt=também,tr=da,ar=أيضا,ru=тоже,pl=też,uk=також|
+so|auf diese Art|A1|ALL|INT|So ist das Leben nun mal.|en=so,es=así,fr=ainsi,it=così,pt=assim,tr=böyle,ar=هكذا,ru=так,pl=tak,uk=так|
+gern|mit Freude|A1|alltag,freizeit|INT|Ich lese gern am Abend Bücher.|en=gladly,es=con gusto,fr=volontiers,it=volentieri,pt=com prazer,tr=severek,ar=بسرور,ru=охотно,pl=chętnie,uk=охота|
+sehr gut|Ausdruck hoher Zufriedenheit|A1|ALL|INT|Mir geht es heute sehr gut.|en=very well,es=muy bien,fr=très bien,it=molto bene,pt=muito bem,tr=çok iyi,ar=جيد جدا,ru=очень хорошо,pl=bardzo dobrze,uk=дуже добре|
+bitte schön|höfliche Übergabe|A1|gastro,einkaufen|INT|Bitte schön das ist Ihr Kaffee.|en=here you are,es=aquí tiene,fr=voilà,it=ecco,pt=aqui está,tr=buyrun,ar=تفضل,ru=пожалуйста,pl=proszę bardzo,uk=будь ласка|
+entschuldigung|Höflichkeitsformel|A1|ALL|INT|Entschuldigung wo ist der Bahnhof hier?|en=excuse me,es=disculpe,fr=pardon,it=scusi,pt=desculpe,tr=affedersiniz,ar=عذرا,ru=извините,pl=przepraszam,uk=вибачте|
+danke schön|höflicher Dank|A1|ALL|INT|Danke schön für Ihre schnelle Hilfe.|en=thank you,es=muchas gracias,fr=merci beaucoup,it=grazie mille,pt=muito obrigado,tr=çok teşekkürler,ar=شكرا جزيلا,ru=большое спасибо,pl=dziękuję bardzo,uk=дуже дякую|
+guten Tag|Begrüssung|A1|ALL|DE,AT,CH|Guten Tag wie geht es Ihnen heute?|en=good day,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=iyi günler,ar=نهار سعيد,ru=добрый день,pl=dobry dzień,uk=доброго дня|
+guten Morgen|morgendliche Begrüssung|A1|ALL|DE,AT,CH|Guten Morgen hast du gut geschlafen?|en=good morning,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=günaydın,ar=صباح الخير,ru=доброе утро,pl=dzień dobry,uk=доброго ранку|
+guten Abend|abendliche Begrüssung|A1|ALL|DE,AT,CH|Guten Abend bitte setzen Sie sich.|en=good evening,es=buenas tardes,fr=bonsoir,it=buonasera,pt=boa noite,tr=iyi akşamlar,ar=مساء الخير,ru=добрый вечер,pl=dobry wieczór,uk=доброго вечора|
+tschüss|Abschied unter Freunden|A1|ALL|INT|Tschüss wir sehen uns morgen wieder.|en=bye,es=adiós,fr=salut,it=ciao,pt=tchau,tr=hoşça kal,ar=إلى اللقاء,ru=пока,pl=cześć,uk=бувай|
+auf Wiedersehen|formeller Abschied|A1|ALL|INT|Auf Wiedersehen und einen schönen Tag.|en=goodbye,es=adiós,fr=au revoir,it=arrivederci,pt=adeus,tr=hoşça kalın,ar=مع السلامة,ru=до свидания,pl=do widzenia,uk=до побачення|
+es geht mir gut|Antwort auf Wie geht es|A1|ALL|INT|Danke mir geht es gut.|en=I am fine,es=estoy bien,fr=je vais bien,it=sto bene,pt=estou bem,tr=iyiyim,ar=أنا بخير,ru=у меня всё хорошо,pl=czuję się dobrze,uk=у мене все добре|
+wie bitte|Bitte um Wiederholung|A1|ALL|INT|Wie bitte kannst du das wiederholen?|en=pardon,es=cómo dice,fr=comment,it=come scusi,pt=como disse,tr=efendim,ar=عذرا,ru=простите,pl=przepraszam,uk=перепрошую|

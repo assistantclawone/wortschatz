@@ -1,0 +1,30 @@
+# AUFTRAG: Übersetzungen ergänzen (Reparatur)
+
+Die folgenden Zeilen haben nur 7 Felder — das 7. Feld (Übersetzungen) fehlt.
+
+Format pro Zeile (Pipe-getrennt, 8 Felder):
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+
+Regeln:
+- Übernimm die ersten 6 Felder WÖRTLICH unverändert.
+- Ergänze alle zehn Übersetzungen in dieser Reihenfolge: en,es,fr,it,pt,tr,ar,ru,pl,uk
+- Kurz und idiomatisch, keine Erklärsätze, KEINE Kommas in den Übersetzungen (stattdessen /).
+- Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+- Letztes Feld (flags) leer, Zeile endet mit |.
+- Ausgabe: eine Datei, eine Zeile pro Eintrag, keine Kopfzeile, kein Markdown, kein Codeblock.
+
+## Zu reparieren:
+
+mitbringen|etwas dazu nehmen|A1|familie|INT|Bring bitte Getränke zur Party mit.|
+zahlen|Geld geben|A1|einkaufen,bank|INT|Ich zahle die Rechnung am Montag.|
+aufmachen|öffnen|A1|alltag|INT|Kannst du die Tür bitte aufmachen?|
+zumachen|schließen|A1|alltag|INT|Bitte mach das Licht aus.|
+verlassen|einen Ort weggehen|A1|alltag,reisen|INT|Wir verlassen das Haus um sieben.|
+mitnehmen|etwas mit sich führen|A1|reisen,alltag|INT|Nimm einen Regenschirm mit nach draußen.|
+erklären|deutlich sagen|A1|bildung,buero|INT|Der Lehrer erklärt die Grammatik ganz langsam.|
+üben|regelmäßig trainieren|A1|bildung|INT|Ich übe jeden Tag neue Wörter.|
+wiederholen|noch einmal sagen|A1|bildung|INT|Bitte wiederholen Sie den Satz noch einmal.|
+dauern|Zeit brauchen|A1|alltag|INT|Der Film dauert zwei Stunden.|
+fehlen|nicht da sein|A1|arbeit,bildung|INT|Mir fehlt heute leider die Zeit.|
+passen|gut angehören|A1|einkaufen,alltag|INT|Die Schuhe passen mir ganz gut.|
+gefallen|gut finden|A1|alltag|INT|Die Wohnung gefällt mir sehr.|

@@ -1,0 +1,60 @@
+diese|hinweisendes Pronomen Plural|A1|ALL|INT|Diese Schuhe sind mir zu klein.|en=these,es=estas,fr=ces,it=queste,pt=estas,tr=bunlar,ar=هذه,ru=эти,pl=te,uk=ці|
+dieses|hinweisendes Pronomen Neutrum|A1|ALL|INT|Dieses Buch gehört meiner Schwester.|en=this,es=este,fr=ce,it=questo,pt=este,tr=bu,ar=هذا,ru=это,pl=to,uk=це|
+euch|Akkusativ und Dativ ihr|A1|ALL|INT|Ich rufe euch morgen früh an.|en=you,es=os,fr=vous,it=vi,pt=vos,tr=sizi,ar=إياكم,ru=вас,pl=was,uk=вас|
+euer|Possessiv 2. Person Plural|A1|familie,alltag|INT|Wo ist euer Hund heute?|en=your,es=vuestro,fr=votre,it=vostro,pt=vosso,tr=sizin,ar=خاصتكم,ru=ваш,pl=wasz,uk=ваш|
+unserer|Possessiv Dativ feminin|A1|familie,wohnen|INT|Wir danken unserer Nachbarin herzlich.|en=our,es=nuestra,fr=notre,it=nostra,pt=nossa,tr=bizim,ar=خاصتنا,ru=нашей,pl=naszej,uk=нашій|
+ihre|Possessiv 3. Person feminin|A1|familie,alltag|INT|Ihre Tasche steht neben der Tür.|en=her,es=su,fr=sa,it=sua,pt=sua,tr=onun,ar=خاصتها,ru=её,pl=jej,uk=її|
+seine|Possessiv 3. Person maskulin|A1|familie,alltag|INT|Seine Wohnung liegt im dritten Stock.|en=his,es=su,fr=son,it=sua,pt=sua,tr=onun,ar=خاصته,ru=его,pl=jego,uk=його|
+welche|Fragepronomen weiblich Plural|A1|ALL|INT|Welche Farbe gefällt dir am besten?|en=which,es=cuál,fr=quelle,it=quale,pt=qual,tr=hangi,ar=أي,ru=какая,pl=która,uk=яка|
+was für ein|Frage nach Art|A1|ALL|INT|Was für ein Auto fährst du?|en=what kind of,es=qué tipo de,fr=quel genre de,it=che tipo di,pt=que tipo de,tr=ne tür,ar=أي نوع من,ru=какой,pl=jakiego rodzaju,uk=який|
+wem|Fragepronomen Dativ|A1|ALL|INT|Wem gehört diese rote Tasche?|en=whom,es=a quién,fr=à qui,it=a chi,pt=a quem,tr=kime,ar=لمن,ru=кому,pl=komu,uk=кому|
+wen|Fragepronomen Akkusativ|A1|ALL|INT|Wen hast du gestern getroffen?|en=whom,es=a quién,fr=qui,it=chi,pt=quem,tr=kimi,ar=من,ru=кого,pl=kogo,uk=кого|
+wieso|Fragewort Grund umgangssprachlich|A1|ALL|INT|Wieso kommst du heute so spät?|en=why,es=por qué,fr=pourquoi,it=perché,pt=por que,tr=neden,ar=لماذا,ru=почему,pl=dlaczego,uk=чому|
+seit wann|Frage nach Zeitpunkt|A1|ALL|INT|Seit wann wohnen Sie in Bern?|en=since when,es=desde cuándo,fr=depuis quand,it=da quando,pt=desde quando,tr=ne zamandan beri,ar=منذ متى,ru=с каких пор,pl=od kiedy,uk=з коли|
+wie viel|Frage nach Menge|A1|ALL|INT|Wie viel kostet dieses Brot?|en=how much,es=cuánto,fr=combien,it=quanto,pt=quanto,tr=ne kadar,ar=كم,ru=сколько,pl=ile,uk=скільки|
+wie viele|Frage nach Anzahl|A1|ALL|INT|Wie viele Zimmer hat die Wohnung?|en=how many,es=cuántos,fr=combien,it=quanti,pt=quantos,tr=kaç tane,ar=كم عدد,ru=сколько,pl=ile,uk=скільки|
+welches|Fragepronomen Neutrum|A1|ALL|INT|Welches Getränk möchten Sie bitte?|en=which,es=cuál,fr=quel,it=quale,pt=qual,tr=hangisi,ar=أي,ru=какое,pl=które,uk=яке|
+um wie viel Uhr|Frage nach Uhrzeit|A1|ALL|INT|Um wie viel Uhr beginnt der Kurs?|en=at what time,es=a qué hora,fr=à quelle heure,it=a che ora,pt=a que horas,tr=saat kaçta,ar=في أي ساعة,ru=во сколько,pl=o której godzinie,uk=о котрій годині|
+irgendwo|an einem unbestimmten Ort|A1|alltag,reisen|INT|Ich habe irgendwo meinen Schlüssel verloren.|en=somewhere,es=en algún lugar,fr=quelque part,it=da qualche parte,pt=em algum lugar,tr=bir yerde,ar=في مكان ما,ru=где-то,pl=gdzieś,uk=десь|
+irgendwann|zu unbestimmter Zeit|A1|alltag,freizeit|INT|Wir besuchen Italien irgendwann im Sommer.|en=sometime,es=algún día,fr=un jour,it=prima o poi,pt=algum dia,tr=bir ara,ar=في وقت ما,ru=когда-нибудь,pl=kiedyś,uk=колись|
+überhaupt nicht|starke Verneinung|A1|ALL|INT|Das Essen schmeckt mir überhaupt nicht.|en=not at all,es=para nada,fr=pas du tout,it=per niente,pt=de jeito nenhum,tr=hiç,ar=إطلاقا,ru=совсем не,pl=wcale nie,uk=зовсім ні|
+gar nicht|nicht im Geringsten|A1|ALL|INT|Ich verstehe das gar nicht.|en=not at all,es=para nada,fr=pas du tout,it=per niente,pt=de jeito nenhum,tr=hiç,ar=أبدا,ru=совсем не,pl=w ogóle nie,uk=зовсім ні|
+etwas mehr|ein wenig mehr|A1|alltag,einkaufen|INT|Ich möchte bitte etwas mehr Reis.|en=a bit more,es=un poco más,fr=un peu plus,it=un po' di più,pt=um pouco mais,tr=biraz daha,ar=أكثر قليلا,ru=немного больше,pl=trochę więcej,uk=трохи більше|
+kaum|fast nicht|A1|ALL|INT|Ich habe kaum noch Zeit zum Lesen.|en=hardly,es=apenas,fr=à peine,it=appena,pt=mal,tr=neredeyse hiç,ar=بالكاد,ru=едва,pl=ledwo,uk=ледве|
+fast|beinahe|A1|ALL|INT|Der Bus ist heute fast leer.|en=almost,es=casi,fr=presque,it=quasi,pt=quase,tr=neredeyse,ar=تقريبا,ru=почти,pl=prawie,uk=майже|
+etwa|ungefähr|A1|ALL|INT|Die Fahrt dauert etwa zwanzig Minuten.|en=about,es=aproximadamente,fr=environ,it=circa,pt=aproximadamente,tr=yaklaşık,ar=حوالي,ru=примерно,pl=około,uk=приблизно|
+später|nach einem Zeitpunkt|A1|alltag,arbeit|INT|Ich rufe dich etwas später an.|en=later,es=más tarde,fr=plus tard,it=più tardi,pt=mais tarde,tr=daha sonra,ar=لاحقا,ru=позже,pl=później,uk=пізніше|
+bald|in kurzer Zeit|A1|alltag,freizeit|INT|Der Zug kommt gleich hier bald an.|en=soon,es=pronto,fr=bientôt,it=presto,pt=em breve,tr=yakında,ar=قريبا,ru=скоро,pl=wkrótce,uk=незабаром|
+früh|zu früher Zeit|A1|alltag,arbeit|INT|Ich stehe morgens sehr früh auf.|en=early,es=temprano,fr=tôt,it=presto,pt=cedo,tr=erken,ar=مبكرا,ru=рано,pl=wcześnie,uk=рано|
+zuletzt|am Ende einer Reihe|A1|ALL|INT|Zuletzt besuchten wir unsere Grosseltern.|en=lastly,es=por último,fr=enfin,it=infine,pt=por último,tr=en son,ar=أخيرا,ru=наконец,pl=na końcu,uk=нарешті|
+zuerst|am Anfang einer Reihe|A1|ALL|INT|Zuerst frühstücken wir dann gehen wir.|en=first,es=primero,fr=d'abord,it=prima,pt=primeiro,tr=önce,ar=أولا,ru=сначала,pl=najpierw,uk=спочатку|
+plötzlich|ohne Vorwarnung|A1|alltag|INT|Plötzlich begann es stark zu regnen.|en=suddenly,es=de repente,fr=soudain,it=improvvisamente,pt=de repente,tr=aniden,ar=فجأة,ru=внезапно,pl=nagle,uk=раптом|
+endlich|nach langer Zeit|A1|alltag,freizeit|INT|Endlich ist der Sommer da.|en=finally,es=por fin,fr=enfin,it=finalmente,pt=finalmente,tr=sonunda,ar=أخيرا,ru=наконец,pl=w końcu,uk=нарешті|
+meistens|in der Regel|A1|alltag,freizeit|INT|Meistens trinke ich morgens Kaffee.|en=mostly,es=la mayoría de las veces,fr=la plupart du temps,it=per lo più,pt=na maioria das vezes,tr=çoğunlukla,ar=غالبا,ru=чаще всего,pl=zazwyczaj,uk=зазвичай|
+zuerst einmal|als Erstes|A1|alltag|INT|Zuerst einmal brauche ich einen Kaffee.|en=first of all,es=en primer lugar,fr=tout d'abord,it=prima di tutto,pt=em primeiro lugar,tr=öncelikle,ar=أولا,ru=прежде всего,pl=przede wszystkim,uk=передусім|
+zurzeit|im Moment|A1|alltag,arbeit|INT|Zurzeit arbeite ich von zu Hause.|en=at present,es=actualmente,fr=actuellement,it=attualmente,pt=atualmente,tr=şu anda,ar=حاليا,ru=в настоящее время,pl=obecnie,uk=зараз|
+damals|zu jener Zeit|A1|alltag|INT|Damals wohnten wir noch auf dem Land.|en=back then,es=en aquella época,fr=à l'époque,it=allora,pt=naquela época,tr=o zaman,ar=آنذاك,ru=тогда,pl=wtedy,uk=тоді|
+inzwischen|seitdem|A1|alltag,arbeit|INT|Inzwischen ist die Wohnung fertig.|en=meanwhile,es=mientras tanto,fr=entre-temps,it=nel frattempo,pt=entretanto,tr=bu arada,ar=في هذه الأثناء,ru=тем временем,pl=w międzyczasie,uk=тим часом|
+danach|nach diesem Zeitpunkt|A1|ALL|INT|Danach gehen wir noch spazieren.|en=after that,es=después,fr=ensuite,it=dopo,pt=depois disso,tr=ondan sonra,ar=بعد ذلك,ru=после этого,pl=potem,uk=потім|
+vorher|vor diesem Zeitpunkt|A1|ALL|INT|Vorher möchte ich noch telefoniere.|en=beforehand,es=antes,fr=avant,it=prima,pt=antes,tr=önceden,ar=قبل ذلك,ru=раньше,pl=wcześniej,uk=раніше|
+dann|zu diesem Zeitpunkt|A1|ALL|INT|Dann fahren wir zusammen zur Arbeit.|en=then,es=entonces,fr=alors,it=poi,pt=então,tr=sonra,ar=ثم,ru=потом,pl=potem,uk=потім|
+dorthin|zu jenem Ort|A1|reisen,alltag|INT|Dorthin brauche ich zwanzig Minuten.|en=there,es=allí,fr=là-bas,it=lì,pt=para lá,tr=oraya,ar=إلى هناك,ru=туда,pl=tam,uk=туди|
+hierher|zu diesem Ort|A1|alltag,reisen|INT|Bitte kommen Sie hierher zur Kasse.|en=here,es=aquí,fr=ici,it=qui,pt=para cá,tr=buraya,ar=إلى هنا,ru=сюда,pl=tutaj,uk=сюди|
+zuletzt gesehen|letzter bekannter Anblick|A1|alltag|INT|Hast du ihn zuletzt gesehen?|en=last seen,es=visto por última vez,fr=vu la dernière fois,it=visto l'ultima volta,pt=visto pela última vez,tr=son görüldüğü,ar=آخر مرة رؤية,ru=последний раз видел,pl=ostatnio widziany,uk=останній раз бачив|
+bestellen Sie|höfliche Aufforderung|A1|gastro,einkaufen|INT|Bestellen Sie bitte eine Suppe für mich.|en=please order,es=pida,fr=commandez,it=ordini,pt=peça,tr=sipariş verin,ar=اطلب,ru=закажите,pl=proszę zamówić,uk=замовте|
+sagen Sie|höfliche Aufforderung|A1|ALL|INT|Sagen Sie mir bitte Ihren Namen.|en=please tell,es=diga,fr=dites,it=dica,pt=diga,tr=söyleyin,ar=قل,ru=скажите,pl=proszę powiedzieć,uk=скажіть|
+können Sie|höfliche Frage|A1|ALL|INT|Können Sie mir den Weg zeigen?|en=can you,es=puede usted,fr=pouvez-vous,it=può,pt=pode,tr=yapabilir misiniz,ar=هل يمكنك,ru=можете ли вы,pl=czy może pan,uk=чи можете ви|
+würden Sie|höfliche Bitte|A1|ALL|INT|Würden Sie bitte das Fenster öffnen?|en=would you,es=podría usted,fr=pourriez-vous,it=potrebbe,pt=poderia,tr=ister misiniz,ar=هل يمكنك أن,ru=не могли бы вы,pl=czy mógłby pan,uk=чи могли б ви|
+hätte gern|höflicher Wunsch|A1|gastro,einkaufen|INT|Ich hätte gern ein Glas Wasser.|en=I would like,es=quisiera,fr=je voudrais,it=vorrei,pt=gostaria,tr=isterim,ar=أود,ru=я хотел бы,pl=chciałbym,uk=я хотів би|
+vielen Dank|höflicher Dank|A1|ALL|INT|Vielen Dank für die schnelle Antwort.|en=thank you very much,es=muchas gracias,fr=merci beaucoup,it=grazie mille,pt=muito obrigado,tr=çok teşekkürler,ar=شكرا جزيلا,ru=большое спасибо,pl=serdecznie dziękuję,uk=щиро дякую|
+entschuldigen Sie|höfliche Entschuldigung|A1|ALL|INT|Entschuldigen Sie bitte die Verspätung.|en=excuse me,es=disculpe,fr=excusez-moi,it=mi scusi,pt=desculpe,tr=affedersiniz,ar=عذرا,ru=извините,pl=przepraszam,uk=перепрошую|
+ganz gleich|ohne Unterschied|A1|alltag,einkaufen|INT|Der Preis ist für mich ganz gleich.|en=all the same,es=igual,fr=égal,it=uguale,pt=igual,tr=aynı,ar=نفس الشيء,ru=всё равно,pl=wszystko jedno,uk=байдуже|
+mir egal|gleichgültig|A1|alltag,freizeit|INT|Die Farbe ist mir ganz egal.|en=I don't mind,es=me da igual,fr=ça m'est égal,it=non importa,pt=tanto faz,tr=fark etmez,ar=لا يهمني,ru=мне всё равно,pl=jest mi obojętne,uk=мені байдуже|
+einverstanden|zustimmend|A1|arbeit,alltag|INT|Mit dem Termin bin ich einverstanden.|en=agreed,es=de acuerdo,fr=d'accord,it=d'accordo,pt=de acordo,tr=anlaştık,ar=موافق,ru=согласен,pl=zgadzam się,uk=згоден|
+sicher|ohne Zweifel|A1|ALL|INT|Bist du sicher dass der Laden offen ist?|en=sure,es=seguro,fr=sûr,it=sicuro,pt=certo,tr=emin,ar=متأكد,ru=уверен,pl=pewny,uk=впевнений|
+bestimmt|gewiss|A1|ALL|INT|Er kommt bestimmt etwas später. |en=certainly,es=seguro,fr=certainement,it=di sicuro,pt=com certeza,tr=kesinlikle,ar=بالتأكيد,ru=наверняка,pl=na pewno,uk=напевно|
+leider|bedauerlicherweise|A1|ALL|INT|Der Termin ist leider schon vergeben.|en=unfortunately,es=lamentablemente,fr=malheureusement,it=purtroppo,pt=infelizmente,tr=maalesef,ar=لسوء الحظ,ru=к сожалению,pl=nieszczęśliwie,uk=на жаль|
+hoffentlich|mit Hoffnung|A1|alltag,freizeit|INT|Hoffentlich bleibt das Wetter schön.|en=hopefully,es=ojalá,fr=espérons,it=speriamo,pt=espero que,tr=umarım,ar=آمل أن,ru=надеюсь,pl=mam nadzieję,uk=сподіваюся|
+übrigens|nebenbei bemerkt|A1|alltag,freizeit|INT|Übrigens kommt meine Schwester heute auch.|en=by the way,es=por cierto,fr=d'ailleurs,it=a proposito,pt=a propósito,tr=bu arada,ar=بالمناسبة,ru=кстати,pl=swoją drogą,uk=до речі|
+leider nicht|höfliche Ablehnung|A1|ALL|INT|Heute geht es leider nicht.|en=sadly not,es=lamentablemente no,fr=malheureusement non,it=purtroppo no,pt=infelizmente não,tr=maalesef olmaz,ar=للأسف لا,ru=к сожалению нет,pl=najmniej nie,uk=ні|
+habe|besitze Form von haben|A1|ALL|INT|Ich habe heute Besuch.|en=have,es=tengo,fr=j'ai,it=ho,pt=tenho,tr=var,ar=لدي,ru=имею,pl=mam,uk=маю|

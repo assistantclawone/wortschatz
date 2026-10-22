@@ -1,0 +1,29 @@
+nett|freundlich und angenehm|alltag,familie|Die Nachbarin ist wirklich nett zu allen Kindern.|nice|simpático|gentil|simpatico|simpático|hoş|لطيف|милый|miły|милий
+die Wahrheit|was wirklich stimmt|alltag,recht|Er hat mir endlich die ganze Wahrheit erzählt.|the truth|la verdad|la vérité|la verità|a verdade|gerçek|الحقيقة|правда|prawda|правда
+deshalb|aus diesem Grund|alltag,buero|Es hat stark geregnet, deshalb sind wir zu Hause geblieben.|therefore|por eso|c'est pourquoi|perciò|por isso|bu yüzden|لهذا السبب|поэтому|dlatego|тому
+das Alter|Zeit seit der Geburt|alltag,gesundheit|Mit dem Alter wird diese Arbeit deutlich schwerer.|the age|la edad|l'âge|l'età|a idade|yaş|العمر|возраст|wiek|вік
+wagen|Mut für etwas haben|alltag|Sie wagt den Schritt in eine neue Arbeit.|to dare|atreverse|oser|osare|ousar|cesaret etmek|يجرؤ|осмелиться|odważyć się|наважитися
+vier|Zahl nach drei|alltag,einkaufen|Wir brauchen für das Rezept vier frische Eier.|four|cuatro|quatre|quattro|quatro|dört|أربعة|четыре|cztery|чотири
+der Spaß|Freude und Vergnügen|freizeit,familie|Der Ausflug mit den Kindern war ein großer Spaß.|the fun|la diversión|le plaisir|il divertimento|a diversão|eğlence|المتعة|веселье|zabawa|веселощі
+niemals|zu keinem Zeitpunkt|alltag|So etwas darf niemals wieder passieren.|never|nunca|jamais|mai|nunca|asla|أبداً|никогда|nigdy|ніколи
+die Schuld|Verantwortung für einen Fehler|alltag,recht|Er hat die Schuld für den Unfall übernommen.|the guilt|la culpa|la faute|la colpa|a culpa|suç|الذنب|вина|wina|вина
+ernst|ohne Scherz gemeint|alltag,arbeit|Diese Sache ist zu ernst für einen Witz.|serious|serio|sérieux|serio|sério|ciddi|جدي|серьёзный|poważny|серйозний
+manchmal|von Zeit zu Zeit|alltag|Manchmal gehe ich abends eine Runde spazieren.|sometimes|a veces|parfois|a volte|às vezes|bazen|أحياناً|иногда|czasami|іноді
+die Seite|flächiger Teil eines Buches|bildung,buero|Bitte lies den Text auf Seite zehn noch einmal.|the page|la página|la page|la pagina|a página|sayfa|الصفحة|страница|strona|сторінка
+eben|gerade jetzt|alltag|Ich habe ihn eben noch im Büro gesehen.|just now|justo ahora|à l'instant|proprio ora|agora mesmo|az önce|الآن|только что|właśnie|щойно
+das Spiel|Wettkampf oder Zeitvertreib|freizeit|Das Spiel am Samstag beginnt um drei Uhr.|the game|el juego|le jeu|il gioco|o jogo|oyun|اللعبة|игра|gra|гра
+die Chance|Möglichkeit für einen Erfolg|arbeit,bildung|Diese Chance bekommt man nur einmal im Leben.|the chance|la oportunidad|la chance|l'opportunità|a chance|fırsat|الفرصة|шанс|szansa|шанс
+die Freundin|weibliche Person zum Vertrauen|familie,freizeit|Meine Freundin kommt heute Abend zum Essen vorbei.|the friend|la amiga|l'amie|l'amica|a amiga|kız arkadaş|الصديقة|подруга|przyjaciółka|подруга
+schlecht|nicht gut|alltag,gesundheit|Mir ist heute morgen richtig schlecht geworden.|bad|malo|mauvais|cattivo|mau|kötü|سيئ|плохой|zły|поганий
+das Gesicht|vorderer Teil des Kopfes|gesundheit,alltag|Sie hat sich das Gesicht mit kalter Milch gewaschen.|the face|la cara|le visage|il viso|o rosto|yüz|الوجه|лицо|twarz|обличчя
+der Fall|Ereignis oder Angelegenheit|alltag,recht|In diesem Fall rufen wir besser die Nachbarin an.|the case|el caso|le cas|il caso|o caso|durum|الحالة|случай|przypadek|випадок
+bloß|nur und nichts weiter|alltag|Ich wollte bloß kurz nach dem Schlüssel fragen.|only|solo|seulement|solo|só|sadece|فقط|только|tylko|лише
+der Teil|Stück eines Ganzen|alltag,arbeit|Dieser Teil der Maschine ist besonders empfindlich.|the part|la parte|la partie|la parte|a parte|parça|الجزء|часть|część|частина
+altern|älter werden|alltag,gesundheit|Mit den Jahren merkt man deutlich wie Menschen altern.|to age|envejecer|vieillir|invecchiare|envelhecer|yaşlanmak|يشيخ|стареть|starzeć się|старіти
+die Sorge|Gedanken um ein Problem|familie,gesundheit|Die Sorge um den Sohn lässt sie nicht schlafen.|the worry|la preocupación|le souci|la preoccupazione|a preocupação|endişe|القلق|забота|zmartwienie|турбота
+einige|eine unbestimmte Anzahl|alltag|Einige Gäste sind schon vor zehn Uhr gekommen.|some|algunos|quelques|alcuni|alguns|bazı|بعض|несколько|kilka|деякі
+dies|genau diese Sache|alltag,buero|Dies ist der letzte Termin in dieser Woche.|this|esto|ceci|questo|isto|bu|هذا|это|to|це
+kriegen|etwas bekommen|alltag|Von den Nachbarn kriegen wir oft frisches Gemüse.|to get|conseguir|recevoir|ricevere|receber|almak|يحصل على|получать|dostawać|отримувати
+ehrlich|wahr und aufrichtig|alltag|Sei bitte ehrlich und sag mir deine Meinung.|honest|honesto|honnête|onesto|honesto|dürüst|صادق|честный|szczery|чесний
+glücklich|voll Freude|alltag,familie|Die Kinder waren über die kleinen Geschenke sehr glücklich.|happy|feliz|heureux|felice|feliz|mutlu|سعيد|счастливый|szczęśliwy|щасливий
+frei|ohne Zwang oder Hindernis|alltag|Am Wochenende ist der Platz vor dem Haus frei.|free|libre|libre|libero|livre|serbest|حر|свободный|wolny|вільний

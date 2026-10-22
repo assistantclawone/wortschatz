@@ -1,0 +1,23 @@
+die Abdichtung|Schutz gegen eindringendes Wasser|handwerk,bau|Die Abdichtung der Kellerwand muss erneuert werden.
+die Abfuhr|regelmässiges Abholen von Abfall|alltag,bau|Die Abfuhr des Mülls findet immer am Dienstag statt.
+abholzen|Bäume in einem Gebiet fällen|bau,handwerk|Sie dürfen den alten Wald nicht einfach abholzen.
+die Ablage|geordneter Platz für Dokumente|buero,arbeit|Die Rechnung liegt in der Ablage beim Eingang.
+abschliessen|eine Tür fest verschliessen|alltag,wohnen|Bitte abschliessen die Haustür am Abend sorgfältig.
+der Abteilungsleiter|Person die eine Abteilung führt|arbeit,buero|Der Abteilungsleiter genehmigt die Anträge für Urlaub.
+abwaschen|Geschirr mit Wasser reinigen|alltag,wohnen|Nach dem Essen muss ich noch das Geschirr abwaschen.
+achten|auf etwas genau schauen|alltag,gesundheit|Bitte achten Sie auf die Hinweise im Treppenhaus.
+die Ader|Blutgefäss im Körper|gesundheit|Der Arzt hat eine dünne Ader am Arm gefunden.
+die Ahnung|vages Wissen über etwas|alltag,arbeit|Von der neuen Software habe ich noch keine Ahnung.
+das Allgemeinwissen|breites Grundwissen in vielen Bereichen|bildung|Sein Allgemeinwissen hilft ihm bei vielen Gesprächen.
+anfassen|mit der Hand berühren|alltag,handwerk|Bitte anfassen Sie die heissen Töpfe nicht mit blossen Händen.
+der Angehörige|Person aus der eigenen Familie|familie,pflege|Sie pflegt mehrere Angehörige zu Hause.
+anlaufen|langsam beginnen und in Bewegung kommen|technik,arbeit|Das neue Projekt wird im Januar offiziell anlaufen.
+anrichten|Schaden oder Unheil verursachen|alltag,arbeit|Der Fehler könnte in der Küche grossen Schaden anrichten.
+anschaffen|etwas Neues kaufen|einkaufen,alltag|Wir wollen uns im Frühling ein neues Sofa anschaffen.
+anspruchsvoll|mit hohen Anforderungen|arbeit,bildung|Der Job ist anspruchsvoll, macht ihm aber Freude.
+anziehen|Kleidung überziehen|alltag,familie|Die Kinder sollen sich warm anziehen bei diesem Wetter.
+der Appetit|Lust auf Essen|gastro,gesundheit|Bei dieser Hitze habe ich kaum Appetit auf eine warme Mahlzeit.
+ausbauen|etwas grösser und stärker machen|bau,technik|Sie wollen den Dachstock zu einem Büro ausbauen.
+ausdrücklich|sehr klar und mit Nachdruck betont|arbeit,recht|Der Arzt hat ausdrücklich gesagt, dass ich liegen muss.
+ausgezeichnet|von sehr guter Qualität|alltag,gastro|Das Essen im neuen Restaurant war wirklich ausgezeichnet.
+aussen|auf der äusseren Seite|wohnen,alltag|Das Fenster ist aussen nass vom Regen.

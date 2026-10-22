@@ -1,0 +1,13 @@
+mitbringen|etwas dazu nehmen|A1|familie|INT|Bring bitte Getränke zur Party mit.|en=to bring along,es=traer,fr=apporter,it=portare,pt=trazer,tr=getirmek,ar=يجلب,ru=приносить,pl=przynosić,uk=приносити|
+zahlen|Geld geben|A1|einkaufen,bank|INT|Ich zahle die Rechnung am Montag.|en=to pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=платить,pl=płacić,uk=платити|
+aufmachen|öffnen|A1|alltag|INT|Kannst du die Tür bitte aufmachen?|en=to open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl=otwierać,uk=відчиняти|
+zumachen|schließen|A1|alltag|INT|Bitte mach das Licht aus.|en=to close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl=zamykać,uk=зачиняти|
+verlassen|einen Ort weggehen|A1|alltag,reisen|INT|Wir verlassen das Haus um sieben.|en=to leave,es=dejar/salir,fr=quitter,it=lasciare,pt=deixar/sair,tr=terk etmek,ar=يترك,ru=покидать,pl=opuszczać,uk=залишати|
+mitnehmen|etwas mit sich führen|A1|reisen,alltag|INT|Nimm einen Regenschirm mit nach draußen.|en=to take along,es=llevar,fr=emporter,it=portare con sé,pt=levar,tr=yanına almak,ar=يأخذ معه,ru=брать с собой,pl=brać ze sobą,uk=брати з собою|
+erklären|deutlich sagen|A1|bildung,buero|INT|Der Lehrer erklärt die Grammatik ganz langsam.|en=to explain,es=explicar,fr=expliquer,it=spiegare,pt=explicar,tr=açıklamak,ar=يشرح,ru=объяснять,pl=wyjaśniać,uk=пояснювати|
+üben|regelmäßig trainieren|A1|bildung|INT|Ich übe jeden Tag neue Wörter.|en=to practise,es=practicar,fr=pratiquer,it=esercitarsi,pt=praticar,tr=alıştırma yapmak,ar=يتدرب,ru=упражняться,pl=ćwiczyć,uk=вправлятися|
+wiederholen|noch einmal sagen|A1|bildung|INT|Bitte wiederholen Sie den Satz noch einmal.|en=to repeat,es=repetir,fr=répéter,it=ripetere,pt=repetir,tr=tekrarlamak,ar=يكرر,ru=повторять,pl=powtarzać,uk=повторювати|
+dauern|Zeit brauchen|A1|alltag|INT|Der Film dauert zwei Stunden.|en=to last,es=durar,fr=durer,it=durare,pt=durar,tr=sürmek,ar=يستمر,ru=длиться,pl=trwać,uk=тривати|
+fehlen|nicht da sein|A1|arbeit,bildung|INT|Mir fehlt heute leider die Zeit.|en=to be missing,es=faltar,fr=manquer,it=mancare,pt=faltar,tr=eksik olmak,ar=ينقص,ru=не хватать,pl=brakować,uk=бракувати|
+passen|gut angehören|A1|einkaufen,alltag|INT|Die Schuhe passen mir ganz gut.|en=to fit,es=quedar bien,fr=aller bien,it=calzare bene,pt=servir bem,tr=uymak,ar=يناسب,ru=быть в пору,pl=pasować,uk=пасувати|
+gefallen|gut finden|A1|alltag|INT|Die Wohnung gefällt mir sehr.|en=to like,es=gustar,fr=plaire,it=piacere,pt=agradar,tr=hoşuna gitmek,ar=يعجب,ru=нравиться,pl=podobać się,uk=подобатися|

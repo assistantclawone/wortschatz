@@ -1,0 +1,60 @@
+wer|Fragepronomen Person|A1|ALL|INT|Wer kommt heute mit ins Kino?|en=who,es=quién,fr=qui,it=chi,pt=quem,tr=kim,ar=من,ru=кто,pl=kto,uk=хто|
+wie|Frage nach Art|A1|ALL|INT|Wie heisst du mit Nachnamen?|en=how,es=cómo,fr=comment,it=come,pt=como,tr=nasıl,ar=كيف,ru=как,pl=jak,uk=як|
+was|Fragepronomen Sache|A1|ALL|INT|Was machst du am Wochenende?|en=what,es=qué,fr=quoi,it=cosa,pt=o que,tr=ne,ar=ماذا,ru=что,pl=co,uk=що|
+wo|Frage nach Ort|A1|ALL|INT|Wo wohnst du zur Zeit?|en=where,es=dónde,fr=où,it=dove,pt=onde,tr=nerede,ar=أين,ru=где,pl=gdzie,uk=де|
+wann|Frage nach Zeit|A1|ALL|INT|Wann beginnt der Deutschkurs?|en=when,es=cuándo,fr=quand,it=quando,pt=quando,tr=ne zaman,ar=متى,ru=когда,pl=kiedy,uk=коли|
+warum|Frage nach Grund|A1|ALL|INT|Warum lernst du Deutsch?|en=why,es=por qué,fr=pourquoi,it=perché,pt=por que,tr=neden,ar=لماذا,ru=почему,pl=dlaczego,uk=чому|
+wenn|Bedingung Zeitpunkt|A1|ALL|INT|Wenn es regnet bleibe ich zu Hause.|en=if,es=si,fr=si,it=se,pt=se,tr=eğer,ar=إذا,ru=если,pl=jeśli,uk=якщо|
+dass|Konjunktion Nebensatz|A1|ALL|INT|Ich weiss dass du heute kommst.|en=that,es=que,fr=que,it=che,pt=que,tr=ki,ar=أن,ru=что,pl=że,uk=що|
+weil|Grund angeben|A1|ALL|INT|Ich bleibe zu Hause weil ich krank bin.|en=because,es=porque,fr=parce que,it=perché,pt=porque,tr=çünkü,ar=لأن,ru=потому что,pl=ponieważ,uk=тому що|
+aber|Gegensatz|A1|ALL|INT|Ich möchte kommen aber ich habe keine Zeit.|en=but,es=pero,fr=mais,it=ma,pt=mas,tr=ama,ar=لكن,ru=но,pl=ale,uk=але|
+oder|Alternative|A1|ALL|INT|Trinkst du Kaffee oder Tee?|en=or,es=o,fr=ou,it=o,pt=ou,tr=veya,ar=أو,ru=или,pl=lub,uk=або|
+denn|Grund im Hauptsatz|A1|ALL|INT|Ich komme später denn ich muss noch arbeiten.|en=because,es=porque,fr=car,it=perché,pt=pois,tr=çünkü,ar=لأن,ru=потому что,pl=bo,uk=бо|
+doch|Widerspruch Betonung|A1|ALL|INT|Du kommst doch heute zum Essen?|en=yes it is,es=claro,fr=si,it=certo,pt=sim,tr=yine de,ar=بلى,ru=ведь,pl=przecież,uk=ж|
+kein|Negationsartikel|A1|ALL|INT|Ich habe kein Auto und kein Fahrrad.|en=no,es=ningún,fr=aucun,it=nessuno,pt=nenhum,tr=hiç,ar=لا,ru=никакой,pl=żaden,uk=жоден|
+keine|Negationsartikel feminin|A1|ALL|INT|Sie hat keine Zeit für das Museum.|en=no,es=ninguna,fr=aucune,it=nessuna,pt=nenhuma,tr=yok,ar=لا,ru=никакой,pl=żadna,uk=жодна|
+dieser|hinweisendes Artikel|A1|ALL|INT|Dieser Zug fährt nach Bern.|en=this,es=este,fr=ce,it=questo,pt=este,tr=bu,ar=هذا,ru=этот,pl=ten,uk=цей|
+mein|Possessiv 1. Person|A1|familie,alltag|INT|Mein Bruder wohnt in Zürich.|en=my,es=mi,fr=mon,it=mio,pt=meu,tr=benim,ar=خاصتي,ru=мой,pl=mój,uk=мій|
+dein|Possessiv 2. Person|A1|familie,alltag|INT|Wo ist dein Schlüssel geblieben?|en=your,es=tu,fr=ton,it=tuo,pt=teu,tr=senin,ar=خاصتك,ru=твой,pl=twój,uk=твій|
+unser|Possessiv 1. Person Plural|A1|familie,wohnen|INT|Unser Haus hat einen kleinen Garten.|en=our,es=nuestro,fr=notre,it=nostro,pt=nosso,tr=bizim,ar=خاصتنا,ru=наш,pl=nasz,uk=наш|
+ihr|Possessiv 3. Person Plural|A1|familie,alltag|INT|Ihr Hund spielt gern im Park.|en=their,es=su,fr=leur,it=loro,pt=seu,tr=onların,ar=خاصتهم,ru=их,pl=ich,uk=їх|
+man|unbestimmtes Pronomen|A1|ALL|INT|Hier darf man nicht parken.|en=one,es=uno,fr=on,it=si,pt=se,tr=insan,ar=المرء,ru=человек,pl=człowiek,uk=людина|
+sich|Reflexivpronomen|A1|ALL|INT|Er wäscht sich jeden Morgen kalt.|en=oneself,es=se,fr=se,it=si,pt=se,tr=kendi,ar=نفسه,ru=себя,pl=siebie,uk=себе|
+mich|Akkusativ ich|A1|ALL|INT|Er ruft mich jeden Abend an.|en=me,es=me,fr=moi,it=me,pt=me,tr=beni,ar=ني,ru=меня,pl=mnie,uk=мене|
+mir|Dativ ich|A1|ALL|INT|Kannst du mir bitte helfen?|en=me,es=me,fr=moi,it=mi,pt=me,tr=bana,ar=لي,ru=мне,pl=mi,uk=мені|
+dich|Akkusativ du|A1|ALL|INT|Ich sehe dich morgen im Kurs.|en=you,es=te,fr=toi,it=te,pt=te,tr=seni,ar=أنت,ru=тебя,pl=ciebie,uk=тебе|
+dir|Dativ du|A1|ALL|INT|Ich gebe dir mein Buch zurück.|en=you,es=te,fr=toi,it=ti,pt=te,tr=sana,ar=لك,ru=тебе,pl=tobie,uk=тобі|
+ihm|Dativ er|A1|ALL|INT|Ich helfe ihm beim Umzug.|en=him,es=le,fr=lui,it=gli,pt=lhe,tr=ona,ar=له,ru=ему,pl=jemu,uk=йому|
+ihnen|Dativ sie Plural|A1|ALL|INT|Er erklärt ihnen den Weg.|en=them,es=les,fr=leur,it=a loro,pt=lhes,tr=onlara,ar=لهم,ru=им,pl=im,uk=їм|
+uns|Dativ wir|A1|ALL|INT|Sie besucht uns jeden Sonntag.|en=us,es=nos,fr=nous,it=ci,pt=nós,tr=bizi,ar=نا,ru=нас,pl=nas,uk=нас|
+da|dort Ortsangabe|A1|ALL|INT|Da liegt deine Jacke auf dem Stuhl.|en=there,es=allí,fr=là,it=lì,pt=ali,tr=orada,ar=هناك,ru=там,pl=tam,uk=там|
+dort|Ortsangabe|A1|ALL|INT|Dort ist der Eingang zum Bahnhof.|en=there,es=allí,fr=là-bas,it=là,pt=ali,tr=oraya,ar=هناك,ru=вон там,pl=tam,uk=там|
+hier|Ortsangabe nah|A1|ALL|INT|Hier ist mein Sitzplatz.|en=here,es=aquí,fr=ici,it=qui,pt=aqui,tr=burada,ar=هنا,ru=здесь,pl=tutaj,uk=тут|
+jetzt|Zeitangabe|A1|ALL|INT|Jetzt fahren wir nach Hause.|en=now,es=ahora,fr=maintenant,it=ora,pt=agora,tr=şimdi,ar=الآن,ru=сейчас,pl=teraz,uk=зараз|
+heute|aktueller Tag|A1|ALL|INT|Heute bleibt die Praxis geschlossen.|en=today,es=hoy,fr=aujourd'hui,it=oggi,pt=hoje,tr=bugün,ar=اليوم,ru=сегодня,pl=dzisiaj,uk=сьогодні|
+morgen|nächster Tag|A1|ALL|INT|Morgen beginnt die Schule um acht.|en=tomorrow,es=mañana,fr=demain,it=domani,pt=amanhã,tr=yarın,ar=غدا,ru=завтра,pl=jutro,uk=завтра|
+gestern|vergangener Tag|A1|ALL|INT|Gestern war das Wetter sehr schön.|en=yesterday,es=ayer,fr=hier,it=ieri,pt=ontem,tr=dün,ar=أمس,ru=вчера,pl=wczoraj,uk=вчора|
+immer noch|andauernd weiterhin|A1|ALL|INT|Er wohnt immer noch bei seinen Eltern.|en=still,es=todavía,fr=toujours,it=ancora,pt=ainda,tr=hâlâ,ar=لا يزال,ru=всё ещё,pl=nadal,uk=досі|
+viel|grosse Menge|A1|ALL|INT|Ich habe viel Arbeit diese Woche.|en=much,es=mucho,fr=beaucoup,it=molto,pt=muito,tr=çok,ar=كثير,ru=много,pl=dużo,uk=багато|
+wenig|kleine Menge|A1|ALL|INT|Ich habe nur wenig Zeit heute.|en=little,es=poco,fr=peu,it=poco,pt=pouco,tr=az,ar=قليل,ru=мало,pl=mało,uk=мало|
+mehr|grössere Menge|A1|ALL|INT|Möchtest du noch mehr Reis?|en=more,es=más,fr=plus,it=più,pt=mais,tr=daha,ar=أكثر,ru=больше,pl=więcej,uk=більше|
+gern|Vorliebe|A1|ALL|INT|Ich gehe gern im Wald spazieren.|en=gladly,es=con gusto,fr=volontiers,it=volentieri,pt=com prazer,tr=severim,ar=بسرور,ru=охотно,pl=chętnie,uk=охоче|
+guten Tag|Gruss|A1|ALL|INT|Guten Tag wie geht es Ihnen?|en=good day,es=buenos días,fr=bonjour,it=buongiorno,pt=bom dia,tr=iyi günler,ar=مرحبا,ru=добрый день,pl=dobry dzień,uk=добрий день|
+hallo|Gruss formell|A1|ALL|INT|Hallo kommen Sie bitte herein.|en=hello,es=hola,fr=bonjour,it=ciao,pt=olá,tr=merhaba,ar=مرحبا,ru=привет,pl=cześć,uk=привіт|
+tschüss|Abschiedsgruss|A1|ALL|INT|Tschüss bis nächste Woche im Kurs.|en=bye,es=adiós,fr=au revoir,it=ciao,pt=tchau,tr=hoşça kal,ar=إلى اللقاء,ru=пока,pl=cześć,uk=бувай|
+auf Wiedersehen|formeller Abschied|A1|ALL|INT|Auf Wiedersehen und schönen Feierabend.|en=goodbye,es=adiós,fr=au revoir,it=arrivederci,pt=adeus,tr=hoşça kalın,ar=إلى اللقاء,ru=до свидания,pl=do widzenia,uk=до побачення|
+entschuldigung|Höflichkeitsfloskel|A1|ALL|INT|Entschuldigung kennen Sie den Weg zum Markt?|en=sorry,es=perdón,fr=pardon,it=scusi,pt=desculpe,tr=affedersiniz,ar=عفوًا,ru=извините,pl=przepraszam,uk=вибачте|
+danke schön|Höflichkeitsfloskel|A1|ALL|INT|Danke schön für Ihre schnelle Hilfe.|en=thank you,es=muchas gracias,fr=merci bien,it=grazie mille,pt=muito obrigado,tr=çok teşekkürler,ar=شكرا جزيلا,ru=большое спасибо,pl=dziękuję bardzo,uk=дуже дякую|
+ja bitte|höfliche Bestätigung|A1|ALL|INT|Ja bitte bringen Sie mir ein Wasser.|en=yes please,es=sí por favor,fr=oui s'il vous plaît,it=sì per favore,pt=sim por favor,tr=evet lütfen,ar=نعم من فضلك,ru=да пожалуйста,pl=tak proszę,uk=так будь ласка|
+ach so|Ausdruck des Verstehens|A1|ALL|INT|Ach so jetzt verstehe ich das.|en=I see,es=ya veo,fr=ah bon,it=ah capisco,pt=entendi,tr=ha öyle mi,ar=آه فهمت,ru=а вот как,pl=ach tak,uk=а он воно що|
+natürlich|selbstverständlich|A1|ALL|INT|Natürlich helfe ich dir beim Tragen.|en=of course,es=por supuesto,fr=bien sûr,it=certo,pt=claro,tr=tabii ki,ar=بالطبع,ru=конечно,pl=oczywiście,uk=звичайно|
+vielleicht|Möglichkeit|A1|ALL|INT|Vielleicht kommt sie morgen zum Kaffee.|en=perhaps,es=quizá,fr=peut-être,it=forse,pt=talvez,tr=belki,ar=ربما,ru=может быть,pl=może,uk=можливо|
+zusammen|gemeinsam|A1|familie,freizeit|INT|Wir kochen heute Abend zusammen.|en=together,es=juntos,fr=ensemble,it=insieme,pt=juntos,tr=birlikte,ar=معا,ru=вместе,pl=razem,uk=разом|
+allein|ohne andere|A1|alltag,familie|INT|Er wohnt allein in einer kleinen Wohnung.|en=alone,es=solo,fr=seul,it=solo,pt=sozinho,tr=yalnız,ar=وحيد,ru=один,pl=sam,uk=сам|
+Bescheid geben|informieren|A1|arbeit,telefon,alltag|INT|Bitte geben Sie mir bis Freitag Bescheid.|en=let know,es=avisar,fr=prévenir,it=avvisare,pt=avisar,tr=haber vermek,ar=يخبر,ru=сообщить,pl=powiadomić,uk=повідомити|
+Es geht mir gut|Befindensaussage|A1|alltag,gesundheit|INT|Es geht mir gut danke der Nachfrage.|en=I am fine,es=estoy bien,fr=je vais bien,it=sto bene,pt=estou bem,tr=iyiyim,ar=أنا بخير,ru=я в порядке,pl=czuję się dobrze,uk=зі мною все гаразд|
+noch nicht|Verneinung Zeit|A1|ALL|INT|Marta ist noch nicht zu Hause.|en=not yet,es=todavía no,fr=pas encore,it=non ancora,pt=ainda não,tr=henüz değil,ar=ليس بعد,ru=ещё не,pl=jeszcze nie,uk=ще не|
+schon wieder|Wiederholung|A1|ALL|INT|Er ist schon wieder zu spät.|en=again,es=otra vez,fr=encore,it=di nuovo,pt=de novo,tr=yine,ar=مرة أخرى,ru=опять,pl=znowu,uk=знову|
+so|Art und Weise|A1|ALL|INT|Mach das bitte so wie ich es zeige.|en=so,es=así,fr=ainsi,it=così,pt=assim,tr=böyle,ar=هكذا,ru=так,pl=tak,uk=так|
+zu Hause|daheim|A1|wohnen,alltag|INT|Ich bleibe heute Abend zu Hause.|en=at home,es=en casa,fr=à la maison,it=a casa,pt=em casa,tr=evde,ar=في المنزل,ru=дома,pl=w domu,uk=вдома|
+noch einmal|Wiederholung|A1|ALL|INT|Bitte sagen Sie das noch einmal.|en=once more,es=otra vez,fr=encore une fois,it=ancora una volta,pt=mais uma vez,tr=bir daha,ar=مرة أخرى,ru=ещё раз,pl=jeszcze raz,uk=ще раз|

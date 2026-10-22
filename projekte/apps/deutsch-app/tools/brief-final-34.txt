@@ -1,0 +1,56 @@
+# AUFTRAG: A1-Wortliste Deutsch (Block B01)
+
+Du schreibst Einträge für einen Deutsch-Vokabeltrainer (Renato Santiago).
+Ziel: muttersprachlich neutrale, evidenzbasierte A1-Grundwortliste, nach Häufigkeit geordnet,
+für ein kommerzielles Produkt. **Keine Erfindungen.**
+
+## Ausgabeformat — EXAKT einhalten
+
+Eine Datei, eine Zeile pro Eintrag, Felder getrennt durch `|` (Pipe), keine Kopfzeile,
+keine Kommentare, **kein Markdown, kein Codeblock-Zaun**:
+
+```
+de|meaning|level|cats|region|sentenceFull|en=..,es=..,fr=..,it=..,pt=..,tr=..,ar=..,ru=..,pl=..,uk=..|flags
+```
+
+### Feldregeln
+
+1. **de** — Das deutsche Wort oder die Phrase, wie man sie wirklich lernt.
+   - Kommt das Wort real nie allein vor → **Phrase** nehmen (`Bescheid geben`, `Es geht mir gut`).
+   - Nomen mit Artikel und klein geschriebenem Nomen wie im Lehrwerk: `der Tisch`, `die Frau`, `das Kind`.
+     Verben im Infinitiv: `gehen`, `machen`. Adjektive in Grundform: `gross`.
+2. **meaning** — kurze deutsche Bedeutungsabgrenzung in 2–5 Wörtern (`Sitzgelegenheit`, `Geldinstitut`).
+   Bei mehreren Bedeutungen: **jede Bedeutung = eigene Zeile** mit eigener meaning.
+3. **level** — immer `A1` in diesem Auftrag.
+4. **cats** — `ALL` ODER Komma-Liste ohne Leerzeichen aus:
+   `alltag,behoerden,arbeit,gesundheit,wohnen,einkaufen,reisen,familie,bildung,freizeit,telefon,bank,gastro,handwerk,technik,pflege,logistik,bau,buero,recht`
+   - Basiswörter (`ja`, `nein`, `bitte`, `danke`, `ich`, `und`) → **ALL**
+   - Sonst nur die Bereiche, in denen das Wort wirklich vorkommt (2–4 Bereiche reichen).
+5. **region** — Komma-Liste aus `CH,AT,DE,INT`.
+   - Standard: `INT` (in allen drei Ländern gleich).
+   - Landesspezifische Wörter: `CH` / `AT` / `DE` (ggf. mehrere).
+6. **sentenceFull** — ein **geläufiger, natürlicher** Beispielsatz (5–10 Wörter), der den Eintrag
+   wörtlich enthält. Keine Konstruktionen, die niemand sagt.
+   - Kultursensibel neutral: keine Politik, keine Religion, keine Stereotype, keine Klischees.
+7. **Übersetzungen** — alle zehn Sprachen, in dieser Reihenfolge, `xx=...` durch Komma getrennt:
+   `en,es,fr,it,pt,tr,ar,ru,pl,uk`
+   - Kurz und idiomatisch, keine Erklärsätze.
+   - Keine Kommas in den Übersetzungen! (Feldtrenner) → `und/oder`-Form mit `/` schreiben.
+   - Arabisch in arabischer Schrift, Russisch/Ukrainisch in Kyrillisch.
+8. **flags** — leer lassen (Zeile endet mit `|`) oder `slang` / `vulgar`.
+   In diesem Block: **leer**. Keine vulgären Wörter.
+
+## Inhaltlicher Auftrag
+
+Liefere **34 Einträge**: die 60 **häufigsten** deutschen Wörter/Phrasen auf A1-Niveau,
+die noch NICHT in der bestehenden Liste stehen.
+
+**Bereits vorhanden (NICHT wiederholen):**
+ja, nein, ich, sein, und, in, haben, das, nicht, du, der, die, ein, eine, ist, bin, sind, es, zu, von, mit, auf, für, an, bei, nach, aus, vor, über, auch, noch, nur, schon, immer, sehr, gut, gross, klein, neu, gehen, kommen, machen, geben, nehmen, sehen, sagen, sprechen, können, müssen, wollen, mögen, möchten, werden, bleiben, wohnen, arbeiten, lernen, verstehen, wissen, kaufen, essen, trinken, schlafen, helfen, brauchen, tag, zeit, jahr, mensch, kind, frau, mann, wasser, Sie, wir, er, wer, was, wo, wann, wie, warum, welcher, unter, neben, zwischen, hinter, ohne, gegen, durch, um, seit, bis, oder, aber, wenn, dass, weil, denn, etwas, nichts, jemand, alle, viel, mehr, wenig, bitte, danke, hallo, guten Tag, guten Morgen, auf Wiedersehen, tschüss, Grüezi, Servus, Entschuldigung, ich bin, du bist, ja bitte, nein danke, Wie geht es Ihnen, Es geht mir gut, Wie heisst du, Wie heissen Sie, ich heisse, Woher kommen Sie, Ich komme aus, Bitte schön, Kein Problem, doch, kein, keine, dieser, mein, dein, unser, ihr, man, sich, mich, mir, dich, dir, ihm, ihnen, uns, da, dort, hier, jetzt, heute, morgen, gestern, immer noch, gern, danke schön, ach so, natürlich, vielleicht, zusammen, allein, Bescheid geben, noch nicht, schon wieder, so, zu Hause, noch einmal, wenn es geht, als, ob, niemand, sehr gern, guten Abend, tut mir leid, keine Ursache, um zu, nach Hause, in Ordnung, kann, muss, will, möchte, darf, oben, unten, links, rechts, vorne, hinten, darauf, während, also, sehr gut, wie bitte, sollen, dürfen, heißen, finden, suchen, fragen, antworten, öffnen, schließen, mieten, bezahlen, kosten, geld, preis, rechnung, bestellen, liefern, straße, weg, bahn, bahnhof, flughafen, zug, fahrt, reise, hotel, zimmer, küche, bad, bett, tisch, stuhl, schrank, lampe, bild, kleidung, hemd, hose, schuh, jacke, farbe, rot, blau, schwarz, weiss, schnell, langsam, warm, kalt, wetter, regen, sonne, schnee, wind, himmel, auto, zum, zur, im, am, ins, Vater, Mutter, Eltern, Bruder, Schwester, Familie, Freund, Leute, Name, Adresse, Haus, Wohnung, Tür, Fenster, Arbeit, Chef, Kollege, Firma, Beruf, Stelle, Geschäft, Kasse, Termin, Arzt, Krankheit, Apotheke, Schule, Kurs, Buch, Sprache, Fahrkarte, Bus, Woche, Monat, Uhr, Stunde, warten, schliessen, zeigen, schreiben, lesen, hören, der Mann, die Zeit, das Jahr, der Tag, das Kind, die Frau, das Wasser, die Stadt, das Haus, die Wohnung, das Zimmer, die Tür, das Fenster, der Tisch, der Stuhl, die Strasse, der Weg, das Auto, der Zug, der Bus, der Bahnhof, die Arbeit, der Freund, die Familie, der Name, das Geld, der Preis, der Laden, der Markt, die Schule, der Lehrer, der Kurs, die Sprache, das Wort, die Frage, die Antwort, die Zeitung, der Arzt, die Apotheke, der Termin, die Hilfe, das Problem, die Lösung, der Grund, der Platz, die Nummer, der Brief, das Telefon, die Stunde, die Minute, die Woche, der Monat, der Abend, die Nacht, das Wetter, die Sonne, der Regen, die Farbe, der Ball, selbst, wieder, lange, kurz, letzte, nächste, beide, ander, bekommen, kennen, fahren, laufen, spielen, sitzen, stehen, liegen, stellen, legen, anfangen, aufhören, erzählen, denken, meinen, vergessen, tragen, kochen, putzen, waschen, schauen, einladen, mitbringen, zahlen, aufmachen, zumachen, verlassen, mitnehmen, erklären, üben, wiederholen, dauern, fehlen, passen, gefallen, jeder, spät, jung, alt, hoch, niedrig, lang, leicht, schwer, billig, teuer, voll, leer, fertig, müde, froh, gesund, krank, richtig, falsch, wichtig, möglich, letzt, einfach, schwierig, ruhig, offen, geschlossen, letzte Woche, nächste Woche, der Morgen, der Mittag, der Nachmittag, das Geschäft, das Bett, der Schlüssel, die Tasche, die Leute, das Land, die Küche, das Bad, der Garten, die Adresse, die Karte, die Rechnung, das Brot, die Milch, der Kaffee, der Apfel, das Flugzeug, die Reise, der Urlaub, das Hotel, der Beruf, das Büro, die Mutter, der Vater, die Schwester, der Bruder, die Polizei, das Licht, das Handy, der Computer, die Uhr, der Tee, das Gemüse, das Fleisch, das Frühstück, das Mittagessen, das Abendessen, die Eltern, der Sohn, die Tochter, das Buch, das Dorf, die Fahrkarte, diese, dieses, euch, euer, unserer, ihre, seine, welche, was für ein, wem, wen, wieso, seit wann, wie viel, wie viele, welches, um wie viel Uhr, irgendwo, irgendwann, überhaupt nicht, gar nicht, etwas mehr, kaum, fast, etwa, später, bald, früh, zuletzt, zuerst, plötzlich, endlich, meistens, zuerst einmal, zurzeit, damals, inzwischen, danach, vorher, dann, dorthin, hierher, zuletzt gesehen, bestellen Sie, sagen Sie, können Sie, würden Sie, hätte gern, vielen Dank, entschuldigen Sie, ganz gleich, mir egal, einverstanden, sicher, bestimmt, leider, hoffentlich, übrigens, leider nicht, habe, der Montag, der Januar, der Sommer, der Winter, der Kühlschrank, die Lampe, die Treppe, der Käse, das Ei, die Butter, der Salat, die Pizza, der Teller, die Tasse, das Glas, der Löffel, die Gabel, das Messer, der Supermarkt, die Post, die Bank, das Restaurant, das Café, die Schweiz, Deutschland, die Kasse, der Ausweis, das Formular, die Unterschrift, das Amt, die Praxis
+
+Sortiere von häufig nach selten (häufigstes zuerst). Denk an Funktionswörter
+(Artikel, Pronomen, Präpositionen, Konjunktionen, Hilfsverben) — die sind im Deutschen
+die all häufigsten Wörter, gefolgt von Grundverben und Alltagsnomen.
+
+Halte dich an den echten A1-Wortschatz (Goethe-Institut A1 / Start Deutsch 1).
+Erfinde keine Wörter und keine Übersetzungen.

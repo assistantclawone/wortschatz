@@ -1,0 +1,205 @@
+sollen|Verpflichtung haben|A1|ALL|INT|Du sollen heute noch einkaufen gehen.|en=should,es=deber,fr=devoir,it=dovere,pt=dever,tr=melı,ar=ينبغي,ru=должен,pl=powinien,uk=повинен|
+dürfen|Erlaubnis haben|A1|ALL|INT|Hier dürfen Kinder ruhig spielen.|en=may,es=poder,fr=pouvoir,it=potere,pt=poder,tr=izinli,ar=يسمح,ru=сметь,pl=móc,uk=сміти|
+heißen|Namen haben|A1|ALL|INT|Wie heißen die beiden Kinder dort?|en=be called,es=llamarse,fr=s'appeler,it=chiamarsi,pt=chamar-se,tr=adlanmak,ar=يسمى,ru=называться,pl=nazywać się,uk=зватися|
+finden|als gut empfinden|A1|ALL|INT|Sie finden die Idee ziemlich gut.|en=find,es=encontrar,fr=trouver,it=trovare,pt=achar,tr=bulmak,ar=يجد,ru=находить,pl=znajdować,uk=знаходити|
+suchen|nach etwas suchen|A1|alltag,wohnen,buero|INT|Wir suchen den Schlüssel schon lange.|en=search,es=buscar,fr=chercher,it=cercare,pt=procurar,tr=aramak,ar=يبحث,ru=искать,pl=szukać,uk=шукати|
+fragen|eine Frage stellen|A1|ALL|INT|Darf ich dich etwas fragen?|en=ask,es=preguntar,fr=demander,it=chiedere,pt=perguntar,tr=sormak,ar=يسأل,ru=спрашивать,pl=pytać,uk=питати|
+antworten|eine Antwort geben|A1|ALL|INT|Wir antworten schnell auf jede E-Mail.|en=answer,es=responder,fr=répondre,it=rispondere,pt=responder,tr=yanıtlamak,ar=يجيب,ru=отвечать,pl=odpowiadać,uk=відповідати|
+öffnen|aufmachen|A1|alltag,einkaufen,buero|INT|Bitte öffnen Sie das Fenster ein wenig.|en=open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl=otwierać,uk=відчиняти|
+schließen|zumachen|A1|alltag,einkaufen,buero|INT|Wir schließen den Laden um acht Uhr.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl=zamykać,uk=зачиняти|
+mieten|gegen Geld nutzen|A1|wohnen,bank|INT|Wir mieten eine kleine Wohnung am See.|en=rent,es=alquilar,fr=louer,it=affittare,pt=alugar,tr=kiralamak,ar=يستأجر,ru=снимать,pl=wynajmować,uk=орендувати|
+bezahlen|Geld geben|A1|einkaufen,bank,gastro|INT|Wir bezahlen die Rechnung mit Karte.|en=pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=платить,pl=płacić,uk=платити|
+kosten|einen Preis haben|A1|einkaufen,gastro,reisen|INT|Wie viel kosten die beiden Brötchen?|en=cost,es=costar,fr=coûter,it=costare,pt=custar,tr=mal olmak,ar=يكلف,ru=стоить,pl=kosztować,uk=коштувати|
+geld|Zahlungsmittel|A1|bank,einkaufen|INT|Ich habe heute kein Geld dabei.|en=money,es=dinero,fr=argent,it=soldi,pt=dinheiro,tr=para,ar=نقود,ru=деньги,pl=pieniądze,uk=гроші|
+preis|Betrag einer Ware|A1|einkaufen|INT|Der Preis ist für mich zu hoch.|en=price,es=precio,fr=prix,it=prezzo,pt=preço,tr=fiyat,ar=سعر,ru=цена,pl=cena,uk=ціна|
+rechnung|Beleg über Zahlung|A1|gastro,einkaufen,bank|INT|Die Rechnung bekomme ich am Ende.|en=bill,es=factura,fr=facture,it=conto,pt=conta,tr=hesap,ar=فاتورة,ru=счёт,pl=rachunek,uk=рахунок|
+bestellen|eine Lieferung verlangen|A1|gastro,einkaufen|INT|Wir bestellen heute Abend eine Pizza.|en=order,es=pedir,fr=commander,it=ordinare,pt=pedir,tr=sipariş etmek,ar=يطلب,ru=заказывать,pl=zamawiać,uk=замовляти|
+liefern|an einen Ort bringen|A1|einkaufen,logistik|INT|Sie liefern die Ware am Montag vorbei.|en=deliver,es=entregar,fr=livrer,it=consegnare,pt=entregar,tr=teslim etmek,ar=يسلّم,ru=доставлять,pl=dostarczać,uk=доставляти|
+straße|befestigter Weg|A1|wohnen,reisen|INT|Die Straße ist morgens sehr voll.|en=street,es=calle,fr=rue,it=strada,pt=rua,tr=sokak,ar=شارع,ru=улица,pl=ulica,uk=вулиця|
+weg|Verbindung zum Gehen|A1|alltag,reisen|INT|Kennen Sie den Weg zum Bahnhof?|en=way,es=camino,fr=chemin,it=strada,pt=caminho,tr=yol,ar=طريق,ru=путь,pl=droga,uk=шлях|
+bahn|Zug im Nahverkehr|A1|reisen|DE|Mit der Bahn fahre ich lieber.|en=railway,es=ferrocarril,fr=chemin de fer,it=ferrovia,pt=ferrovia,tr=tren,ar=سكة حديد,ru=железная дорога,pl=kolej,uk=залізниця|
+bahnhof|Ort für Züge|A1|reisen|INT|Der Bahnhof liegt direkt im Zentrum.|en=station,es=estación,fr=gare,it=stazione,pt=estação,tr=istasyon,ar=محطة قطار,ru=вокзал,pl=dworzec,uk=вокзал|
+flughafen|Ort für Flugzeuge|A1|reisen|INT|Wir sind zwei Stunden vorher am Flughafen.|en=airport,es=aeropuerto,fr=aéroport,it=aeroporto,pt=aeroporto,tr=havalimanı,ar=مطار,ru=аэропорт,pl=lotnisko,uk=аеропорт|
+zug|Fahrzeug auf Schienen|A1|reisen|INT|Der Zug hat zwanzig Minuten Verspätung.|en=train,es=tren,fr=train,it=treno,pt=trem,tr=tren,ar=قطار,ru=поезд,pl=pociąg,uk=поїзд|
+fahrt|Weg mit Verkehrsmittel|A1|reisen|INT|Die Fahrt dauert etwa eine Stunde.|en=ride,es=viaje,fr=trajet,it=viaggio,pt=viagem,tr=yolculuk,ar=رحلة,ru=поездка,pl=przejazd,uk=поїздка|
+reise|Fahrt an fremden Ort|A1|reisen|INT|Die Reise nach Bern war sehr schön.|en=journey,es=viaje,fr=voyage,it=viaggio,pt=viagem,tr=seyahat,ar=سفر,ru=путешествие,pl=podróż,uk=подорож|
+hotel|Gebäude für Gäste|A1|reisen|INT|Wir haben ein Hotel im Zentrum gebucht.|en=hotel,es=hotel,fr=hôtel,it=hotel,pt=hotel,tr=otel,ar=فندق,ru=отель,pl=hotel,uk=готель|
+zimmer|Raum in Gebäude|A1|wohnen,reisen|INT|Das Zimmer ist hell und ruhig.|en=room,es=habitación,fr=chambre,it=stanza,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+küche|Raum zum Kochen|A1|wohnen|INT|In der Küche steht ein kleiner Tisch.|en=kitchen,es=cocina,fr=cuisine,it=cucina,pt=cozinha,tr=mutfak,ar=مطبخ,ru=кухня,pl=kuchnia,uk=кухня|
+bad|Raum zum Waschen|A1|wohnen|INT|Das Bad ist leider schon besetzt.|en=bathroom,es=baño,fr=salle de bain,it=bagno,pt=banheiro,tr=banyo,ar=حمام,ru=ванная,pl=łazienka,uk=ванна|
+bett|Möbel zum Schlafen|A1|wohnen|INT|Das Bett steht direkt am Fenster.|en=bed,es=cama,fr=lit,it=letto,pt=cama,tr=yatak,ar=سرير,ru=кровать,pl=łóżko,uk=ліжко|
+tisch|Möbel mit Platte|A1|wohnen,gastro,buero|INT|Stell die Tassen bitte auf den Tisch.|en=table,es=mesa,fr=table,it=tavolo,pt=mesa,tr=masa,ar=طاولة,ru=стол,pl=stół,uk=стіл|
+stuhl|Sitzmöbel mit Lehne|A1|wohnen,gastro,buero|INT|Der Stuhl ist echt bequem.|en=chair,es=silla,fr=chaise,it=sedia,pt=cadeira,tr=sandalye,ar=كرسي,ru=стул,pl=krzesło,uk=стілець|
+schrank|Möbel zum Verstauen|A1|wohnen|INT|Die Schuhe stehen im Schrank unten.|en=cupboard,es=armario,fr=armoire,it=armadio,pt=armário,tr=dolap,ar=خزانة,ru=шкаф,pl=szafa,uk=шафа|
+lampe|Leuchte im Raum|A1|wohnen|INT|Die Lampe über dem Tisch ist kaputt.|en=lamp,es=lámpara,fr=lampe,it=lampada,pt=lâmpada,tr=lamba,ar=مصباح,ru=лампа,pl=lampa,uk=лампа|
+bild|Gemälde an Wand|A1|wohnen,freizeit|INT|Das Bild hängt im Wohnzimmer.|en=picture,es=cuadro,fr=tableau,it=quadro,pt=quadro,tr=resim,ar=صورة,ru=картина,pl=obraz,uk=картина|
+kleidung|Sachen zum Anziehen|A1|einkaufen|INT|Für die Reise brauche ich warme Kleidung.|en=clothing,es=ropa,fr=vêtements,it=abbigliamento,pt=roupa,tr=giysi,ar=ملابس,ru=одежда,pl=odzież,uk=одяг|
+hemd|Oberteil mit Kragen|A1|einkaufen|INT|Das Hemd ist mir eine Nummer zu klein.|en=shirt,es=camisa,fr=chemise,it=camicia,pt=camisa,tr=gömlek,ar=قميص,ru=рубашка,pl=koszula,uk=сорочка|
+hose|Kleidung für Beine|A1|einkaufen|INT|Diese Hose passt mir wirklich gut.|en=trousers,es=pantalón,fr=pantalon,it=pantaloni,pt=calça,tr=pantolon,ar=بنطال,ru=брюки,pl=spodnie,uk=штани|
+schuh|Kleidung für Fuss|A1|einkaufen|INT|Der rechte Schuh drückt ein wenig.|en=shoe,es=zapato,fr=chaussure,it=scarpa,pt=sapato,tr=ayakkabı,ar=حذاء,ru=обувь,pl=but,uk=взуття|
+jacke|Oberkleidung gegen Kälte|A1|einkaufen,alltag|INT|Nimm die Jacke mit, es ist kühl.|en=jacket,es=chaqueta,fr=veste,it=giacca,pt=jaqueta,tr=ceket,ar=سترة,ru=куртка,pl=kurtka,uk=куртка|
+farbe|Eigenschaft des Lichts|A1|einkaufen,alltag|INT|Welche Farbe hat deine neue Jacke?|en=colour,es=color,fr=couleur,it=colore,pt=cor,tr=renk,ar=لون,ru=цвет,pl=kolor,uk=колір|
+rot|Farbe wie Blut|A1|ALL|INT|Das rote Auto vorne ist meins.|en=red,es=rojo,fr=rouge,it=rosso,pt=vermelho,tr=kırmızı,ar=أحمر,ru=красный,pl=czerwony,uk=червоний|
+blau|Farbe wie Himmel|A1|ALL|INT|Die Bluse ist hell und blau.|en=blue,es=azul,fr=bleu,it=blu,pt=azul,tr=mavi,ar=أزرق,ru=синий,pl=niebieski,uk=синій|
+schwarz|dunkelste Farbe|A1|ALL|INT|Er trägt fast immer schwarze Schuhe.|en=black,es=negro,fr=noir,it=nero,pt=preto,tr=siyah,ar=أسود,ru=чёрный,pl=czarny,uk=чорний|
+weiss|hellste Farbe|A1|ALL|INT|Das weiss Hemd liegt im Schrank.|en=white,es=blanco,fr=blanc,it=bianco,pt=branco,tr=beyaz,ar=أبيض,ru=белый,pl=biały,uk=білий|
+schnell|mit hoher Geschwindigkeit|A1|ALL|INT|Der Zug ist schneller als der Bus.|en=fast,es=rápido,fr=rapide,it=veloce,pt=rápido,tr=hızlı,ar=سريع,ru=быстрый,pl=szybki,uk=швидкий|
+langsam|mit geringer Geschwindigkeit|A1|ALL|INT|Bitte sprich ein bisschen langsamer.|en=slow,es=lento,fr=lent,it=lento,pt=devagar,tr=yavaş,ar=بطيء,ru=медленный,pl=wolny,uk=повільний|
+warm|mittlere Hitze|A1|alltag,gesundheit|INT|Heute ist es angenehm warm draußen.|en=warm,es=caliente,fr=chaud,it=caldo,pt=quente,tr=sıcak,ar=دافئ,ru=тёплый,pl=ciepły,uk=теплий|
+kalt|niedrige Temperatur|A1|alltag,gesundheit|INT|Morgen wird es kalt und windig.|en=cold,es=frío,fr=froid,it=freddo,pt=frio,tr=soğuk,ar=بارد,ru=холодный,pl=zimny,uk=холодний|
+wetter|Zustand der Luft|A1|alltag,reisen|INT|Das Wetter bleibt die ganze Woche schön.|en=weather,es=tiempo,fr=météo,it=tempo,pt=tempo,tr=hava,ar=طقس,ru=погода,pl=pogoda,uk=погода|
+regen|fallendes Wasser|A1|alltag,reisen|INT|Es gibt heute Regen und starken Wind.|en=rain,es=lluvia,fr=pluie,it=pioggia,pt=chuva,tr=yağmur,ar=مطر,ru=дождь,pl=deszcz,uk=дощ|
+sonne|heller Stern am Tag|A1|alltag,reisen|INT|Endlich zeigt sich die Sonne wieder.|en=sun,es=sol,fr=soleil,it=sole,pt=sol,tr=güneş,ar=شمس,ru=солнце,pl=słońce,uk=сонце|
+schnee|weisse Flocken|A1|alltag,reisen|INT|Auf dem Berg liegt noch Schnee.|en=snow,es=nieve,fr=neige,it=neve,pt=neve,tr=kar,ar=ثلج,ru=снег,pl=śnieg,uk=сніг|
+wind|bewegte Luft|A1|alltag,reisen|INT|Der Wind kommt heute von Westen.|en=wind,es=viento,fr=vent,it=vento,pt=vento,tr=rüzgar,ar=ريح,ru=ветер,pl=wiatr,uk=вітер|
+himmel|Bereich über uns|A1|alltag,reisen|INT|Der Himmel ist heute wolkenlos.|en=sky,es=cielo,fr=ciel,it=cielo,pt=céu,tr=gökyüzü,ar=سماء,ru=небо,pl=niebo,uk=небо|
+auto|Fahrzeug mit Motor|A1|reisen,alltag|INT|Mein Auto steht hinter dem Haus.|en=car,es=coche,fr=voiture,it=macchina,pt=carro,tr=araba,ar=سيارة,ru=машина,pl=samochód,uk=авто|
+zum|zu dem (Kurzform)|A1|ALL|INT|Wir gehen zum Bahnhof.|en=to the,es=al,fr=au,it=al,pt=ao,tr=-e/-a,ar=إلى,ru=к,pl=do,uk=до|
+zur|zu der (Kurzform)|A1|ALL|INT|Ich gehe zur Arbeit.|en=to the,es=a la,fr=à la,it=alla,pt=à,tr=-e/-a,ar=إلى,ru=к,pl=do,uk=до|
+im|in dem (Kurzform)|A1|ALL|INT|Ich wohne im Zentrum.|en=in the,es=en el,fr=dans le,it=nel,pt=no,tr=-de/-da,ar=في,ru=в,pl=w,uk=у|
+am|an dem (Kurzform)|A1|ALL|INT|Ich arbeite am Montag.|en=on the,es=en el,fr=au,it=al,pt=no,tr=-de/-da,ar=في,ru=в,pl=w,uk=у|
+ins|in das (Kurzform)|A1|ALL|INT|Wir gehen ins Kino.|en=into the,es=al,fr=au,it=nel,pt=no,tr=-e/-a,ar=إلى,ru=в,pl=do,uk=у|
+Vater|männlicher Elternteil|A1|familie,alltag|INT|Mein Vater arbeitet in Zürich.|en=father,es=padre,fr=père,it=padre,pt=pai,tr=baba,ar=أب,ru=отец,pl=ojciec,uk=батько|
+Mutter|weiblicher Elternteil|A1|familie,alltag|INT|Meine Mutter kocht sehr gut.|en=mother,es=madre,fr=mère,it=madre,pt=mãe,tr=anne,ar=أم,ru=мать,pl=matka,uk=мати|
+Eltern|Vater und Mutter|A1|familie,alltag|INT|Meine Eltern wohnen in Bern.|en=parents,es=padres,fr=parents,it=genitori,pt=pais,tr=ebeveyn,ar=والدان,ru=родители,pl=rodzice,uk=батьки|
+Bruder|männliches Geschwister|A1|familie,alltag|INT|Mein Bruder ist zehn Jahre alt.|en=brother,es=hermano,fr=frère,it=fratello,pt=irmão,tr=kardeş,ar=أخ,ru=брат,pl=brat,uk=брат|
+Schwester|weibliches Geschwister|A1|familie,alltag|INT|Meine Schwester wohnt in Wien.|en=sister,es=hermana,fr=sœur,it=sorella,pt=irmã,tr=kız kardeş,ar=أخت,ru=сестра,pl=siostra,uk=сестра|
+Familie|Eltern und Kinder|A1|familie,alltag|INT|Meine Familie ist nicht gross.|en=family,es=familia,fr=famille,it=famiglia,pt=família,tr=aile,ar=أسرة,ru=семья,pl=rodzina,uk=сімʼя|
+Freund|männliche bekannte Person|A1|alltag,freizeit|INT|Mein Freund kommt aus Spanien.|en=friend,es=amigo,fr=ami,it=amico,pt=amigo,tr=arkadaş,ar=صديق,ru=друг,pl=przyjaciel,uk=друг|
+Leute|mehrere Personen|A1|alltag,freizeit|INT|Viele Leute warten auf den Bus.|en=people,es=gente,fr=gens,it=gente,pt=pessoas,tr=insanlar,ar=ناس,ru=люди,pl=ludzie,uk=люди|
+Name|Bezeichnung einer Person|A1|alltag,behoerden|INT|Wie ist Ihr Name|en=name,es=nombre,fr=nom,it=nome,pt=nome,tr=ad,ar=اسم,ru=имя,pl=imię,uk=імʼя|
+Adresse|Anschrift einer Person|A1|alltag,behoerden|INT|Meine Adresse steht im Vertrag.|en=address,es=dirección,fr=adresse,it=indirizzo,pt=endereço,tr=adres,ar=عنوان,ru=адрес,pl=adres,uk=адреса|
+Haus|Gebäude zum Wohnen|A1|wohnen,alltag|INT|Das Haus ist sehr alt.|en=house,es=casa,fr=maison,it=casa,pt=casa,tr=ev,ar=منزل,ru=дом,pl=dom,uk=дім|
+Wohnung|Mietwohnung einer Familie|A1|wohnen,alltag|INT|Die Wohnung hat drei Zimmer.|en=flat,es=piso,fr=appartement,it=appartamento,pt=apartamento,tr=daire,ar=شقة,ru=квартира,pl=mieszkanie,uk=квартира|
+Tür|beweglicher Zugang zum Raum|A1|wohnen,alltag|INT|Bitte schliessen Sie die Tür.|en=door,es=puerta,fr=porte,it=porta,pt=porta,tr=kapı,ar=باب,ru=дверь,pl=drzwi,uk=двері|
+Fenster|Glasöffnung in der Wand|A1|wohnen,alltag|INT|Das Fenster ist noch offen.|en=window,es=ventana,fr=fenêtre,it=finestra,pt=janela,tr=pencere,ar=نافذة,ru=окно,pl=okno,uk=вікно|
+Arbeit|berufliche Tätigkeit|A1|arbeit,alltag|INT|Die Arbeit beginnt um acht Uhr.|en=work,es=trabajo,fr=travail,it=lavoro,pt=trabalho,tr=iş,ar=عمل,ru=работа,pl=praca,uk=робота|
+Chef|Leiter einer Firma|A1|arbeit,buero|INT|Mein Chef ist heute nicht da.|en=boss,es=jefe,fr=chef,it=capo,pt=chefe,tr=patron,ar=مدير,ru=начальник,pl=szef,uk=начальник|
+Kollege|Person im selben Betrieb|A1|arbeit,buero|INT|Mein Kollege hilft mir oft.|en=colleague,es=colega,fr=collègue,it=collega,pt=colega,tr=iş arkadaşı,ar=زميل,ru=коллега,pl= kolega,uk=колега|
+Firma|gewerbliches Unternehmen|A1|arbeit,buero|INT|Die Firma hat viele Angestellte.|en=company,es=empresa,fr=entreprise,it=azienda,pt=empresa,tr=şirket,ar=شركة,ru=фирма,pl= firma,uk=фірма|
+Beruf|erlernte Tätigkeit|A1|arbeit,bildung|INT|Was ist Ihr Beruf|en=profession,es=profesión,fr=métier,it=professione,pt=profissão,tr=meslek,ar=مهنة,ru=профессия,pl= zawód,uk=професія|
+Stelle|Arbeitsplatz im Betrieb|A1|arbeit,buero|INT|Ich suche eine neue Stelle.|en=position,es=puesto,fr=poste,it=posto,pt=vaga,tr=iş,ar=وظيفة,ru=должность,pl= posada,uk=посада|
+Geschäft|Laden zum Einkaufen|A1|einkaufen,alltag|INT|Das Geschäft schliesst um sechs.|en=shop,es=tienda,fr=magasin,it=negozio,pt=loja,tr=dükkân,ar=متجر,ru=магазин,pl= sklep,uk=магазин|
+Kasse|Ort zum Bezahlen|A1|einkaufen,bank|INT|Bitte zahlen Sie an der Kasse.|en=checkout,es=caja,fr=caisse,it=cassa,pt=caixa,tr=kasa,ar=صندوق,ru=касса,pl= kasa,uk=каса|
+Termin|vereinbarte Zeit|A1|behoerden,gesundheit|INT|Ich habe morgen einen Termin.|en=appointment,es=cita,fr=rendez-vous,it=appuntamento,pt=marcação,tr=randevu,ar=موعد,ru=запись,pl= termin,uk=прийом|
+Arzt|medizinische Fachperson|A1|gesundheit|INT|Der Arzt kommt gleich.|en=doctor,es=médico,fr=médecin,it=medico,pt=médico,tr=doktor,ar=طبيب,ru=врач,pl= lekarz,uk=лікар|
+Krankheit|Störung der Gesundheit|A1|gesundheit|INT|Die Krankheit dauert eine Woche.|en=illness,es=enfermedad,fr=maladie,it=malattia,pt=doença,tr=hastalık,ar=مرض,ru=болезнь,pl= choroba,uk=хвороба|
+Apotheke|Geschäft für Medikamente|A1|gesundheit,einkaufen|INT|Die Apotheke ist heute geschlossen.|en=pharmacy,es=farmacia,fr=pharmacie,it=farmacia,pt=farmácia,tr=eczane,ar=صيدلية,ru=аптека,pl= apteka,uk=аптека|
+Schule|Ort zum Lernen|A1|bildung,familie|INT|Die Schule beginnt um acht.|en=school,es=escuela,fr=école,it=scuola,pt=escola,tr=okul,ar=مدرسة,ru=школа,pl= szkoła,uk=школа|
+Kurs|Unterricht in einer Gruppe|A1|bildung|INT|Der Deutschkurs beginnt im Mai.|en=course,es=curso,fr=cours,it=corso,pt=curso,tr=kurs,ar=دورة,ru=курс,pl= kurs,uk=курс|
+Buch|gebundenes Schriftwerk|A1|bildung,freizeit|INT|Ich lese gerade ein gutes Buch.|en=book,es=libro,fr=livre,it=libro,pt=livro,tr=kitap,ar=كتاب,ru=книга,pl= książka,uk=книга|
+Sprache|System der Verständigung|A1|bildung,alltag|INT|Deutsch ist eine schöne Sprache.|en=language,es=lengua,fr=langue,it=lingua,pt=língua,tr=dil,ar=لغة,ru=язык,pl= język,uk=мова|
+Fahrkarte|Ticket für den Verkehr|A1|reisen|INT|Ich kaufe eine Fahrkarte am Schalter.|en=ticket,es=billete,fr=billet,it=biglietto,pt=bilhete,tr=bilet,ar=تذكرة,ru=билет,pl= bilet,uk=квиток|
+Bus|grosses Fahrzeug für viele|A1|reisen,alltag|INT|Der Bus kommt in fünf Minuten.|en=bus,es=autobús,fr=bus,it=autobus,pt=autocarro,tr=otobüs,ar=حافلة,ru=автобус,pl= autobus,uk=автобус|
+Woche|sieben Tage|A1|ALL|INT|Die Woche hat sieben Tage.|en=week,es=semana,fr=semaine,it=settimana,pt=semana,tr=hafta,ar=أسبوع,ru=неделя,pl= tydzień,uk=тиждень|
+Monat|Zeitraum von vier Wochen|A1|ALL|INT|Der Monat beginnt nächste Woche.|en=month,es=mes,fr=mois,it=mese,pt=mês,tr=ay,ar=شهر,ru=месяц,pl= miesiąc,uk=місяць|
+Uhr|Gerät zum Zeitmessen|A1|ALL|INT|Wie viel Uhr ist es|en=clock,es=reloj,fr=horloge,it=orologio,pt=relógio,tr=saat,ar=ساعة,ru=часы,pl= zegar,uk=годинник|
+Stunde|Zeitraum von 60 Minuten|A1|ALL|INT|Der Kurs dauert zwei Stunden.|en=hour,es=hora,fr=heure,it=ora,pt=hora,tr=saat,ar=ساعة,ru=час,pl= godzina,uk=година|
+warten|an einem Ort bleiben|A1|ALL|INT|Wir warten schon zehn Minuten.|en=wait,es=esperar,fr=attendre,it=aspettare,pt=esperar,tr=beklemek,ar=ينتظر,ru=ждать,pl= czekać,uk=чекати|
+schliessen|Zugang versperren|A1|ALL|INT|Bitte schliessen Sie die Tür.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl= zamykać,uk=зачиняти|
+zeigen|auf etwas hinweisen|A1|ALL|INT|Können Sie mir den Weg zeigen|en=show,es=mostrar,fr=montrer,it=mostrare,pt=mostrar,tr=göstermek,ar=يظهر,ru=показывать,pl= pokazywać,uk=показувати|
+schreiben|Text mit Schrift|A1|bildung,buero|INT|Bitte schreiben Sie Ihren Namen.|en=write,es=escribir,fr=écrire,it=scrivere,pt=escrever,tr=yazmak,ar=يكتب,ru=писать,pl= pisać,uk=писати|
+lesen|Text erfassen|A1|bildung,freizeit|INT|Ich lese jeden Abend ein Buch.|en=read,es=leer,fr=lire,it=leggere,pt=ler,tr=okumak,ar=يقرأ,ru=читать,pl= czytać,uk=читати|
+hören|mit dem Ohr wahrnehmen|A1|ALL|INT|Ich höre gern Musik.|en=hear,es=oír,fr=entendre,it=sentire,pt=ouvir,tr=duymak,ar=يسمع,ru=слышать,pl= słyszeć,uk=чути|
+selbst|betont die eigene Person|A1|ALL|INT|Ich mache das ohne Hilfe selbst.|
+wieder|erneut/nocheinmal|A1|ALL|INT|Wir sehen uns morgen wieder.|
+lange|über viel Zeit|A1|ALL|INT|Ich habe lange auf den Bus gewartet.|
+kurz|wenig Zeit dauernd|A1|ALL|INT|Der Weg ist zum Bahnhof kurz.|
+letzte|zuvor gewesen|A1|ALL|INT|Das war die letzte Chance heute.|
+nächste|danach folgend|A1|ALL|INT|Die nächste Prüfung ist im Mai.|
+beide|zwei zusammen|A1|ALL|INT|Wir haben beide dasselbe Buch gelesen.|
+ander|nicht derselbe|A1|ALL|INT|Ich nehme ein anderes Getränk.|
+bekommen|erhalten/geschenkt kriegen|A1|ALL|INT|Ich bekomme jeden Tag viele E-Mails.|
+kennen|wissen wie jemand ist|A1|ALL|INT|Ich kenne den Nachbarn sehr gut.|
+fahren|mit Transportmittel bewegen|A1|reisen,alltag|INT|Wir fahren mit dem Zug nach Wien.|
+laufen|zu Fuß sich bewegen|A1|alltag,gesundheit|INT|Ich laufe jeden Abend im Park.|
+spielen|Spiel tätigen|A1|freizeit,familie|INT|Die Kinder spielen gern im Garten.|
+sitzen|auf einem Platz sein|A1|alltag|INT|Hier sitze ich jeden Morgen zum Frühstück.|
+stehen|auf den Füßen sein|A1|alltag|INT|Die Flasche steht in der Küche.|
+liegen|flach auf etwas sein|A1|alltag|INT|Das Buch liegt noch auf dem Tisch.|
+stellen|an einen Platz setzen|A1|alltag|INT|Bitte stellen Sie den Stuhl dort hin.|
+legen|flach hinlegen|A1|alltag|INT|Ich lege das Handy neben das Bett.|
+anfangen|beginnen|A1|arbeit,bildung|INT|Der Kurs fängt um neun Uhr an.|
+aufhören|beenden|A1|alltag,arbeit|INT|Wir hören jetzt mit der Pause auf.|
+erzählen|von etwas berichten|A1|alltag,familie|INT|Er erzählt eine lustige Geschichte.|
+denken|im Kopf überlegen|A1|ALL|INT|Ich denke oft an meine Familie.|
+meinen|eine Ansicht haben|A1|ALL|INT|Ich meine, dass der Film gut ist.|
+vergessen|nicht mehr wissen|A1|ALL|INT|Ich habe den Termin leider vergessen.|
+tragen|in der Hand halten|A1|alltag,einkaufen|INT|Sie trägt die Tasche zum Auto.|
+kochen|Speisen zubereiten|A1|alltag,gastro|INT|Ich koche heute Abend eine Suppe.|
+putzen|reinigen|A1|wohnen|INT|Ich putze am Samstag die Küche.|
+waschen|mit Wasser reinigen|A1|wohnen,gesundheit|INT|Ich wasche die Hände vor dem Essen.|
+schauen|hinsehen|A1|ALL|CH|Schau mal hier auf die Karte.|
+einladen|Gast einbinden|A1|familie,freizeit|INT|Ich lade meine Freunde zum Essen ein.|
+mitbringen|etwas dazu nehmen|A1|familie|INT|Bring bitte Getränke zur Party mit.|
+zahlen|Geld geben|A1|einkaufen,bank|INT|Ich zahle die Rechnung am Montag.|
+aufmachen|öffnen|A1|alltag|INT|Kannst du die Tür bitte aufmachen?|
+zumachen|schließen|A1|alltag|INT|Bitte mach das Licht aus.|
+verlassen|einen Ort weggehen|A1|alltag,reisen|INT|Wir verlassen das Haus um sieben.|
+mitnehmen|etwas mit sich führen|A1|reisen,alltag|INT|Nimm einen Regenschirm mit nach draußen.|
+erklären|deutlich sagen|A1|bildung,buero|INT|Der Lehrer erklärt die Grammatik ganz langsam.|
+üben|regelmäßig trainieren|A1|bildung|INT|Ich übe jeden Tag neue Wörter.|
+wiederholen|noch einmal sagen|A1|bildung|INT|Bitte wiederholen Sie den Satz noch einmal.|
+dauern|Zeit brauchen|A1|alltag|INT|Der Film dauert zwei Stunden.|
+fehlen|nicht da sein|A1|arbeit,bildung|INT|Mir fehlt heute leider die Zeit.|
+passen|gut angehören|A1|einkaufen,alltag|INT|Die Schuhe passen mir ganz gut.|
+gefallen|gut finden|A1|alltag|INT|Die Wohnung gefällt mir sehr.|
+der Mann|erwachsene männliche Person|A1|ALL|INT|Der Mann wartet an der Haltestelle.|en=the man,es=el hombre,fr=l'homme,it=l'uomo,pt=o homem,tr=adam,ar=الرجل,ru=мужчина,pl=mężczyzna,uk=чоловік|
+die Zeit|Ablauf von Stunden|A1|ALL|INT|Ich habe heute keine Zeit.|en=time,es=el tiempo,fr=le temps,it=il tempo,pt=o tempo,tr=zaman,ar=الوقت,ru=время,pl=czas,uk=час|
+das Jahr|zwölf Monate|A1|ALL|INT|Dieses Jahr fahren wir in die Berge.|en=year,es=el año,fr=l'année,it=l'anno,pt=o ano,tr=yıl,ar=السنة,ru=год,pl=rok,uk=рік|
+der Tag|Zeitraum von 24 Stunden|A1|ALL|INT|Der Tag beginnt mit einem Kaffee.|en=day,es=el día,fr=le jour,it=il giorno,pt=o dia,tr=gün,ar=اليوم,ru=день,pl=dzień,uk=день|
+das Kind|junger Mensch|A1|familie,alltag,bildung|INT|Das Kind spielt im Garten.|en=child,es=el niño,fr=l'enfant,it=il bambino,pt=a criança,tr=çocuk,ar=الطفل,ru=ребёнок,pl=dziecko,uk=дитина|
+die Frau|erwachsene weibliche Person|A1|ALL|INT|Die Frau liest ein Buch.|en=the woman,es=la mujer,fr=la femme,it=la donna,pt=a mulher,tr=kadın,ar=المرأة,ru=женщина,pl=kobieta,uk=жінка|
+das Wasser|Flüssigkeit zum Trinken|A1|alltag,gastro,gesundheit|INT|Bitte bring mir ein Glas Wasser.|en=water,es=el agua,fr=l'eau,it=l'acqua,pt=a água,tr=su,ar=الماء,ru=вода,pl=woda,uk=вода|
+die Stadt|grosse Siedlung|A1|alltag,reisen,behoerden|INT|Die Stadt hat viele alte Häuser.|en=city,es=la ciudad,fr=la ville,it=la città,pt=a cidade,tr=şehir,ar=المدينة,ru=город,pl=miasto,uk=місто|
+das Haus|Gebäude zum Wohnen|A1|wohnen,bau,alltag|INT|Das Haus liegt an einer ruhigen Strasse.|en=house,es=la casa,fr=la maison,it=la casa,pt=a casa,tr=ev,ar=المنزل,ru=дом,pl=dom,uk=будинок|
+die Wohnung|Mietraum zum Wohnen|A1|wohnen,alltag|INT|Die Wohnung hat drei Zimmer.|en=flat,es=el piso,fr=l'appartement,it=l'appartamento,pt=o apartamento,tr=daire,ar=الشقة,ru=квартира,pl=mieszkanie,uk=квартира|
+das Zimmer|Raum in einer Wohnung|A1|wohnen,alltag|INT|Mein Zimmer ist hell und warm.|en=room,es=la habitación,fr=la chambre,it=la stanza,pt=o quarto,tr=oda,ar=الغرفة,ru=комната,pl=pokój,uk=кімната|
+die Tür|Eingang eines Raumes|A1|wohnen,alltag,bau|INT|Bitte schliess die Tür leise.|en=door,es=la puerta,fr=la porte,it=la porta,pt=a porta,tr=kapı,ar=الباب,ru=дверь,pl=drzwi,uk=двері|
+das Fenster|Öffnung für Licht|A1|wohnen,bau,alltag|INT|Das Fenster steht heute offen.|en=window,es=la ventana,fr=la fenêtre,it=la finestra,pt=a janela,tr=pencere,ar=النافذة,ru=окно,pl=okno,uk=вікно|
+der Tisch|Möbelstück zum Essen|A1|wohnen,gastro,buero|INT|Das Essen steht schon auf dem Tisch.|en=table,es=la mesa,fr=la table,it=il tavolo,pt=a mesa,tr=masa,ar=الطاولة,ru=стол,pl=stół,uk=стіл|
+der Stuhl|Sitzmöbel|A1|wohnen,buero,gastro|INT|Nimm dir einen Stuhl und setz dich.|en=chair,es=la silla,fr=la chaise,it=la sedia,pt=a cadeira,tr=sandalye,ar=الكرسي,ru=стул,pl=krzesło,uk=стіл|
+die Strasse|befestigter Weg|A1|alltag,reisen,bau|INT|Die Strasse führt zum Bahnhof.|en=street,es=la calle,fr=la rue,it=la strada,pt=a rua,tr=sokak,ar=الشارع,ru=улица,pl=ulica,uk=вулиця|
+der Weg|Strecke zu einem Ziel|A1|alltag,reisen|INT|Der Weg zum See ist kurz.|en=way,es=el camino,fr=le chemin,it=la strada,pt=o caminho,tr=yol,ar=الطريق,ru=путь,pl=droga,uk=шлях|
+das Auto|Fahrzeug mit Motor|A1|alltag,reisen,technik|INT|Das Auto steht vor dem Haus.|en=car,es=el coche,fr=la voiture,it=l'auto,pt=o carro,tr=araba,ar=السيارة,ru=машина,pl=samochód,uk=автомобіль|
+der Zug|Fahrzeug auf Schienen|A1|reisen,alltag,logistik|INT|Der Zug fährt um acht Uhr.|en=train,es=el tren,fr=le train,it=il treno,pt=o comboio,tr=tren,ar=القطار,ru=поезд,pl=pociąg,uk=потяг|
+der Bus|Fahrzeug im Nahverkehr|A1|reisen,alltag|INT|Der Bus kommt in fünf Minuten.|en=bus,es=el autobús,fr=le bus,it=l'autobus,pt=o autocarro,tr=otobüs,ar=الحافلة,ru=автобус,pl=autobus,uk=автобус|
+der Bahnhof|Ort für Züge|A1|reisen,alltag|INT|Wir treffen uns am Bahnhof.|en=station,es=la estación,fr=la gare,it=la stazione,pt=a estação,tr=istasyon,ar=محطة القطار,ru=вокзал,pl=dworzec,uk=вокзал|
+die Arbeit|Tätigkeit oder Stelle|A1|arbeit,buero|INT|Die Arbeit macht mir Spass.|en=work,es=el trabajo,fr=le travail,it=il lavoro,pt=o trabalho,tr=iş,ar=العمل,ru=работа,pl=praca,uk=робота|
+der Freund|nahestehender Mensch|A1|familie,alltag,freizeit|INT|Mein Freund kommt zu Besuch.|en=friend,es=el amigo,fr=l'ami,it=l'amico,pt=o amigo,tr=arkadaş,ar=الصديق,ru=друг,pl=przyjaciel,uk=друг|
+die Familie|Eltern und Kinder|A1|familie,alltag|INT|Meine Familie wohnt in Bern.|en=family,es=la familia,fr=la famille,it=la famiglia,pt=a família,tr=aile,ar=العائلة,ru=семья,pl=rodzina,uk=родина|
+der Name|Bezeichnung einer Person|A1|ALL|INT|Wie ist Ihr Name bitte?|en=name,es=el nombre,fr=le nom,it=il nome,pt=o nome,tr=isim,ar=الاسم,ru=имя,pl=imię,uk=ім'я|
+das Geld|Zahlungsmittel|A1|bank,einkaufen,alltag|INT|Ich habe kein Geld mehr dabei.|en=money,es=el dinero,fr=l'argent,it=i soldi,pt=o dinheiro,tr=para,ar=المال,ru=деньги,pl=pieniądze,uk=гроші|
+der Preis|Betrag einer Ware|A1|einkaufen,bank,alltag|INT|Der Preis für das Brot ist gestiegen.|en=price,es=el precio,fr=le prix,it=il prezzo,pt=o preço,tr=fiyat,ar=السعر,ru=цена,pl=cena,uk=ціна|
+der Laden|Geschäft zum Einkaufen|A1|einkaufen,alltag|INT|Der Laden öffnet um neun Uhr.|en=shop,es=la tienda,fr=le magasin,it=il negozio,pt=a loja,tr=dükkan,ar=المتجر,ru=магазин,pl=sklep,uk=крамниця|
+der Markt|Ort zum Handeln|A1|einkaufen,alltag,freizeit|INT|Am Samstag gehen wir auf den Markt.|en=market,es=el mercado,fr=le marché,it=il mercato,pt=o mercado,tr=pazar,ar=السوق,ru=рынок,pl=rynek,uk=ринок|
+die Schule|Ort zum Lernen|A1|bildung,familie,alltag|INT|Die Schule beginnt um acht Uhr.|en=school,es=la escuela,fr=l'école,it=la scuola,pt=a escola,tr=okul,ar=المدرسة,ru=школа,pl=szkoła,uk=школа|
+der Lehrer|Person die unterrichtet|A1|bildung,arbeit|INT|Der Lehrer erklärt die Aufgabe noch einmal.|en=teacher,es=el profesor,fr=le professeur,it=l'insegnante,pt=o professor,tr=öğretmen,ar=المعلم,ru=учитель,pl=nauczyciel,uk=вчитель|
+der Kurs|Unterrichtsreihe|A1|bildung,arbeit|INT|Ich besuche einen Kurs in Deutsch.|en=course,es=el curso,fr=le cours,it=il corso,pt=o curso,tr=kurs,ar=الدورة,ru=курс,pl=kurs,uk=курс|
+die Sprache|System zum Sprechen|A1|bildung,alltag,buero|INT|Deutsch ist eine schwere Sprache.|en=language,es=el idioma,fr=la langue,it=la lingua,pt=a língua,tr=dil,ar=اللغة,ru=язык,pl=język,uk=мова|
+das Wort|kleinste Spracheinheit|A1|bildung,alltag|INT|Ich verstehe dieses Wort nicht.|en=word,es=la palabra,fr=le mot,it=la parola,pt=a palavra,tr=kelime,ar=الكلمة,ru=слово,pl=słowo,uk=слово|
+die Frage|Satz der Antwort verlangt|A1|ALL|INT|Ich habe eine Frage an Sie.|en=question,es=la pregunta,fr=la question,it=la domanda,pt=a pergunta,tr=soru,ar=السؤال,ru=вопрос,pl=pytanie,uk=питання|
+die Antwort|Erwiderung auf eine Frage|A1|ALL|INT|Die Antwort war leider falsch.|en=answer,es=la respuesta,fr=la réponse,it=la risposta,pt=a resposta,tr=cevap,ar=الجواب,ru=ответ,pl=odpowiedź,uk=відповідь|
+die Zeitung|gedruckte Nachrichten|A1|alltag,bildung,freizeit|INT|Ich lese die Zeitung am Morgen.|en=newspaper,es=el periódico,fr=le journal,it=il giornale,pt=o jornal,tr=gazete,ar=الصحيفة,ru=газета,pl=gazeta,uk=газета|
+der Arzt|medizinische Fachperson|A1|gesundheit,behoerden,arbeit|INT|Der Arzt kommt gleich zu Ihnen.|en=doctor,es=el médico,fr=le médecin,it=il medico,pt=o médico,tr=doktor,ar=الطبيب,ru=врач,pl=lekarz,uk=лікар|
+die Apotheke|Geschäft für Medikamente|A1|gesundheit,einkaufen,behoerden|INT|Die Apotheke ist heute geschlossen.|en=pharmacy,es=la farmacia,fr=la pharmacie,it=la farmacia,pt=a farmácia,tr=eczane,ar=الصيدلية,ru=аптека,pl=apteka,uk=аптека|
+der Termin|vereinbarter Zeitpunkt|A1|gesundheit,buero,behoerden|INT|Ich habe morgen einen Termin beim Arzt.|en=appointment,es=la cita,fr=le rendez-vous,it=l'appuntamento,pt=a consulta,tr=randevu,ar=الموعد,ru=приём,pl=termin,uk=прийом|
+die Hilfe|Unterstützung|A1|ALL|INT|Danke für Ihre schnelle Hilfe.|en=help,es=la ayuda,fr=l'aide,it=l'aiuto,pt=a ajuda,tr=yardım,ar=المساعدة,ru=помощь,pl=pomoc,uk=допомога|
+das Problem|schwierige Sache|A1|ALL|INT|Wir lösen das Problem gemeinsam.|en=problem,es=el problema,fr=le problème,it=il problema,pt=o problema,tr=sorun,ar=المشكلة,ru=проблема,pl=problem,uk=проблема|
+die Lösung|Antwort auf ein Problem|A1|arbeit,buero,bildung|INT|Die Lösung ist einfacher als gedacht.|en=solution,es=la solución,fr=la solution,it=la soluzione,pt=a solução,tr=çözüm,ar=الحل,ru=решение,pl=rozwiązanie,uk=рішення|
+der Grund|Ursache|A1|ALL|INT|Nennen Sie mir bitte den Grund.|en=reason,es=la razón,fr=la raison,it=la ragione,pt=o motivo,tr=neden,ar=السبب,ru=причина,pl=powód,uk=причина|
+der Platz|freie Fläche oder Sitzplatz|A1|alltag,reisen,wohnen|INT|Ist dieser Platz noch frei?|en=place,es=el sitio,fr=la place,it=il posto,pt=o lugar,tr=yer,ar=المكان,ru=место,pl=miejsce,uk=місце|
+die Nummer|Ziffernfolge|A1|telefon,behoerden,alltag|INT|Können Sie mir die Nummer geben?|en=number,es=el número,fr=le numéro,it=il numero,pt=o número,tr=numara,ar=الرقم,ru=номер,pl=numer,uk=номер|
+der Brief|schriftliche Nachricht|A1|behoerden,buero,alltag|INT|Der Brief ist heute gekommen.|en=letter,es=la carta,fr=la lettre,it=la lettera,pt=a carta,tr=mektup,ar=الرسالة,ru=письмо,pl=list,uk=лист|
+das Telefon|Gerät zum Anrufen|A1|telefon,buero,alltag|INT|Das Telefon klingelt schon wieder.|en=telephone,es=el teléfono,fr=le téléphone,it=il telefono,pt=o telefone,tr=telefon,ar=الهاتف,ru=телефон,pl=telefon,uk=телефон|
+die Stunde|Zeit von sechzig Minuten|A1|ALL|INT|Der Kurs dauert eine Stunde.|en=hour,es=la hora,fr=l'heure,it=l'ora,pt=a hora,tr=saat,ar=الساعة,ru=час,pl=godzina,uk=година|
+die Minute|sechzig Sekunden|A1|ALL|INT|Ich bin in einer Minute fertig.|en=minute,es=el minuto,fr=la minute,it=il minuto,pt=o minuto,tr=dakika,ar=الدقيقة,ru=минута,pl=minuta,uk=хвилина|
+die Woche|sieben Tage|A1|ALL|INT|Nächste Woche beginnt der Kurs.|en=week,es=la semana,fr=la semaine,it=la settimana,pt=a semana,tr=hafta,ar=الأسبوع,ru=неделя,pl=tydzień,uk=тиждень|
+der Monat|Teil eines Jahres|A1|ALL|INT|Der Monat Mai ist bei uns warm.|en=month,es=el mes,fr=le mois,it=il mese,pt=o mês,tr=ay,ar=الشهر,ru=месяц,pl=miesiąc,uk=місяць|
+der Abend|später Tagesabschnitt|A1|alltag,freizeit,gastro|INT|Am Abend treffen wir Freunde.|en=evening,es=la tarde,fr=le soir,it=la sera,pt=a noite,tr=akşam,ar=المساء,ru=вечер,pl=wieczór,uk=вечір|
+die Nacht|dunkle Tageszeit|A1|alltag,reisen,gesundheit|INT|Die Nacht war kurz und kalt.|en=night,es=la noche,fr=la nuit,it=la notte,pt=a noite,tr=gece,ar=الليل,ru=ночь,pl=noc,uk=ніч|
+das Wetter|Zustand der Luft|A1|alltag,reisen,freizeit|INT|Das Wetter ist heute schön.|en=weather,es=el tiempo,fr=le temps,it=il tempo,pt=o tempo,tr=hava,ar=الطقس,ru=погода,pl=pogoda,uk=погода|
+die Sonne|heller Himmelskörper|A1|alltag,reisen,freizeit|INT|Die Sonne scheint den ganzen Tag.|en=sun,es=el sol,fr=le soleil,it=il sole,pt=o sol,tr=güneş,ar=الشمس,ru=солнце,pl=słońce,uk=сонце|
+der Regen|fallendes Wasser|A1|alltag,reisen|INT|Nach dem Regen wird es kühler.|en=rain,es=la lluvia,fr=la pluie,it=la pioggia,pt=a chuva,tr=yağmur,ar=المطر,ru=дождь,pl=deszcz,uk=дощ|
+die Farbe|Eigenschaft von Flächen|A1|alltag,handwerk,einkaufen|INT|Welche Farbe hat dein Auto?|en=colour,es=el color,fr=la couleur,it=il colore,pt=a cor,tr=renk,ar=اللون,ru=цвет,pl=kolor,uk=колір|
+der Ball|runder Spielgegenstand|A1|freizeit,alltag|INT|Die Kinder spielen mit dem Ball.|en=ball,es=el balón,fr=le ballon,it=la palla,pt=a bola,tr=top,ar=الكرة,ru=мяч,pl=piłka,uk=м'яч|

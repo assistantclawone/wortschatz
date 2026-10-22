@@ -1,0 +1,60 @@
+können|Fähigkeit haben|A1|ALL|INT|Sie können heute leider nicht kommen.|en=can,es=poder,fr=pouvoir,it=potere,pt=poder,tr=edebilmek,ar=يستطيع,ru=уметь,pl=móc,uk=вміти|
+wollen|Absicht haben|A1|ALL|INT|Wir wollen am Samstag einkaufen gehen.|en=want,es=querer,fr=vouloir,it=volere,pt=querer,tr=istemek,ar=يريد,ru=хотеть,pl=chcieć,uk=хотіти|
+sollen|Verpflichtung haben|A1|ALL|INT|Du sollen heute noch einkaufen gehen.|en=should,es=deber,fr=devoir,it=dovere,pt=dever,tr=melı,ar=ينبغي,ru=должен,pl=powinien,uk=повинен|
+dürfen|Erlaubnis haben|A1|ALL|INT|Hier dürfen Kinder ruhig spielen.|en=may,es=poder,fr=pouvoir,it=potere,pt=poder,tr=izinli,ar=يسمح,ru=сметь,pl=móc,uk=сміти|
+müssen|Notwendigkeit haben|A1|ALL|INT|Wir müssen den Brief noch abschicken.|en=must,es=deber,fr=devoir,it=dovere,pt=dever,tr=zorunda,ar=يجب,ru=должен,pl=musieć,uk=мусити|
+heißen|Namen haben|A1|ALL|INT|Wie heißen die beiden Kinder dort?|en=be called,es=llamarse,fr=s'appeler,it=chiamarsi,pt=chamar-se,tr=adlanmak,ar=يسمى,ru=называться,pl=nazywać się,uk=зватися|
+finden|als gut empfinden|A1|ALL|INT|Sie finden die Idee ziemlich gut.|en=find,es=encontrar,fr=trouver,it=trovare,pt=achar,tr=bulmak,ar=يجد,ru=находить,pl=znajdować,uk=знаходити|
+suchen|nach etwas suchen|A1|alltag,wohnen,buero|INT|Wir suchen den Schlüssel schon lange.|en=search,es=buscar,fr=chercher,it=cercare,pt=procurar,tr=aramak,ar=يبحث,ru=искать,pl=szukać,uk=шукати|
+fragen|eine Frage stellen|A1|ALL|INT|Darf ich dich etwas fragen?|en=ask,es=preguntar,fr=demander,it=chiedere,pt=perguntar,tr=sormak,ar=يسأل,ru=спрашивать,pl=pytać,uk=питати|
+antworten|eine Antwort geben|A1|ALL|INT|Wir antworten schnell auf jede E-Mail.|en=answer,es=responder,fr=répondre,it=rispondere,pt=responder,tr=yanıtlamak,ar=يجيب,ru=отвечать,pl=odpowiadać,uk=відповідати|
+öffnen|aufmachen|A1|alltag,einkaufen,buero|INT|Bitte öffnen Sie das Fenster ein wenig.|en=open,es=abrir,fr=ouvrir,it=aprire,pt=abrir,tr=açmak,ar=يفتح,ru=открывать,pl=otwierać,uk=відчиняти|
+schließen|zumachen|A1|alltag,einkaufen,buero|INT|Wir schließen den Laden um acht Uhr.|en=close,es=cerrar,fr=fermer,it=chiudere,pt=fechar,tr=kapatmak,ar=يغلق,ru=закрывать,pl=zamykać,uk=зачиняти|
+wohnen|seinen Wohnsitz haben|A1|wohnen,alltag|INT|Wir wohnen seit Mai in dieser Straße.|en=live,es=vivir,fr=habiter,it=abitare,pt=morar,tr=oturmak,ar=يسكن,ru=жить,pl=mieszkać,uk=мешкати|
+mieten|gegen Geld nutzen|A1|wohnen,bank|INT|Wir mieten eine kleine Wohnung am See.|en=rent,es=alquilar,fr=louer,it=affittare,pt=alugar,tr=kiralamak,ar=يستأجر,ru=снимать,pl=wynajmować,uk=орендувати|
+bezahlen|Geld geben|A1|einkaufen,bank,gastro|INT|Wir bezahlen die Rechnung mit Karte.|en=pay,es=pagar,fr=payer,it=pagare,pt=pagar,tr=ödemek,ar=يدفع,ru=платить,pl=płacić,uk=платити|
+kosten|einen Preis haben|A1|einkaufen,gastro,reisen|INT|Wie viel kosten die beiden Brötchen?|en=cost,es=costar,fr=coûter,it=costare,pt=custar,tr=mal olmak,ar=يكلف,ru=стоить,pl=kosztować,uk=коштувати|
+geld|Zahlungsmittel|A1|bank,einkaufen|INT|Ich habe heute kein Geld dabei.|en=money,es=dinero,fr=argent,it=soldi,pt=dinheiro,tr=para,ar=نقود,ru=деньги,pl=pieniądze,uk=гроші|
+preis|Betrag einer Ware|A1|einkaufen|INT|Der Preis ist für mich zu hoch.|en=price,es=precio,fr=prix,it=prezzo,pt=preço,tr=fiyat,ar=سعر,ru=цена,pl=cena,uk=ціна|
+rechnung|Beleg über Zahlung|A1|gastro,einkaufen,bank|INT|Die Rechnung bekomme ich am Ende.|en=bill,es=factura,fr=facture,it=conto,pt=conta,tr=hesap,ar=فاتورة,ru=счёт,pl=rachunek,uk=рахунок|
+bestellen|eine Lieferung verlangen|A1|gastro,einkaufen|INT|Wir bestellen heute Abend eine Pizza.|en=order,es=pedir,fr=commander,it=ordinare,pt=pedir,tr=sipariş etmek,ar=يطلب,ru=заказывать,pl=zamawiać,uk=замовляти|
+liefern|an einen Ort bringen|A1|einkaufen,logistik|INT|Sie liefern die Ware am Montag vorbei.|en=deliver,es=entregar,fr=livrer,it=consegnare,pt=entregar,tr=teslim etmek,ar=يسلّم,ru=доставлять,pl=dostarczać,uk=доставляти|
+straße|befestigter Weg|A1|wohnen,reisen|INT|Die Straße ist morgens sehr voll.|en=street,es=calle,fr=rue,it=strada,pt=rua,tr=sokak,ar=شارع,ru=улица,pl=ulica,uk=вулиця|
+weg|Verbindung zum Gehen|A1|alltag,reisen|INT|Kennen Sie den Weg zum Bahnhof?|en=way,es=camino,fr=chemin,it=strada,pt=caminho,tr=yol,ar=طريق,ru=путь,pl=droga,uk=шлях|
+bahn|Zug im Nahverkehr|A1|reisen|DE|Mit der Bahn fahre ich lieber.|en=railway,es=ferrocarril,fr=chemin de fer,it=ferrovia,pt=ferrovia,tr=tren,ar=سكة حديد,ru=железная дорога,pl=kolej,uk=залізниця|
+bahnhof|Ort für Züge|A1|reisen|INT|Der Bahnhof liegt direkt im Zentrum.|en=station,es=estación,fr=gare,it=stazione,pt=estação,tr=istasyon,ar=محطة قطار,ru=вокзал,pl=dworzec,uk=вокзал|
+flughafen|Ort für Flugzeuge|A1|reisen|INT|Wir sind zwei Stunden vorher am Flughafen.|en=airport,es=aeropuerto,fr=aéroport,it=aeroporto,pt=aeroporto,tr=havalimanı,ar=مطار,ru=аэропорт,pl=lotnisko,uk=аеропорт|
+zug|Fahrzeug auf Schienen|A1|reisen|INT|Der Zug hat zwanzig Minuten Verspätung.|en=train,es=tren,fr=train,it=treno,pt=trem,tr=tren,ar=قطار,ru=поезд,pl=pociąg,uk=поїзд|
+fahrt|Weg mit Verkehrsmittel|A1|reisen|INT|Die Fahrt dauert etwa eine Stunde.|en=ride,es=viaje,fr=trajet,it=viaggio,pt=viagem,tr=yolculuk,ar=رحلة,ru=поездка,pl=przejazd,uk=поїздка|
+reise|Fahrt an fremden Ort|A1|reisen|INT|Die Reise nach Bern war sehr schön.|en=journey,es=viaje,fr=voyage,it=viaggio,pt=viagem,tr=seyahat,ar=سفر,ru=путешествие,pl=podróż,uk=подорож|
+hotel|Gebäude für Gäste|A1|reisen|INT|Wir haben ein Hotel im Zentrum gebucht.|en=hotel,es=hotel,fr=hôtel,it=hotel,pt=hotel,tr=otel,ar=فندق,ru=отель,pl=hotel,uk=готель|
+zimmer|Raum in Gebäude|A1|wohnen,reisen|INT|Das Zimmer ist hell und ruhig.|en=room,es=habitación,fr=chambre,it=stanza,pt=quarto,tr=oda,ar=غرفة,ru=комната,pl=pokój,uk=кімната|
+küche|Raum zum Kochen|A1|wohnen|INT|In der Küche steht ein kleiner Tisch.|en=kitchen,es=cocina,fr=cuisine,it=cucina,pt=cozinha,tr=mutfak,ar=مطبخ,ru=кухня,pl=kuchnia,uk=кухня|
+bad|Raum zum Waschen|A1|wohnen|INT|Das Bad ist leider schon besetzt.|en=bathroom,es=baño,fr=salle de bain,it=bagno,pt=banheiro,tr=banyo,ar=حمام,ru=ванная,pl=łazienka,uk=ванна|
+bett|Möbel zum Schlafen|A1|wohnen|INT|Das Bett steht direkt am Fenster.|en=bed,es=cama,fr=lit,it=letto,pt=cama,tr=yatak,ar=سرير,ru=кровать,pl=łóżko,uk=ліжко|
+tisch|Möbel mit Platte|A1|wohnen,gastro,buero|INT|Stell die Tassen bitte auf den Tisch.|en=table,es=mesa,fr=table,it=tavolo,pt=mesa,tr=masa,ar=طاولة,ru=стол,pl=stół,uk=стіл|
+stuhl|Sitzmöbel mit Lehne|A1|wohnen,gastro,buero|INT|Der Stuhl ist echt bequem.|en=chair,es=silla,fr=chaise,it=sedia,pt=cadeira,tr=sandalye,ar=كرسي,ru=стул,pl=krzesło,uk=стілець|
+schrank|Möbel zum Verstauen|A1|wohnen|INT|Die Schuhe stehen im Schrank unten.|en=cupboard,es=armario,fr=armoire,it=armadio,pt=armário,tr=dolap,ar=خزانة,ru=шкаф,pl=szafa,uk=шафа|
+lampe|Leuchte im Raum|A1|wohnen|INT|Die Lampe über dem Tisch ist kaputt.|en=lamp,es=lámpara,fr=lampe,it=lampada,pt=lâmpada,tr=lamba,ar=مصباح,ru=лампа,pl=lampa,uk=лампа|
+bild|Gemälde an Wand|A1|wohnen,freizeit|INT|Das Bild hängt im Wohnzimmer.|en=picture,es=cuadro,fr=tableau,it=quadro,pt=quadro,tr=resim,ar=صورة,ru=картина,pl=obraz,uk=картина|
+kleidung|Sachen zum Anziehen|A1|einkaufen|INT|Für die Reise brauche ich warme Kleidung.|en=clothing,es=ropa,fr=vêtements,it=abbigliamento,pt=roupa,tr=giysi,ar=ملابس,ru=одежда,pl=odzież,uk=одяг|
+hemd|Oberteil mit Kragen|A1|einkaufen|INT|Das Hemd ist mir eine Nummer zu klein.|en=shirt,es=camisa,fr=chemise,it=camicia,pt=camisa,tr=gömlek,ar=قميص,ru=рубашка,pl=koszula,uk=сорочка|
+hose|Kleidung für Beine|A1|einkaufen|INT|Diese Hose passt mir wirklich gut.|en=trousers,es=pantalón,fr=pantalon,it=pantaloni,pt=calça,tr=pantolon,ar=بنطال,ru=брюки,pl=spodnie,uk=штани|
+schuh|Kleidung für Fuss|A1|einkaufen|INT|Der rechte Schuh drückt ein wenig.|en=shoe,es=zapato,fr=chaussure,it=scarpa,pt=sapato,tr=ayakkabı,ar=حذاء,ru=обувь,pl=but,uk=взуття|
+jacke|Oberkleidung gegen Kälte|A1|einkaufen,alltag|INT|Nimm die Jacke mit, es ist kühl.|en=jacket,es=chaqueta,fr=veste,it=giacca,pt=jaqueta,tr=ceket,ar=سترة,ru=куртка,pl=kurtka,uk=куртка|
+farbe|Eigenschaft des Lichts|A1|einkaufen,alltag|INT|Welche Farbe hat deine neue Jacke?|en=colour,es=color,fr=couleur,it=colore,pt=cor,tr=renk,ar=لون,ru=цвет,pl=kolor,uk=колір|
+rot|Farbe wie Blut|A1|ALL|INT|Das rote Auto vorne ist meins.|en=red,es=rojo,fr=rouge,it=rosso,pt=vermelho,tr=kırmızı,ar=أحمر,ru=красный,pl=czerwony,uk=червоний|
+blau|Farbe wie Himmel|A1|ALL|INT|Die Bluse ist hell und blau.|en=blue,es=azul,fr=bleu,it=blu,pt=azul,tr=mavi,ar=أزرق,ru=синий,pl=niebieski,uk=синій|
+schwarz|dunkelste Farbe|A1|ALL|INT|Er trägt fast immer schwarze Schuhe.|en=black,es=negro,fr=noir,it=nero,pt=preto,tr=siyah,ar=أسود,ru=чёрный,pl=czarny,uk=чорний|
+weiss|hellste Farbe|A1|ALL|INT|Das weiss Hemd liegt im Schrank.|en=white,es=blanco,fr=blanc,it=bianco,pt=branco,tr=beyaz,ar=أبيض,ru=белый,pl=biały,uk=білий|
+schnell|mit hoher Geschwindigkeit|A1|ALL|INT|Der Zug ist schneller als der Bus.|en=fast,es=rápido,fr=rapide,it=veloce,pt=rápido,tr=hızlı,ar=سريع,ru=быстрый,pl=szybki,uk=швидкий|
+langsam|mit geringer Geschwindigkeit|A1|ALL|INT|Bitte sprich ein bisschen langsamer.|en=slow,es=lento,fr=lent,it=lento,pt=devagar,tr=yavaş,ar=بطيء,ru=медленный,pl=wolny,uk=повільний|
+warm|mittlere Hitze|A1|alltag,gesundheit|INT|Heute ist es angenehm warm draußen.|en=warm,es=caliente,fr=chaud,it=caldo,pt=quente,tr=sıcak,ar=دافئ,ru=тёплый,pl=ciepły,uk=теплий|
+kalt|niedrige Temperatur|A1|alltag,gesundheit|INT|Morgen wird es kalt und windig.|en=cold,es=frío,fr=froid,it=freddo,pt=frio,tr=soğuk,ar=بارد,ru=холодный,pl=zimny,uk=холодний|
+wetter|Zustand der Luft|A1|alltag,reisen|INT|Das Wetter bleibt die ganze Woche schön.|en=weather,es=tiempo,fr=météo,it=tempo,pt=tempo,tr=hava,ar=طقس,ru=погода,pl=pogoda,uk=погода|
+regen|fallendes Wasser|A1|alltag,reisen|INT|Es gibt heute Regen und starken Wind.|en=rain,es=lluvia,fr=pluie,it=pioggia,pt=chuva,tr=yağmur,ar=مطر,ru=дождь,pl=deszcz,uk=дощ|
+sonne|heller Stern am Tag|A1|alltag,reisen|INT|Endlich zeigt sich die Sonne wieder.|en=sun,es=sol,fr=soleil,it=sole,pt=sol,tr=güneş,ar=شمس,ru=солнце,pl=słońce,uk=сонце|
+schnee|weisse Flocken|A1|alltag,reisen|INT|Auf dem Berg liegt noch Schnee.|en=snow,es=nieve,fr=neige,it=neve,pt=neve,tr=kar,ar=ثلج,ru=снег,pl=śnieg,uk=сніг|
+wind|bewegte Luft|A1|alltag,reisen|INT|Der Wind kommt heute von Westen.|en=wind,es=viento,fr=vent,it=vento,pt=vento,tr=rüzgar,ar=ريح,ru=ветер,pl=wiatr,uk=вітер|
+himmel|Bereich über uns|A1|alltag,reisen|INT|Der Himmel ist heute wolkenlos.|en=sky,es=cielo,fr=ciel,it=cielo,pt=céu,tr=gökyüzü,ar=سماء,ru=небо,pl=niebo,uk=небо|
+auto|Fahrzeug mit Motor|A1|reisen,alltag|INT|Mein Auto steht hinter dem Haus.|en=car,es=coche,fr=voiture,it=macchina,pt=carro,tr=araba,ar=سيارة,ru=машина,pl=samochód,uk=авто|
