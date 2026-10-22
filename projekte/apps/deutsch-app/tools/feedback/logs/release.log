@@ -1,0 +1,9 @@
+2026-10-22T04:25:59Z tsc --noEmit
+2026-10-22T04:31:08Z vite build
+2026-10-22T04:33:41Z Stichprobe Wortdaten
+2026-10-22T04:33:41Z Build ok — docs/ aktualisieren
+2026-10-22T04:33:41Z dry-run (kein Push)
+2026-10-22T04:34:02Z tsc --noEmit
+2026-10-22T04:36:17Z vite build
+2026-10-22T04:38:33Z Stichprobe Wortdaten
+2026-10-22T04:38:33Z Build ok — docs/ aktualisieren
