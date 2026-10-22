@@ -1,9 +1,10 @@
 import { WORDS_A1 } from './words-a1'
 import { WORDS_A2 } from './words-a2'
 import { WORDS_B1 } from './words-b1'
+import { WORDS_B2 } from './words-b2'
 import type { Entry } from '../types'
 
-export const ALL_WORDS: Entry[] = [...WORDS_A1, ...WORDS_A2, ...WORDS_B1]
+export const ALL_WORDS: Entry[] = [...WORDS_A1, ...WORDS_A2, ...WORDS_B1, ...WORDS_B2]
 
 export const BY_LEVEL = {
   A1: ALL_WORDS.filter(w => w.level === 'A1'),

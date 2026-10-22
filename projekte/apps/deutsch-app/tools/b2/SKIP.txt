@@ -1,0 +1,18 @@
+# Wörter, die bewusst NICHT in B2 aufgenommen werden (handgepflegt).
+# Eine Zeile = ein Grundgruppen-Schluessel, danach "|" und die Wörter.
+# Zeilen mit "#" sind Kommentar. Die Gruppen werden im Report gezaehlt.
+# ---------------------------------------------------------------
+# 1) Funktionswörter/Flexionsformen ohne eigenen Lernwert
+funktionswort|den hat war einen hast dem mal ihn wird bist alles weiß geht oh hab los tun einem einer komm gibt okay deine soll werde nie würde tut des hatte willst kommt damit wäre wollte weißt gesagt nun wurde leid na kannst macht zurück lassen gott hätte waren lass klar leute wirst ihrem seinem ihren ihre seinen meinen deinen keiner solche welcher dieses jenem jene obendrein zwar vielmehr sämtliche einerlei zudem
+# 2) Englische Film-/Serienschwörter und Eigennamen
+englisch|the you new mr mrs hi hey yeah ok wow please sorry thanks thank good great man girl boy guys dude baby money police doctor captain general agent boss charlie mike joe tom sam mary peter john jack jimmy danny tony frank george harry bill billy steve nick rob bob eddie max gary rick jim matt chris jerry larry terry andy mom dad sir miss lucy ellen annie julie katie maggie molly mandy candy sandy susie vicky kyle jake josh chad justin brian ryan eric adam alex sean dean scott todd craig walker barton monsieur mademoiselle
+# 3) Vulgär/Fluchwörter (nicht Teil dieser Runde)
+vulgaer|scheiße scheiß arsch scheißkerl scheißer scheißkerle arschloch hölle fuck fucking fickt fotze verdammt verdammte verdammter verdammten verdammtes verpissen
+# 4) Slang/umgangssprachlich ohne B2-Anspruch
+slang|kumpel kumpels typen alter isse biste haste guck guckt klappe spinnt spinnst beknackt bescheuert bullen bulle knast dreck idioten
+# 5) Sexuelle/explizite Begriffe
+sexuell|schwanz sex sexuell schwul prostituierten pupsen
+# 6) Gewalt/Krimi-Sprache aus Film-Untertiteln ohne B2-Wert
+krimi|umgebracht umbringen ermordet mord mörder leichen erschossen erschießen knallt knall knarre pistole gewehr schwert waffe waffen töten tötet tote getötet verhaftet verhaftung polizeisirene gefängnis knast kolonie
+# 7) Kinder-/Koseformen, Verniedlichungen
+koseform|herzchen küsschen schätzchen bärchen schmusi schnucki mäuschen
