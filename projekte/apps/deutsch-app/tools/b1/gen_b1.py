@@ -17,10 +17,13 @@ LANGS = ["en", "es", "fr", "it", "pt", "tr", "ar", "ru", "pl", "uk"]
 
 
 def load_blocked():
-    p = os.path.join(HERE, "SPERRLISTE.txt")
-    if not os.path.exists(p):
-        return set()
-    return {l.strip().lower() for l in open(p, encoding="utf-8") if l.strip()}
+    blocked = set()
+    for name in ("SPERRLISTE.txt", "SPERRLISTE_B1.txt"):
+        p = os.path.join(HERE, name)
+        if not os.path.exists(p):
+            continue
+        blocked |= {l.strip().lower() for l in open(p, encoding="utf-8") if l.strip()}
+    return blocked
 
 
 def parse_line(raw, blocked):
