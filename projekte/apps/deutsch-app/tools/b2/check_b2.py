@@ -117,7 +117,8 @@ def main():
                 if "," in v:
                     errs.append(f"{eid}: Komma in Übersetzung ({lang}): {v}")
                 if lang == "en" and de and de.lower().endswith(("en", "ern", "eln")) \
-                        and not v.startswith("to "):
+                        and not de.lower().startswith(("der ", "die ", "das ")) \
+                        and not v.startswith(("to ", "the ")):
                     words_short += 1
                     errs.append(f"{eid}: Verb ohne 'to' in en: {de} -> {v}")
 

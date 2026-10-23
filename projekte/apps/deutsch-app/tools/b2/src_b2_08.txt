@@ -1,0 +1,20 @@
+bemängeln|etwas als Fehler kritisieren|arbeit,recht|Der Kunde bemängelt die Farbe der Lieferung.|to criticise|criticar|critiquer|criticare|criticar|kusur bulmak|يعيب|критиковать|krytykować|критикувати
+beschlagnahmen|etwas amtlich wegnehmen|behoerden,recht|Die Polizei beschlagnahmt den Wagen noch heute.|to confiscate|confiscar|confisquer|sequestrare|apreender|el koymak|يصادر|изымать|zarekwirować|вилучати
+entlasten|jemanden von einer Last befreien|arbeit,recht|Die neue Software entlastet das ganze Team.|to relieve|aliviar|soulager|alleggerire|aliviar|rahatlatmak|يخفف العبء|разгружать|odciążać|розвантажувати
+stilllegen|einen Betrieb dauerhaft stoppen|technik,arbeit|Die Firma stilllegt die alte Fabrik im Frühling.|to shut down|paralizar|fermer|chiudere|desativar|kapatmak|يوقف العمل|останавливать|wyłączać|зупиняти
+verjähren|nach Ablauf der Frist ungültig werden|recht|Solche Forderungen verjähren nach fünf Jahren.|to lapse|l prescribir|se prescrire|prescriversi|prescrever|zamanaşımına uğramak|يسقط بالتقادم|истекать|przedawnić się|спливати
+verwirklichen|einen Plan in die Tat umsetzen|arbeit,alltag|Sie will ihren Traum im nächsten Jahr verwirklichen.|to realise|realizar|réaliser|realizzare|realizar|gerçekleştirmek|يحقق|осуществлять|urzeczywistnić|здійснювати
+widerrufen|eine Erklärung zurücknehmen|recht,behoerden|Er widerruft seine Unterschrift beim Notar.|to revoke|revocar|révoquer|revocare|revogar|geri almak|يتراجع عن|отзывать|odwoływać|відкликати
+zurückfordern|verlangen dass Geld zurückkommt|bank,recht|Der Mieter zurückfordert die zu hohe Zahlung.|to reclaim|reclamar|réclamer|richiedere|reclamar|geri istemek|يطالب باسترداد|требовать назад|żądać zwrotu|вимагати повернення
+zusichern|jemandem etwas fest versprechen|behoerden,arbeit|Das Amt zusichert die Zahlung bis Ende Monat.|to guarantee|garantizar|garantir|garantire|garantir|temin etmek|يؤكد|гарантировать|zapewniać|гарантувати
+einbehalten|einen Teil des Geldes nicht auszahlen|bank,arbeit|Der Arbeitgeber einbehalten die Hälfte des Lohns.|to withhold|retener|retenir|trattenere|reter|kesinti yapmak|يحتفظ بجزء|удерживать|potrącać|утримувати
+herabsetzen|einen Preis oder Wert senken|bank|Die Gemeinde herabsetzt den Steuerwert deutlich.|to reduce|reducir|abaisser|ridurre|reduzir|düşürmek|يخفض|понижать|obniżać|знижувати
+nachzahlen|einen Betrag später begleichen|bank,behoerden|Er muss für das letzte Jahr nachzahlen.|to back-pay|pagar atrasos|payer en retard|sal dare|pagar em atraso|geri ödemek|يدفع متأخرات|доплачивать|dopłacać|доплачувати
+ausgleichen|einen Unterschied glätten|bank,arbeit|Die Firma ausgleicht den Verlust im Herbst.|to offset|compensar|compenser|compensare|compensar|dengelemek|يعوض|выравнивать|wyrównywać|вирівнювати
+erstatten|Geld zurückzahlen|bank,reisen|Die Kasse erstattet den vollen Betrag.|to refund|reembolsar|rembourser|rimborsare|reembolsar|geri ödemek|يعيد المبلغ|возвращать|zwracać|відшкодовувати
+aufbewahren|etwas sicher aufheben|alltag,behoerden|Bitte bewahren Sie die Quittung auf.|to keep|guardar|conserver|conservare|guardar|saklamak|يحفظ|хранить|przechowywać|зберігати
+anfechten|amtlich gegen etwas vorgehen|recht|Sie ficht den Entscheid beim Gericht an.|to appeal|impugnar|contester|impugnare|contestar|itiraz etmek|يطعن في|обжаловать|zaskarżyć|оскаржувати
+vermerken|etwas schriftlich festhalten|behoerden,arbeit|Der Beamte vermerkt den Eingang im System.|to note|anotar|noter|annotare|anotar|not düşmek|يدون|отмечать|odnotować|занотовувати
+vorlegen|etwas zur Prüfung zeigen|behoerden,arbeit|Er muss den Ausweis am Schalter vorlegen.|to present|presentar|présenter|presentare|apresentar|sunmak|يقدم|предъявлять|przedstawiać|подавати
+erlassen|amtlich eine Regel verfügen|behoerden,recht|Der Kanton erlässt eine neue Vorschrift.|to issue|dictar|édicter|emanare|emitir|yayımlamak|يصدر|издавать|wydawać|видавати
+übertragen|eine Aufgabe weitergeben|arbeit|Sie überträgt ihm die Leitung der Gruppe.|to delegate|delegar|déléguer|delegare|delegar|devretmek|يفوض|передавать|przekazywać|передавати
