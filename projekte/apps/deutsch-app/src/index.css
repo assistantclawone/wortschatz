@@ -101,6 +101,12 @@ input, select { font-family: inherit; font-size: inherit; }
 .dot-new { background: var(--blue); }
 .dot-due { background: var(--danger); }
 .dot-done { background: var(--accent); }
+.goal-counter { gap: 8px; }
+.goal-ring { display: inline-flex; align-items: center; }
+.streak-badge {
+  font-size: 12px; padding: 1px 7px; border-radius: 10px;
+  background: var(--surface-2); border: 1px solid var(--border);
+}
 
 .stage {
   flex: 1; display: flex; align-items: center; justify-content: center;

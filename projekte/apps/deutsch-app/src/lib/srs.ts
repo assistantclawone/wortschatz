@@ -9,6 +9,8 @@ export const DEFAULT_SETTINGS: Settings = {
   direction: 'beides',
   newPerDay: 10,
   reviewsPerDay: 120,
+  targetPerDay: 20,
+  daysPerWeek: 5,
   cats: ['alltag', 'behoerden', 'arbeit', 'gesundheit', 'wohnen', 'einkaufen',
          'reisen', 'familie', 'bildung', 'freizeit', 'telefon', 'bank',
          'gastro', 'handwerk', 'technik', 'pflege', 'logistik', 'bau', 'buero', 'recht'],

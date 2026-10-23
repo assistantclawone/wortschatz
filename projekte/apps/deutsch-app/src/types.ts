@@ -42,6 +42,9 @@ export interface Settings {
   direction: 'rezeptiv' | 'beides' | 'produktiv'
   newPerDay: number
   reviewsPerDay: number
+  // Lernplan (Renato 23.10.2026): Ziel pro Tag und Lerntage pro Woche.
+  targetPerDay?: number
+  daysPerWeek?: number
   cats: Category[]
   regions: Region[]
   slang: boolean

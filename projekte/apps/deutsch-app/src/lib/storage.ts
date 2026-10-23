@@ -9,6 +9,22 @@ const K_USER = 'ws.user.v1'
 
 export interface DailyCounter { date: string; newDone: number; reviewDone: number }
 
+/** Tagesziel aus dem Lernplan: Wörter pro Lerntag (targetPerDay aus den Einstellungen). */
+export function dailyTarget(s: Settings): number {
+  return Math.max(1, s.targetPerDay ?? 20)
+}
+
+/** Heutiger Fortschritt in Prozent des Tagesziels (0–100). */
+export function goalPercent(history: Record<string, number>, target: number, today = todayKeyStr()): number {
+  if (!(target > 0)) return 0
+  return Math.min(100, Math.round(((history[today] || 0) / target) * 100))
+}
+
+/** Wie viele Wörter fehlen heute noch bis zum Ziel? */
+export function goalLeft(history: Record<string, number>, target: number, today = todayKeyStr()): number {
+  return Math.max(0, target - (history[today] || 0))
+}
+
 export function loadSettings(): Settings {
   try {
     const raw = localStorage.getItem(K_SETTINGS)
@@ -54,6 +70,52 @@ export function loadDaily(today: string): DailyCounter {
 
 export function saveDaily(d: DailyCounter) {
   localStorage.setItem(K_DAILY, JSON.stringify(d))
+}
+
+/** Tages-Historie für Streak und Wochen-Rückblick (Renato 23.10.2026).
+ *  Ein Eintrag pro Tag: wie viele Karten insgesamt beantwortet wurden. */
+const K_HISTORY = 'ws.history.v1'
+
+export interface DayEntry { day: string; done: number }
+
+export function loadHistory(): Record<string, number> {
+  try {
+    const raw = localStorage.getItem(K_HISTORY)
+    const list: DayEntry[] = raw ? JSON.parse(raw) : []
+    const out: Record<string, number> = {}
+    for (const e of list) if (e && typeof e.day === 'string') out[e.day] = Number(e.done) || 0
+    return out
+  } catch { return {} }
+}
+
+export function saveHistory(h: Record<string, number>) {
+  // Nur die letzten 400 Tage behalten, damit der Speicher klein bleibt.
+  const days = Object.keys(h).sort().slice(-400)
+  const list: DayEntry[] = days.map(day => ({ day, done: h[day] }))
+  try { localStorage.setItem(K_HISTORY, JSON.stringify(list)) } catch { /* voller Speicher */ }
+}
+
+/** Wie viele Tage in Folge wurde das Tagesziel erreicht? 0 = Serie gerissen. */
+export function streak(history: Record<string, number>, target: number, today = todayKeyStr()): number {
+  if (!(target > 0)) return 0
+  let n = 0
+  const cursor = new Date(today + 'T12:00:00')
+  // Heute zählt mit, wenn das Ziel schon erreicht ist; sonst beginnt die Serie gestern.
+  if (!((history[todayKey(cursor)] || 0) >= target)) cursor.setDate(cursor.getDate() - 1)
+  while (true) {
+    const key = todayKey(cursor)
+    if ((history[key] || 0) >= target) { n++; cursor.setDate(cursor.getDate() - 1) } else break
+  }
+  return n
+}
+
+function todayKeyStr() {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
+function todayKey(d: Date) {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
 export interface User { email: string; name?: string }

@@ -9,6 +9,7 @@ import type { Rating } from './lib/srs'
 import {
   loadCards, saveCards, loadSettings, saveSettings,
   loadDaily, saveDaily, loadUser, saveUser, exportAll,
+  loadHistory, saveHistory, streak, goalPercent,
 } from './lib/storage'
 import type { User, DailyCounter } from './lib/storage'
 import { ALL_WORDS, BY_ID, LEVELS, levelIndex } from './data'
@@ -219,6 +220,30 @@ function Setup({ settings, patch, user, setUser, setCards, onStart }: {
         </div>
 
         <div className="field">
+          <label>Mein Lernplan</label>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginBottom: 10 }}>
+            {[10, 20, 30, 50].map(n => (
+              <button key={n} className={`chip ${(settings.targetPerDay ?? 20) === n ? 'on' : 'off'}`}
+                onClick={() => patch({ targetPerDay: n })}>
+                {n} Wörter/Tag
+              </button>
+            ))}
+          </div>
+          <div className="chips">
+            {[3, 5, 6, 7].map(n => (
+              <button key={n} className={`chip ${(settings.daysPerWeek ?? 5) === n ? 'on' : 'off'}`}
+                onClick={() => patch({ daysPerWeek: n })}>
+                {n} Tage/Woche
+              </button>
+            ))}
+          </div>
+          <p className="subtle" style={{ marginTop: 8, fontSize: 13 }}>
+            {(settings.targetPerDay ?? 20)} Wörter an {(settings.daysPerWeek ?? 5)} Tagen pro Woche
+            — das sind rund {Math.round((settings.targetPerDay ?? 20) * (settings.daysPerWeek ?? 5) / 7)} Wörter pro Tag im Schnitt.
+          </p>
+        </div>
+
+        <div className="field">
           <label>Wortschatz</label>
           <div className="chips">
             {byLevel.map(b => (
@@ -378,6 +403,16 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
   const [lastLevel, setLastLevel] = useState(0)
   const [sessionDone, setSessionDone] = useState(0)
   const [tick, setTick] = useState(0)
+  // Lernplan-Anzeige im Trainer (Renato 23.10.2026): Tagesziel + Streak sichtbar,
+  // damit das Ziel nicht nur in den Einstellungen steht.
+  const [history, setHistory] = useState<Record<string, number>>(() => loadHistory())
+  const dayTarget = Math.max(1, settings.targetPerDay ?? 20)
+  const todayDone = history[todayKey()] || 0
+  const serientage = streak(history, dayTarget)
+  // Fehlerkartei (Renato 23.10.2026): falsch beantwortete Karten kommen am
+  // Sessionende noch einmal — Korrekturlernen direkt nach dem Fehler.
+  const [mistakes, setMistakes] = useState<QueueItem[]>([])
+  const [inMistakeRound, setInMistakeRound] = useState(false)
   // WICHTIG: Alle Hooks muessen VOR jedem fruehzeitigen return stehen,
   // sonst aendert sich die Hook-Reihenfolge und React rendert eine schwarze
   // Seite (Renato 19.10.2026). Darum stehen die Sprech-Zustaende hier oben.
@@ -454,6 +489,28 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
     // Diagnose statt Sackgasse (Renato 18.10.2026): Der Nutzer muss sehen,
     // WARUM nichts kommt — und mit einem Klick weiterlernen können.
     const sichtbar = ALL_WORDS.filter(en => isVisible(en, settings)).length
+    // Fehlerkartei vor der Abschlussmeldung (Renato 23.10.2026):
+    // falsch beantwortete Karten kommen zuerst noch einmal dran.
+    if (mistakes.length > 0 && !inMistakeRound) {
+      return (
+        <div className="container" style={{ display: 'grid', placeItems: 'center', minHeight: '60vh' }}>
+          <div className="card" style={{ textAlign: 'center' }}>
+            <h2>Fehlerkartei: {mistakes.length} Karten 🔁</h2>
+            <p className="subtle">
+              Diese Wörter hast du heute falsch beantwortet. Jetzt noch einmal —
+              genau hier wirkt die Korrektur am besten.
+            </p>
+            <button className="btn btn-primary btn-block" style={{ marginTop: 14 }}
+              onClick={() => { setInMistakeRound(true); setQueue(mistakes); setMistakes([]); setIdx(0); setRevealed(false); setTyped('') }}>
+              Fehlerkartei starten
+            </button>
+            <button className="btn btn-secondary btn-block" style={{ marginTop: 8 }}
+              onClick={() => setMistakes([])}>Später</button>
+            <button className="btn btn-secondary btn-block" style={{ marginTop: 8 }} onClick={onExit}>Beenden</button>
+          </div>
+        </div>
+      )
+    }
     const grund = sichtbar === 0
       ? 'Deine Filter lassen gerade kein einziges Wort übrig (Lebensbereiche oder Regionen sind alle abgewählt).'
       : `Tageslimit erreicht: ${daily.newDone} neue Karten und ${daily.reviewDone} Wiederholungen heute.`
@@ -531,6 +588,14 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
     if (isNew(current.card)) setDaily(d => ({ ...d, newDone: d.newDone + 1 }))
     else setDaily(d => ({ ...d, reviewDone: d.reviewDone + 1 }))
 
+    // Fehlerkartei: falsch beantwortete Karte für die Schlussrunde merken.
+    // Ein Eintrag bleibt nur einmal drin, damit die Runde nicht endlos wird.
+    if (rating === 'wrong' || rating === 'again') {
+      setMistakes(m => (m.some(q => q.entry.id === e.id && q.dir === current.dir && q.kind === current.kind)
+        ? m
+        : [...m, { entry: e, card: next, dir: current.dir, kind: current.kind }]))
+    }
+
     // Niveau-Leiter: richtig -> nächste Stufe, falsch -> auf dem Niveau bleiben
     // (Vorgabe Renato 18.10.2026): A1 haeufigstes -> richtig -> A2 haeufigstes -> ...
     const passed = rating === 'right' || rating === 'good' || rating === 'easy'
@@ -562,6 +627,13 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
     setQueue(rest)
     setIdx(0)
     setSessionDone(x => x + 1)
+    // Tages-Historie: Grundlage für Tagesziel-Ring und Streak (Renato 23.10.2026).
+    setHistory(h => {
+      const key = todayKey()
+      const next = { ...h, [key]: (h[key] || 0) + 1 }
+      saveHistory(next)
+      return next
+    })
   }
 
   const reveal = () => {
@@ -657,6 +729,18 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
         <div className="counter"><span className="dot dot-new" />{Math.max(0, settings.newPerDay - daily.newDone)}</div>
         <div className="counter"><span className="dot dot-due" />{queue.length}</div>
         <div className="counter"><span className="dot dot-done" />{sessionDone}</div>
+        <div className="counter goal-counter" title={`Tagesziel: ${dayTarget} Wörter`}>
+          <span className="goal-ring" aria-hidden="true">
+            <svg viewBox="0 0 36 36" width="16" height="16">
+              <circle cx="18" cy="18" r="15" fill="none" stroke="var(--border)" strokeWidth="5" />
+              <circle cx="18" cy="18" r="15" fill="none" stroke="var(--accent)" strokeWidth="5"
+                strokeDasharray={`${(goalPercent(history, dayTarget) / 100) * 94.2} 94.2`}
+                strokeLinecap="round" transform="rotate(-90 18 18)" />
+            </svg>
+          </span>
+          {todayDone}/{dayTarget}
+          {serientage > 1 && <span className="streak-badge" title={`${serientage} Tage in Folge`}>🔥 {serientage}</span>}
+        </div>
         <span style={{ flex: 1 }} />
         {settings.timer && <span>{String(Math.floor(elapsed / 60)).padStart(2, '0')}:{String(elapsed % 60).padStart(2, '0')}</span>}
         <button className="icon-btn" onClick={onExit} title="Beenden">✕</button>
