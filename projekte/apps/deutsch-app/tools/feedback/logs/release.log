@@ -8,3 +8,17 @@
 2026-10-22T04:38:33Z Stichprobe Wortdaten
 2026-10-22T04:38:33Z Build ok — docs/ aktualisieren
 2026-10-22T04:38:33Z ABBRUCH git push fehlgeschlagen
+2026-10-22T07:52:41Z tsc --noEmit
+2026-10-22T07:54:29Z vite build
+2026-10-22T07:54:49Z Stichprobe Wortdaten
+2026-10-22T07:54:49Z Build ok — docs/ aktualisieren
+2026-10-22T07:54:49Z dry-run (kein Push)
+2026-10-23T02:40:13Z tsc --noEmit
+2026-10-23T02:45:33Z vite build
+2026-10-23T02:47:45Z Stichprobe Wortdaten
+2026-10-23T02:47:45Z Build ok — docs/ aktualisieren
+2026-10-23T02:47:45Z dry-run (kein Push)
+2026-10-23T19:22:03Z tsc --noEmit
+2026-10-23T19:25:41Z vite build
+2026-10-23T19:31:47Z Stichprobe Wortdaten
+2026-10-23T19:31:47Z Build ok — docs/ aktualisieren
