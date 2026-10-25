@@ -804,6 +804,7 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
         <button className="icon-btn" onClick={onExit} title="Beenden">✕</button>
       </div>
 
+      <div className="trainer-scroll">
       {hoeren ? (
         <div className="stage">
           <div className="flashcard">
@@ -918,7 +919,18 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
                 <div className="answer-sentence">{e.sentenceFull}</div>
               )}
               {current.kind === 'wort' && settings.cardTypes !== 'satz' && (
-                <div className="meaning">{e.sentenceFull}</div>
+                <>
+                  <div className="meaning">{e.sentenceFull}</div>
+                  {/* Satzuebersetzung (Renato 25.10.2026): Der Lerner muss den
+                      Beispielsatz auch verstehen. Fehlt die Uebersetzung noch,
+                      bleibt der deutsche Satz allein stehen. */}
+                  {(() => {
+                    const spr = (settings.explain && settings.explain !== 'auto')
+                      ? settings.explain : settings.native
+                    const u = e.trSentence?.[spr]
+                    return u ? <div className="sentence-tr">{u}</div> : null
+                  })()}
+                </>
               )}
               {current.dir === 'rec' && (
                 <div className="subtle" style={{ fontSize: 13 }}>
@@ -941,6 +953,7 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
         </div>
       </div>
       )}
+      </div>
 
       {revealed && !hoeren && (
         settings.evalMode === 'einfach' ? (

@@ -91,10 +91,15 @@ input, select { font-family: inherit; font-size: inherit; }
 .card + .card { margin-top: 16px; }
 
 /* ---------- Trainer ---------- */
-.trainer { display: flex; flex-direction: column; min-height: 100%; }
+.trainer {
+  display: flex; flex-direction: column;
+  height: 100vh; height: 100dvh; min-height: 100%;
+  overflow: hidden;
+}
 .trainer-top {
   display: flex; align-items: center; gap: 16px; padding: 10px 20px;
   font-size: 14px; color: var(--text-dim); border-bottom: 1px solid var(--border);
+  flex: 0 0 auto;
 }
 .counter { display: flex; align-items: center; gap: 6px; font-variant-numeric: tabular-nums; }
 .counter .dot { width: 8px; height: 8px; border-radius: 50%; }
@@ -108,9 +113,15 @@ input, select { font-family: inherit; font-size: inherit; }
   background: var(--surface-2); border: 1px solid var(--border);
 }
 
+/* Bewertungstasten bleiben immer sichtbar; nur die Karte scrollt
+   (Renato 25.10.2026: «gut/schwierig» sollen ohne Scrollen klickbar sein). */
+.trainer-scroll {
+  flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain;
+  display: flex; flex-direction: column;
+}
 .stage {
-  flex: 1; display: flex; align-items: center; justify-content: center;
-  padding: 24px 20px;
+  flex: 1 0 auto; display: flex; align-items: center; justify-content: center;
+  padding: 20px 20px 16px;
 }
 .flashcard {
   width: 100%; max-width: 620px; background: var(--surface);
@@ -124,6 +135,9 @@ input, select { font-family: inherit; font-size: inherit; }
 .answer { font-size: 24px; font-weight: 500; color: var(--accent); }
 .answer-sentence { font-size: 19px; line-height: 1.5; }
 .meaning { font-size: 15px; color: var(--text-dim); font-style: italic; }
+/* Uebersetzung des Beispielsatzes — etwas kleiner als der deutsche Satz,
+   damit die Sprachrichtung klar bleibt (Renato 25.10.2026). */
+.sentence-tr { font-size: 14px; color: var(--text-dim); margin-top: -18px; }
 
 .answer-input {
   width: 100%; padding: 16px 18px; font-size: 20px; text-align: center;
@@ -144,8 +158,10 @@ input, select { font-family: inherit; font-size: inherit; }
 
 /* ---------- Bewertungsleiste ---------- */
 .gradebar {
-  display: grid; gap: 10px; padding: 0 20px 24px;
-  max-width: 660px; margin: 0 auto; width: 100%;
+  display: grid; gap: 10px; padding: 10px 20px calc(14px + env(safe-area-inset-bottom));
+  max-width: 660px; margin: 0 auto; width: 100%; flex: 0 0 auto;
+  background: var(--bg); border-top: 1px solid var(--border);
+  box-shadow: 0 -12px 24px -18px rgba(0,0,0,.7);
 }
 .gradebar.g2 { grid-template-columns: 1fr 1fr; }
 .gradebar.g4 { grid-template-columns: repeat(4, 1fr); }
