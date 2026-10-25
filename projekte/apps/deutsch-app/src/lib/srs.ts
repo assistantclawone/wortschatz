@@ -24,6 +24,8 @@ export const DEFAULT_SETTINGS: Settings = {
   maxLevel: 'A1',
   audioMode: 'manual',
   autoplay: false,
+  listen: 'aus',
+  examSize: 20,
 }
 
 export const LEARNING_STEPS_MIN = [1, 10, 1440]   // Vorgabe 43: 1 Min -> 10 Min -> 1 Tag

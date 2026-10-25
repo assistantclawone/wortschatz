@@ -55,7 +55,7 @@ function speak(text: string, on: boolean) {
 
 /* ============================ App ============================ */
 
-type View = 'setup' | 'trainer' | 'stats' | 'settings' | 'admin' | 'preise'
+type View = 'setup' | 'trainer' | 'stats' | 'settings' | 'admin' | 'preise' | 'exam'
 
 export function App() {
   const [settings, setSettings] = useState<Settings>(DEFAULT_SETTINGS)
@@ -117,6 +117,9 @@ export function App() {
         {view !== 'trainer' && (
           <button className="icon-btn" onClick={() => setView('stats')} title="Fortschritt">📊</button>
         )}
+        {view !== 'exam' && view !== 'trainer' && (
+          <button className="icon-btn" onClick={() => setView('exam')} title="Prüfung: Stand messen">🎓</button>
+        )}
         {view !== 'settings' && (
           <button className="icon-btn" onClick={() => setView('settings')} title="Einstellungen">⚙️</button>
         )}
@@ -135,6 +138,7 @@ export function App() {
         setUser={setUser} setCards={setCards} onStart={() => setView('trainer')} />}
       {view === 'trainer' && <Trainer settings={settings} patch={patch} cards={cards} setCards={setCards}
         daily={daily} setDaily={setDaily} onExit={() => setView('setup')} />}
+      {view === 'exam' && <Exam settings={settings} onBack={() => setView('setup')} />}
       {view === 'stats' && <Stats cards={cards} settings={settings} onBack={() => setView('setup')} />}
       {view === 'settings' && <SettingsView settings={settings} patch={patch} user={user}
         setUser={setUser} onBack={() => setView('setup')} />}
@@ -413,6 +417,13 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
   // Sessionende noch einmal — Korrekturlernen direkt nach dem Fehler.
   const [mistakes, setMistakes] = useState<QueueItem[]>([])
   const [inMistakeRound, setInMistakeRound] = useState(false)
+  // Hoermodus (Renato 24.10.2026): Die Karte zeigt keine Schrift, das Wort wird
+  // gesprochen, die Bedeutung wird aus vier Moeglichkeiten gewaehlt. Kein Server,
+  // keine Kosten — die Sprachausgabe kommt aus dem Browser.
+  const [hoeren, setHoeren] = useState(false)
+  const [hoerWahl, setHoerWahl] = useState<string[]>([])
+  const [hoerPick, setHoerPick] = useState<string | null>(null)
+  const [levelErrors, setLevelErrors] = useState(0)
   // WICHTIG: Alle Hooks muessen VOR jedem fruehzeitigen return stehen,
   // sonst aendert sich die Hook-Reihenfolge und React rendert eine schwarze
   // Seite (Renato 19.10.2026). Darum stehen die Sprech-Zustaende hier oben.
@@ -462,6 +473,34 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
     () => ankiDiff(typed, checkTarget),
     [typed, checkTarget],
   )
+
+  // Hoermodus: Wort beim Kartenwechsel hoeren, vier Bedeutungen vorbereiten.
+  // Die Auswahl wird nicht gespeichert — sie entsteht bei jeder Karte neu.
+  useEffect(() => {
+    if (!hoeren || !curEntry) return
+    const richtig = curEntry.tr[settings.native] || curEntry.de
+    const falsch: string[] = []
+    const pool = ALL_WORDS.filter(en => en.level === curEntry.level && en.id !== curEntry.id)
+    for (let i = 0; i < pool.length && falsch.length < 3; i++) {
+      const kandidat = pool[Math.floor(Math.random() * pool.length)]
+      const w = kandidat.tr[settings.native] || kandidat.de
+      if (w && w !== richtig && !falsch.includes(w)) falsch.push(w)
+    }
+    const alle = [richtig, ...falsch]
+    for (let i = alle.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[alle[i], alle[j]] = [alle[j], alle[i]]
+    }
+    setHoerWahl(alle)
+    setHoerPick(null)
+    speak(curEntry.de, settings.audio)
+  }, [hoeren, idx, current?.card.id])
+
+  const hoerAntwort = (wahl: string) => {
+    if (hoerPick) return
+    setHoerPick(wahl)
+    setRevealed(true)
+  }
 
   // Timer für «fällig in»
   useEffect(() => {
@@ -601,19 +640,36 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
     const passed = rating === 'right' || rating === 'good' || rating === 'easy'
     const entryLvl = levelIndex(e.level)
     const curLvl = levelIndex(settings.maxLevel)
-    // richtig -> eine Stufe hoch, falsch -> eine Stufe runter (Renato 18.10.2026)
+    // Leiter über Mastery statt über Einzelkarten (Evidenz-Audit 18.10.2026):
+    // Aufsteigen erst, wenn das aktuelle Niveau wirklich sitzt — mindestens
+    // 80 % der sichtbaren Wörter dieses Niveaus mit Intervall >= 21 Tagen.
+    // Ein Fehler stuft NICHT mehr sofort herunter; erst drei Fehler in Folge
+    // auf dem aktuellen Niveau führen eine Stufe zurück.
     if (passed) {
-      // Erst hochsteigen, wenn das aktuelle Niveau sicher sitzt (mind. 5 Karten
-      // dieses Niveaus in dieser Session richtig) — sonst wird der Stoff
-      // abgeschnitten, bevor er gelernt ist (Evidenz-Audit 18.10.2026).
-      if (entryLvl >= curLvl && curLvl < LEVELS.length - 1 && levelHits + 1 >= 5) {
-        patch({ maxLevel: LEVELS[curLvl + 1] })
-        setLevelHits(0)
-      } else if (entryLvl >= curLvl) {
-        setLevelHits(n => n + 1)
+      setLevelErrors(0)
+      if (entryLvl >= curLvl && curLvl < LEVELS.length - 1) {
+        const lvlName = LEVELS[curLvl]
+        const imNiveau = ALL_WORDS.filter(en => en.level === lvlName && isVisible(en, settings))
+        const gefestigt = imNiveau.filter(en => {
+          const c = cards[cardId(en.id, 'rec', 'wort')]
+          return !!c && c.interval >= 21
+        }).length
+        const quote = imNiveau.length ? gefestigt / imNiveau.length : 0
+        if (imNiveau.length >= 20 && quote >= 0.8) {
+          patch({ maxLevel: LEVELS[curLvl + 1] })
+          setLevelHits(0)
+          setLevelErrors(0)
+        } else {
+          setLevelHits(n => n + 1)
+        }
       }
-    } else {
-      if (curLvl > 0) patch({ maxLevel: LEVELS[curLvl - 1] })
+    } else if (entryLvl >= curLvl) {
+      // Fehler zählen nur auf dem aktuellen Niveau; drei in Folge -> eine Stufe zurück.
+      setLevelErrors(n => {
+        const k = n + 1
+        if (k >= 3 && curLvl > 0) { patch({ maxLevel: LEVELS[curLvl - 1] }); return 0 }
+        return k
+      })
     }
     setLastLevel(entryLvl)
 
@@ -743,9 +799,53 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
         </div>
         <span style={{ flex: 1 }} />
         {settings.timer && <span>{String(Math.floor(elapsed / 60)).padStart(2, '0')}:{String(elapsed % 60).padStart(2, '0')}</span>}
+        <button className={`icon-btn ${hoeren ? 'on' : ''}`} title="Hörmodus: Wort hören, Bedeutung wählen"
+          onClick={() => { setHoeren(v => !v); setRevealed(false); setTyped('') }}>🎧</button>
         <button className="icon-btn" onClick={onExit} title="Beenden">✕</button>
       </div>
 
+      {hoeren ? (
+        <div className="stage">
+          <div className="flashcard">
+            <div className="front-hint">Hören · {e.level}</div>
+            <div style={{ textAlign: 'center', margin: '18px 0' }}>
+              <button className="btn btn-primary" style={{ fontSize: 20, padding: '14px 28px' }}
+                onClick={() => speak(e.de, true)}>🔊 Nochmals hören</button>
+              <p className="subtle" style={{ marginTop: 10, fontSize: 13 }}>
+                Was bedeutet dieses Wort?
+              </p>
+            </div>
+            <div style={{ display: 'grid', gap: 8 }}>
+              {hoerWahl.map(w => {
+                const richtig = w === (e.tr[settings.native] || e.de)
+                const gewaehlt = hoerPick === w
+                const stil = !hoerPick ? 'btn-secondary'
+                  : richtig ? 'btn-primary'
+                  : gewaehlt ? 'btn-danger' : 'btn-secondary'
+                return (
+                  <button key={w} className={`btn ${stil} btn-block`}
+                    style={{ opacity: hoerPick && !richtig && !gewaehlt ? 0.45 : 1 }}
+                    onClick={() => hoerAntwort(w)}>
+                    {w}{hoerPick && richtig ? ' ✓' : ''}{gewaehlt && !richtig ? ' ✗' : ''}
+                  </button>
+                )
+              })}
+            </div>
+            {hoerPick && (
+              <>
+                <div className="divider" />
+                <div className="front-word" style={{ fontSize: 26 }}>{e.de}</div>
+                <div className="subtle" style={{ marginTop: 4 }}>{e.meaning}</div>
+                <div className="meaning" style={{ marginTop: 8 }}>{e.sentenceFull}</div>
+                <button className="btn btn-primary btn-block" style={{ marginTop: 14 }}
+                  onClick={() => grade(hoerPick === (e.tr[settings.native] || e.de) ? 'right' : 'wrong')}>
+                  Weiter
+                </button>
+              </>
+            )}
+          </div>
+        </div>
+      ) : (
       <div className="stage">
         <div className="flashcard">
           <div className="front-hint">{kindLabel} · {dirLabel} · {e.level}</div>
@@ -840,8 +940,9 @@ function Trainer({ settings, patch, cards, setCards, daily, setDaily, onExit }: 
           )}
         </div>
       </div>
+      )}
 
-      {revealed && (
+      {revealed && !hoeren && (
         settings.evalMode === 'einfach' ? (
           <div className="gradebar g2">
             <button className="grade g-again" onClick={() => grade('wrong')}>Falsch</button>
@@ -1124,6 +1225,113 @@ function shuffle<T>(a: T[]): T[] {
 }
 
 /* ============================ Stats ============================ */
+
+
+/* ======================= Prüfungsmodus =======================
+   Renato 24.10.2026: fester Satz Karten ohne Hilfen. Keine Satzkarten,
+   kein Vorlesen, keine Hinweise, keine Fehlerkartei — danach eine
+   Auswertung, die zeigt, wo man steht. Die Karten selbst werden NICHT
+   bewertet (kein SRS-Eingriff): Eine Prüfung soll den Stand messen,
+   nicht das Lernintervall verändern. */
+function Exam({ settings, onBack }: { settings: Settings; onBack: () => void }) {
+  const size = Math.max(5, Math.min(50, settings.examSize ?? 20))
+  const levelNow = settings.maxLevel ?? 'A1'
+  const [fragen, setFragen] = useState<{ entry: Entry; optionen: string[] }[]>([])
+  const [pos, setPos] = useState(0)
+  const [antworten, setAntworten] = useState<{ richtig: boolean; de: string }[]>([])
+  const [gewaehlt, setGewaehlt] = useState<string | null>(null)
+  const [fertig, setFertig] = useState(false)
+
+  useEffect(() => {
+    const pool = ALL_WORDS.filter(e => isVisible(e, settings) &&
+      levelIndex(e.level) <= levelIndex(levelNow) && e.level === levelNow)
+    const auswahl = shuffle([...(pool.length >= size ? pool : ALL_WORDS.filter(e => isVisible(e, settings)))]).slice(0, size)
+    const gebaut = auswahl.map(e => {
+      const richtig = e.tr[settings.native] || e.de
+      const falsch: string[] = []
+      for (let i = 0; i < 60 && falsch.length < 3; i++) {
+        const k = auswahl[Math.floor(Math.random() * auswahl.length)]
+        const w = k.tr[settings.native] || k.de
+        if (w && w !== richtig && !falsch.includes(w)) falsch.push(w)
+      }
+      const optionen = shuffle([richtig, ...falsch])
+      return { entry: e, optionen }
+    })
+    setFragen(gebaut)
+  }, [])
+
+  if (!fragen.length) return <div className="container"><div className="card">Keine Wörter für eine Prüfung verfügbar.</div></div>
+
+  if (fertig) {
+    const richtig = antworten.filter(a => a.richtig).length
+    const quote = Math.round((richtig / antworten.length) * 100)
+    const falschListe = antworten.filter(a => !a.richtig)
+    return (
+      <div className="container">
+        <div className="card">
+          <h2>Prüfung abgeschlossen</h2>
+          <div style={{ fontSize: 44, fontWeight: 700, margin: '10px 0' }}>{richtig} / {antworten.length}</div>
+          <p className="subtle">Das sind {quote} Prozent richtig.</p>
+          <p className="subtle" style={{ fontSize: 13 }}>
+            {quote >= 90 ? 'Sehr sicher. Du kannst eine Stufe weitergehen.'
+              : quote >= 70 ? 'Solide. Die Fehler liste ich unten auf.'
+              : 'Noch nicht gefestigt — diese Wörter zuerst wiederholen.'}
+          </p>
+          {falschListe.length > 0 && (
+            <>
+              <div className="divider" />
+              <h3 style={{ fontSize: 16, marginBottom: 8 }}>Diese Wörter waren falsch</h3>
+              <div style={{ display: 'grid', gap: 6 }}>
+                {falschListe.map((a, i) => (
+                  <div key={i} className="subtle" style={{ fontSize: 14 }}>✗ {a.de}</div>
+                ))}
+              </div>
+            </>
+          )}
+          <button className="btn btn-primary btn-block" style={{ marginTop: 16 }} onClick={onBack}>Zurück</button>
+        </div>
+      </div>
+    )
+  }
+
+  const f = fragen[pos]
+  const weiter = (wahl: string) => {
+    if (gewaehlt) return
+    setGewaehlt(wahl)
+    const richtig = wahl === (f.entry.tr[settings.native] || f.entry.de)
+    const neu = [...antworten, { richtig, de: f.entry.de }]
+    setAntworten(neu)
+    setTimeout(() => {
+      setGewaehlt(null)
+      if (pos + 1 >= fragen.length) setFertig(true)
+      else setPos(pos + 1)
+    }, 450)
+  }
+
+  return (
+    <div className="container">
+      <div className="card">
+        <div className="front-hint">Prüfung · Frage {pos + 1} von {fragen.length} · {f.entry.level}</div>
+        <div className="front-word" style={{ marginTop: 12 }}>{f.entry.de}</div>
+        <p className="subtle" style={{ marginTop: 6 }}>Was bedeutet das?</p>
+        <div style={{ display: 'grid', gap: 8, marginTop: 12 }}>
+          {f.optionen.map(o => {
+            const istRichtig = o === (f.entry.tr[settings.native] || f.entry.de)
+            const stil = !gewaehlt ? 'btn-secondary' : istRichtig ? 'btn-primary' : gewaehlt === o ? 'btn-danger' : 'btn-secondary'
+            return (
+              <button key={o} className={`btn ${stil} btn-block`}
+                style={{ opacity: gewaehlt && !istRichtig && gewaehlt !== o ? 0.45 : 1 }}
+                onClick={() => weiter(o)}>{o}</button>
+            )
+          })}
+        </div>
+        <button className="btn btn-secondary btn-block" style={{ marginTop: 14, fontSize: 13 }} onClick={onBack}>
+          Prüfung abbrechen
+        </button>
+      </div>
+    </div>
+  )
+}
 
 function Stats({ cards, settings, onBack }: {
   cards: Record<string, CardState>; settings: Settings; onBack: () => void

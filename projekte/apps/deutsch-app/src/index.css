@@ -268,3 +268,5 @@ h3 { font-size: 16px; font-weight: 600; margin: 22px 0 8px; }
 .anki-wrong { color: var(--danger); }
 .anki-missing { color: #6b7280; background: rgba(107,114,128,.14); border-radius: 3px; }
 .anki-extra { color: var(--danger); }
+.btn-danger { background: var(--warn); color: #1a0b06; }
+.btn-danger:hover { filter: brightness(1.08); }

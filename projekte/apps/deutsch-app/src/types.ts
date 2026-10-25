@@ -56,6 +56,12 @@ export interface Settings {
   maxLevel: CEFR             // aktuelles Niveau auf der Leiter (A1 -> A2 -> B1 ...)
   audioMode: 'manual' | 'afterInput' | 'afterReveal'  // Sprachausgabe: nur Knopf / nach Eingabe / nach Loesung
   autoplay: boolean          // Kompatibilitaet mit alten Einstellungen
+  // Hoermodus (Renato 24.10.2026): Wort wird nur gesprochen, Bedeutung waehlen.
+  // 'aus' = normale Karten, 'an' = jede Karte beginnt mit Hoeren.
+  listen?: 'aus' | 'an'
+  // Pruefungsmodus (Renato 24.10.2026): fester Satz Karten ohne Hilfen,
+  // keine Hinweise, keine Satzkarten, kein Vorlesen — danach Auswertung.
+  examSize?: number
 }
 
 export interface CardState {
